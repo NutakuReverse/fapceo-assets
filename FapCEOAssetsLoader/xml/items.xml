@@ -1,0 +1,76 @@
+<items>
+<chest id="c0" level="0" rewards="3" chest="wood"/>
+<chest id="c1" level="2" rewards="5" chest="bronze"/>
+<chest id="c2" level="4" rewards="7" chest="silver"/>
+<chest id="c3" level="9" rewards="9" chest="yellow"/>
+<chest id="c4" level="14" rewards="12" chest="diamond"/>
+<item id="t0" type="Consumable" effect="TimeTravel" duration="3600"/>
+<item id="t1" type="Consumable" effect="TimeTravel" duration="14400"/>
+<item id="t2" type="Consumable" effect="TimeTravel" duration="86400"/>
+<item id="t3" type="Consumable" effect="TimeTravel" duration="432000"/>
+<item id="b0" type="Consumable" effect="Booster"/>
+<item id="sb0" type="Consumable" effect="StockBooster"/>
+
+<item id="i1" type="Collectable" sellPrice = "10" buyPrice = "40" scrapSellId="scrap0" scrapBuyId="scrap0"/>
+<item id="i2" type="Collectable"/>
+<item id="i3" type="Collectable"/>
+<item id="i4" type="Collectable"/>
+<item id="i5" type="Collectable"/>
+<item id="i6" type="Collectable"/>
+<item id="i7" type="Collectable"/>
+<item id="i8" type="Collectable"/>
+<item id="i9" type="Collectable"/>
+<item id="i10" type="Collectable"/>
+<item id="i11" type="Collectable"/>
+<item id="i12" type="Collectable"/>
+<item id="i13" type="Collectable"/>
+<item id="i14" type="Collectable"/>
+<item id="i15" type="Collectable"/>
+<item id="i16" type="Collectable"/>
+<item id="i17" type="Collectable"/>
+<item id="i18" type="Collectable"/>
+<item id="i19" type="Collectable"/>
+<item id="i20" type="Collectable"/>
+
+<item id="si00" type="CEO"/>
+<item id="si01" type="CEO"/>
+<item id="si02" type="CEO"/>
+<item id="si03" type="CEO"/>
+<item id="si04" type="CEO"/>
+<item id="si05" type="CEO"/>
+<item id="si06" type="CEO"/>
+<item id="si07" type="CEO"/>
+
+<item id="i00_h" type="Event"/>
+<item id="i00_bf" type="Event"/>
+<item id="i00_cm" type="Event"/>
+<item id="i00_tw" type="Event"/>
+<item id="i00_amb" type="Event"/>
+
+<item id="i00_24i" type="Event"/>
+<item id="i10_24i" type="Event"/>
+<item id="i20_24i" type="Event"/>
+<item id="i30_24i" type="Event"/>
+<item id="i40_24i" type="Event"/>
+<item id="i50_24i" type="Event"/>
+
+<item id="bck0" type="Background" count="0"/>
+<item id="bck1" type="Background" count="1"/>
+<item id="bck2" type="Background" count="2"/>
+<item id="bck3" type="Background" count="3"/>
+<item id="bck4" type="Background" count="4"/>
+<item id="bck5" type="Background" count="5"/>
+<item id="bck6" type="Background" count="6"/>
+<item id="bck7" type="Background" count="7"/>
+<item id="bck8" type="Background" count="8"/>
+<item id="bck9" type="Background" count="9"/>
+<item id="bck10" type="Background" count="10" />
+<item id="bck11" type="Background" count="11" />
+<item id="bck12" type="Background" count="12" />
+<item id="bck15" type="Background" count="15" />
+<item id="bck14" type="Background" count="14" />
+<item id="bck13" type="Background" count="13" />
+
+<item id="scrap0" type="Scrap"/>
+<item id="scrap1" type="Scrap"/>
+</items>

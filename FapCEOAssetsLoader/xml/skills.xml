@@ -1,0 +1,88 @@
+<skills>
+<skill id="clicker1" type="ClickPower" category="Clicker">
+<value>2</value>
+<value>3</value>
+<value>4</value>
+<value>5</value>
+<value>6</value>
+</skill>
+<skill id="clicker2" type="CoinTime" category="Clicker" dependancy="clicker1">
+<value>10</value>
+<value>20</value>
+<value>30</value>
+<value>40</value>
+<value>50</value>
+<valueText>+10s</valueText>
+<valueText>+20s</valueText>
+<valueText>+30s</valueText>
+<valueText>+40s</valueText>
+<valueText>+50s</valueText>
+</skill>
+<skill id="clicker3" type="MultiCoin" category="Clicker" dependancy="clicker2">
+<value>1</value>
+</skill>
+<skill id="idle0" type="BoostTimeMultiplier" category="Idle">
+<value>2</value>
+<value>3</value>
+<value>4</value>
+<value>5</value>
+<value>6</value>
+</skill>
+<skill id="idle1" type="OfflineRevenue" category="Idle" dependancy="idle0">
+<value>2</value>
+<value>3</value>
+<value>4</value>
+<value>5</value>
+<value>6</value>
+</skill>
+<skill id="clicker0" type="OneCoin" category="Idle" dependancy="idle1">
+<value>1</value>
+</skill>
+
+
+<skill id="event0" type="KeyCap" category="Item" itemId="si00" perLevel="25"/>
+<skill id="event1" type="KeyCap" category="Item" itemId="si01" perLevel="25"/>
+<skill id="event2" type="KeyCap" category="Item" itemId="si02" perLevel="25"/>
+<skill id="event3" type="KeyCap" category="Item" itemId="si03" perLevel="25"/>
+
+<skill id="event4" type="AllProfits" category="Item" itemId="si06" perLevel="1"/>
+<skill id="event5" type="AllProfits" category="Item" itemId="si07" perLevel="1"/>
+<skill id="event6" type="AllProfits" category="Item" itemId="si04" perLevel="1"/>
+<skill id="event7" type="AllProfits" category="Item" itemId="si05" perLevel="1"/>
+
+<skill id="event8" type="PrestigePowerMultiplier" category="Item" itemId="si04" perLevel="1"/>
+<skill id="event9" type="PrestigePowerMultiplier" category="Item" itemId="si05" perLevel="1"/>
+<skill id="event10" type="PrestigePowerMultiplier" category="Item" itemId="si03" perLevel="1"/>
+<skill id="event11" type="PrestigePowerMultiplier" category="Item" itemId="si02" perLevel="1"/>
+
+<skill id="event12" type="AllSharesMultiplier" category="Item" itemId="si06" perLevel="1"/>
+<skill id="event13" type="AllSharesMultiplier" category="Item" itemId="si07" perLevel="1"/>
+<skill id="event14" type="AllSharesMultiplier" category="Item" itemId="si00" perLevel="1"/>
+<skill id="event15" type="AllSharesMultiplier" category="Item" itemId="si01" perLevel="1"/>
+
+<!-- Level Cost Reduction --><skill id="Toys0" type="LevelCost" category="Decoration" base="1" perLevel="1"> </skill>
+<!-- Level Cost Reduction --><skill id="Toys1" type="LevelCost" category="Decoration" base="0.01" perLevel="0.01"> </skill>
+<!-- Key Chance Increase  --><skill id="Sculpture" type="KeyChance" category="Decoration" base="1" perLevel="1"> </skill>
+<!-- Increase Coin Freq   --><skill id="Plant" type="CoinFrequency" category="Decoration" base="1" perLevel="1"> </skill>
+<!-- Shares Multiplier    --><skill id="Neon" type="ShareMultiplier" category="Decoration" base="0.2" perLevel="0.2"> </skill>
+<!-- Prestige Power       --><skill id="Lamp" type="PrestigePower" category="Decoration" base="100" perLevel="25"> </skill>
+<!-- Offline Revenue      --><skill id="Furniture" type="OfflineRevenueDeco" category="Decoration" base="0.25" perLevel="0.25"> </skill>
+<!-- Reply Timer Decrease --><skill id="Trophy" type="ReplyTimer" category="Decoration" base="30" perLevel="30"> </skill>
+<!-- Clicking Power       --><skill id="Sport" type="ClickPower" category="Decoration" base="1.5" perLevel="0.25"> </skill>
+<!-- Decrease Unlock Cost --><skill id="Music" type="UnlocksCost" category="Decoration" base="1" perLevel="1"> </skill>
+<!-- Decrease Employe COST--><skill id="Couch" type="EmployeeCost" category="Decoration" base="2" perLevel="2"> </skill>
+<!-- Increase Boost Time  --><skill id="Drink" type="BoostTime" category="Decoration" base="60" perLevel="60"> </skill>
+<!-- Increase Company X   --><skill id="Pot" type="CompanyProfit" category="Decoration" base="0.2" perLevel="0.2"> </skill>
+<!-- Company Start Money  --><skill id="Painting" type="CompanyStartMoney" category="Decoration" base="50" perLevel="50"> </skill>
+
+<!-- Small  boob   --><skill id="Carpet" type="BoobSmall" category="Decoration" base="2" perLevel="0.25"> </skill>
+<!-- Medium boob   --><skill id="Magazine" type="BoobMedium" category="Decoration" base="2" perLevel="0.25"> </skill>
+<!-- Large  boob   --><skill id="Chandelier" type="BoobLarge" category="Decoration" base="2" perLevel="0.25"> </skill>
+<!-- Small  Height --><skill id="Webcam" type="HeightSmall" category="Decoration" base="2" perLevel="0.25"> </skill>
+<!-- Medium Height --><skill id="Wallpaper" type="HeightMedium" category="Decoration" base="2" perLevel="0.25"> </skill>
+<!-- Large  Height --><skill id="FapSupplies" type="HeightLarge" category="Decoration" base="2" perLevel="0.25"> </skill>
+<!-- Small  Foot   --><skill id="Lingerie" type="FootSmall" category="Decoration" base="2" perLevel="0.25"> </skill>
+<!-- Medium Foot   --><skill id="Bin" type="FootMedium" category="Decoration" base="2" perLevel="0.25"> </skill>
+<!-- Large  Foot   --><skill id="Luggage" type="FootLarge" category="Decoration" base="2" perLevel="0.25"> </skill>
+<!-- Shares Multiplier  <skill id="Picture" type="ThreadMultiplier" category="Decoration" base="1" perLevel="0.5"> </skill>  -->
+</skills>

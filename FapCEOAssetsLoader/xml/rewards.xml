@@ -1,0 +1,11 @@
+<events>
+	<conditionalrewards id="reward_amb2019" message="reward_amb2019" translate="true" condition="Level" param="1">
+         <reward type="Item" param="i00_amb" count="1"/>
+         <reward type="Thread" param="t0_5" count="1"/>
+         <reward type="Skin" param="4,2" count="1"/>
+	</conditionalrewards>
+    
+	 <motd platform="pc" imageId="motd/motd_22" text="motd_22" translated="true" version="921" id="motd_22"/> 
+	 <motd platform="webgl" imageId="motd/motd_22" text="motd_22" translated="true" version="921" id="motd_22"/> 
+	 <motd platform="android" imageId="motd/motd_22" text="motd_22" translated="true" version="921" id="motd_22"/> 
+</events>

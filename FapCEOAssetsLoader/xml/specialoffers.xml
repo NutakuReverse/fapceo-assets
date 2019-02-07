@@ -1,0 +1,290 @@
+<SpecialOffers>
+
+<!-- This is the starter pack -->
+    <specialoffer Id="off_0" PriceBeforeSale="2500" Price="300" Type="StarterPack" ImagePath="offers/starterpack" ButtonPath="offers/deal_1">
+        <reward id="or00" type="Rubies" count="50"/>
+        <reward id="or01" type="Multiplier" count="2"/>
+        <reward id="or02" type="Item" param="t0" count="3"/>
+        <reward id="or03" type="Keys" count="15"/>
+    </specialoffer>
+
+
+<!-- These are special packs -->
+    <specialoffer Id="off_1" PriceBeforeSale="4000" Price="500" Type="SpecialOffer" StartTime="1530785280" EndTime="1566429312" ImagePath="offers/specialpack" ButtonPath="offers/deal_1">
+        <reward id="or00" type="Rubies" count="50"/>
+        <reward id="or01" type="Multiplier" count="2"/>
+        <reward id="or02" type="Item" param="t1" count="2"/>
+        <reward id="or03" type="Keys" count="30"/>
+    </specialoffer>
+
+    <specialoffer Id="off_2" PriceBeforeSale="5000" Price="1000" Type="SpecialOffer" StartTime="1530785280" EndTime="1566429312" ImagePath="offers/specialpack" ButtonPath="offers/deal_1">
+        <reward id="or00" type="Rubies" count="100"/>
+        <reward id="or01" type="Multiplier" count="3"/>
+        <reward id="or02" type="Item" param="t1" count="4"/>
+        <reward id="or03" type="Keys" count="50"/>
+    </specialoffer>
+
+    <specialoffer Id="off_3" PriceBeforeSale="8000" Price="2000" Type="SpecialOffer" StartTime="1530785280" EndTime="1566429312" ImagePath="offers/specialpack" ButtonPath="offers/deal_2">
+        <reward id="or00" type="Rubies" count="200"/>
+        <reward id="or01" type="Multiplier" count="5"/>
+        <reward id="or02" type="Item" param="t2" count="2"/>
+        <reward id="or03" type="Keys" count="75"/>
+    </specialoffer>
+
+    <specialoffer Id="off_4" PriceBeforeSale="12500" Price="5000" Type="SpecialOffer" StartTime="1530785280" EndTime="1566429312" ImagePath="offers/specialpack" ButtonPath="offers/deal_2">
+        <reward id="or00" type="Rubies" count="500"/>
+        <reward id="or01" type="Multiplier" count="10"/>
+        <reward id="or02" type="Item" param="t2" count="5"/>
+        <reward id="or03" type="Keys" count="100"/>
+    </specialoffer>
+
+    <specialoffer Id="off_5" PriceBeforeSale="25000" Price="10000" Type="SpecialOffer" StartTime="1530785280" EndTime="1566429312" ImagePath="offers/specialpack" ButtonPath="offers/deal_3">
+        <reward id="or00" type="Rubies" count="1000"/>
+        <reward id="or01" type="Multiplier" count="25"/>
+        <reward id="or02" type="Item" param="t3" count="5"/>
+        <reward id="or03" type="Keys" count="200"/>
+    </specialoffer>
+
+    <specialoffer Id="off_6" PriceBeforeSale="50000" Price="20000" Type="SpecialOffer" StartTime="1530785280" EndTime="1566429312" ImagePath="offers/specialpack" ButtonPath="offers/deal_3">
+        <reward id="or00" type="Rubies" count="2500"/>
+        <reward id="or01" type="Multiplier" count="50"/>
+        <reward id="or02" type="Item" param="t2" count="30"/>
+        <reward id="or03" type="Keys" count="400"/>
+    </specialoffer>
+	
+	<specialoffer Id="off_7" PriceBeforeSale="62500" Price="20000" Type="SpecialOffer" StartTime="1530785280" EndTime="1566429312" ImagePath="offers/specialpack" ButtonPath="offers/deal_3" Day="">
+		<reward id="or00" type="Rubies"  count="3250"/>
+		<reward id="or01" type="Multiplier"  count="60"/>
+		<reward id="or02" type="Item" param="t3" count="15"/>
+		<reward id="or03" type="Keys"  count="500"/>
+	</specialoffer>
+	
+	<specialoffer Id="off_8" PriceBeforeSale="75000" Price="20000" Type="SpecialOffer" StartTime="1530785280" EndTime="1566429312" ImagePath="offers/specialpack" ButtonPath="offers/deal_3" Day="">
+		<reward id="or00" type="Rubies"  count="3750"/>
+		<reward id="or01" type="Multiplier"  count="75"/>
+		<reward id="or02" type="Item" param="t3" count="30"/>
+		<reward id="or03" type="Keys"  count="750"/>
+	</specialoffer>
+	
+	<specialoffer Id="off_9" PriceBeforeSale="100000" Price="30000" Type="SpecialOffer" StartTime="1530785280" EndTime="1566429312" ImagePath="offers/specialpack" ButtonPath="offers/deal_3" Day="">
+		<reward id="or00" type="Rubies"  count="5000"/>
+		<reward id="or01" type="Multiplier"  count="100"/>
+		<reward id="or02" type="Item" param="t3" count="50"/>
+		<reward id="or03" type="Keys"  count="1000"/>
+	</specialoffer>
+
+<!-- 1 million players 
+<specialoffer Id="off_1mil" PriceBeforeSale="7500" Price="1000" Type="ConditionalOffer"   ImagePath="offers/specialpack2" ButtonPath="offers/1million_btn">
+<conditions>
+<condition type="CompanyLevel" param="1" term="Greater"/>
+
+</conditions>
+<reward id="or00" type="Rubies"  count="250"/>
+<reward id="or01" type="Multiplier"  count="3"/>
+<reward id="or02" type="Item" param="t1" count="8"/>
+<reward id="or03" type="Keys" count="50"/>
+</specialoffer>  -->
+	
+
+<!-- Company = 8 -->
+<specialoffer Id="lvl_8" PriceBeforeSale="12500" Price="5000" Type="ConditionalOffer"   ImagePath="offers/specialpack2" ButtonPath="offers/conditionalpack_btn2">
+<conditions>
+<condition type="CompanyLevel" param="8" term="Equals"/>
+
+</conditions>
+<reward id="or00" type="Rubies"  count="500"/>
+<reward id="or01" type="Multiplier"  count="10"/>
+<reward id="or02" type="Item" param="t2" count="5"/>
+<reward id="or03" type="Keys"  count="100"/>
+</specialoffer>
+<!-- Company = 9 -->
+<specialoffer Id="lvl_9" PriceBeforeSale="4000" Price="5000" Type="ConditionalOffer"   ImagePath="offers/specialpack2" ButtonPath="offers/conditionalpack_btn2">
+<conditions>
+<condition type="CompanyLevel" param="9" term="Equals"/>
+
+</conditions>
+<reward id="or00" type="Rubies"  count="750"/>
+<reward id="or01" type="Multiplier"  count="25"/>
+<reward id="or02" type="Item" param="t2" count="4"/>
+<reward id="or03" type="Keys"  count="150"/>
+</specialoffer>
+<!-- Company bigger 4, Offer 5-->
+<specialoffer Id="lvl_4" PriceBeforeSale="25000" Price="10000" Type="ConditionalOffer"   ImagePath="offers/specialpack2" ButtonPath="offers/conditionalpack_btn2">
+<conditions>
+<condition type="CompanyLevel" param="4" term="Greater"/>
+<condition type="BoughtOffers" param="off_5" term="Greater"/>
+</conditions>
+<reward id="or00" type="Rubies"  count="1000"/>
+<reward id="or01" type="Multiplier"  count="25"/>
+<reward id="or02" type="Item" param="t3" count="5"/>
+<reward id="or03" type="Keys"  count="200"/>
+</specialoffer>
+<!-- Company bigger 3, Offer 4-->
+<specialoffer Id="lvl_3" PriceBeforeSale="12500" Price="5000" Type="ConditionalOffer"   ImagePath="offers/specialpack2" ButtonPath="offers/conditionalpack_btn2">
+<conditions>
+<condition type="CompanyLevel" param="3" term="Greater"/>
+<condition type="BoughtOffers" param="off_4" term="Greater"/>
+</conditions>
+<reward id="or00" type="Rubies"  count="500"/>
+<reward id="or01" type="Multiplier"  count="10"/>
+<reward id="or02" type="Item" param="t2" count="5"/>
+<reward id="or03" type="Keys"  count="100"/>
+</specialoffer>
+<!-- Company bigger 2, Offer 3-->
+<specialoffer Id="lvl_2" PriceBeforeSale="8000" Price="2000" Type="ConditionalOffer"   ImagePath="offers/specialpack2" ButtonPath="offers/conditionalpack_btn2">
+<conditions>
+<condition type="CompanyLevel" param="2" term="Greater"/>
+<condition type="BoughtOffers" param="off_3" term="Greater"/>
+</conditions>
+<reward id="or00" type="Rubies"  count="200"/>
+<reward id="or01" type="Multiplier"  count="5"/>
+<reward id="or02" type="Item" param="t2" count="2"/>
+<reward id="or03" type="Keys"  count="75"/>
+</specialoffer>
+<!-- Daily Offers -->
+<!-- Sunday -->
+<specialoffer Id="daily0_0" PriceBeforeSale="1000" Price="0" Type="Daily"   ImagePath="offers/specialpack2" ButtonPath="offers/daily_deal0_btn" Day="0">
+<reward id="or00" type="Rubies"  count="10"/>
+<reward id="or01" type="Keys"  count="5"/>
+<reward id="or02" type="Item" param="t1" count="1"/>
+</specialoffer>
+<specialoffer Id="daily0_1" PriceBeforeSale="10000" Price="5000" Type="Daily"   ImagePath="offers/specialpack2" ButtonPath="offers/daily_deal2_btn" Day="0">
+<reward id="or00" type="Rubies"  count="500"/>
+<reward id="or01" type="Keys"  count="100"/>
+<reward id="or02" type="Item" param="t2" count="5"/>
+</specialoffer>
+<specialoffer Id="daily0_2" PriceBeforeSale="10000" Price="5000" Type="Daily"   ImagePath="offers/specialpack2" ButtonPath="offers/daily_deal2_btn" Day="0">
+<reward id="or00" type="Rubies"  count="750"/>
+<reward id="or01" type="Multiplier"  count="10"/>
+<reward id="or02" type="Keys"  count="100"/>
+</specialoffer>
+<!-- Monday -->
+<specialoffer Id="daily1_0" PriceBeforeSale="500" Price="300" Type="Daily"   ImagePath="offers/specialpack2" ButtonPath="offers/daily_deal0_btn" Day="1">
+<reward id="or00" type="Rubies"  count="50"/>
+<reward id="or01" type="Keys"  count="15"/>
+<reward id="or02" type="Item" param="t0" count="3"/>
+</specialoffer>
+<specialoffer Id="daily1_1" PriceBeforeSale="1000" Price="500" Type="Daily"   ImagePath="offers/specialpack2" ButtonPath="offers/daily_deal0_btn" Day="1">
+<reward id="or00" type="Rubies"  count="50"/>
+<reward id="or01" type="Multiplier"  count="2"/>
+<reward id="or02" type="Keys"  count="30"/>
+</specialoffer>
+<specialoffer Id="daily1_2" PriceBeforeSale="8000" Price="2000" Type="Daily"   ImagePath="offers/specialpack2" ButtonPath="offers/daily_deal1_btn" Day="1">
+<reward id="or00" type="Rubies"  count="250"/>
+<reward id="or01" type="Multiplier"  count="5"/>
+<reward id="or02" type="Item" param="t2" count="3"/>
+</specialoffer>
+<!-- Tuesday -->
+<specialoffer Id="daily2_0" PriceBeforeSale="50000" Price="2000" Type="Daily"   ImagePath="offers/specialpack2" ButtonPath="offers/daily_deal1_btn" Day="2">
+<reward id="or00" type="Rubies"  count="250"/>
+<reward id="or01" type="Multiplier"  count="5"/>
+<reward id="or02" type="Item" param="t2" count="3"/>
+</specialoffer>
+<specialoffer Id="daily2_1" PriceBeforeSale="50000" Price="5000" Type="Daily"   ImagePath="offers/specialpack2" ButtonPath="offers/daily_deal2_btn" Day="2">
+<reward id="or00" type="Rubies"  count="500"/>
+<reward id="or01" type="Keys"  count="100"/>
+<reward id="or02" type="Item" param="t2" count="5"/>
+</specialoffer>
+<specialoffer Id="daily2_2" PriceBeforeSale="50000" Price="10000" Type="Daily"   ImagePath="offers/specialpack2" ButtonPath="offers/daily_deal2_btn" Day="2">
+<reward id="or00" type="Rubies"  count="1000"/>
+<reward id="or01" type="Keys"  count="200"/>
+<reward id="or02" type="Multiplier" param="t2" count="30"/>
+</specialoffer>
+<!-- Wednesday -->
+<specialoffer Id="daily3_0" PriceBeforeSale="1000" Price="500" Type="Daily"   ImagePath="offers/specialpack2" ButtonPath="offers/daily_deal0_btn" Day="3">
+<reward id="or00" type="Rubies"  count="50"/>
+<reward id="or01" type="Multiplier"  count="2"/>
+<reward id="or02" type="Keys"  count="30"/>
+</specialoffer>
+<specialoffer Id="daily3_1" PriceBeforeSale="4000" Price="1000" Type="Daily"   ImagePath="offers/specialpack2" ButtonPath="offers/daily_deal1_btn" Day="3">
+<reward id="or00" type="Rubies"  count="100"/>
+<reward id="or01" type="Keys"  count="50"/>
+<reward id="or02" type="Item" param="t1" count="4"/>
+</specialoffer>
+<specialoffer Id="daily3_2" PriceBeforeSale="10000" Price="2000" Type="Daily"   ImagePath="offers/specialpack2" ButtonPath="offers/daily_deal1_btn" Day="3">
+<reward id="or00" type="Rubies"  count="250"/>
+<reward id="or01" type="Multiplier"  count="5"/>
+<reward id="or02" type="Item" param="t2" count="3"/>
+</specialoffer>
+<!-- Thursday -->
+<specialoffer Id="daily4_0" PriceBeforeSale="1000" Price="0" Type="Daily"   ImagePath="offers/specialpack2" ButtonPath="offers/daily_deal0_btn" Day="4">
+<reward id="or00" type="Rubies"  count="10"/>
+<reward id="or01" type="Keys"  count="5"/>
+<reward id="or02" type="Item" param="t0" count="2"/>
+</specialoffer>
+<specialoffer Id="daily4_1" PriceBeforeSale="50000" Price="10000" Type="Daily"   ImagePath="offers/specialpack2" ButtonPath="offers/daily_deal2_btn" Day="4">
+<reward id="or00" type="Rubies"  count="1000"/>
+<reward id="or01" type="Keys"  count="200"/>
+<reward id="or02" type="Multiplier"  count="20"/>
+</specialoffer>
+<specialoffer Id="daily4_2" PriceBeforeSale="50000" Price="10000" Type="Daily"   ImagePath="offers/specialpack2" ButtonPath="offers/daily_deal2_btn" Day="4">
+<reward id="or00" type="Rubies"  count="1500"/>
+<reward id="or01" type="Keys"  count="300"/>
+<reward id="or02" type="Multiplier"  count="40"/>
+</specialoffer>
+<!-- Friday -->
+<specialoffer Id="daily5_0" PriceBeforeSale="50000" Price="2000" Type="Daily"   ImagePath="offers/specialpack2" ButtonPath="offers/daily_deal1_btn" Day="5">
+<reward id="or00" type="Rubies"  count="250"/>
+<reward id="or01" type="Multiplier"  count="5"/>
+<reward id="or02" type="Item" param="t2" count="3"/>
+</specialoffer>
+<specialoffer Id="daily5_1" PriceBeforeSale="50000" Price="5000" Type="Daily"   ImagePath="offers/specialpack2" ButtonPath="offers/daily_deal2_btn" Day="5">
+<reward id="or00" type="Rubies"  count="500"/>
+<reward id="or01" type="Keys"  count="100"/>
+<reward id="or02" type="Item" param="t2" count="5"/>
+</specialoffer>
+<specialoffer Id="daily5_2" PriceBeforeSale="50000" Price="10000" Type="Daily"   ImagePath="offers/specialpack2" ButtonPath="offers/daily_deal2_btn" Day="5">
+<reward id="or00" type="Rubies"  count="1000"/>
+<reward id="or01" type="Keys"  count="200"/>
+<reward id="or02" type="Multiplier" param="t2" count="30"/>
+</specialoffer>
+<!-- Saturday -->
+<specialoffer Id="daily6_0" PriceBeforeSale="50000" Price="1000" Type="Daily"   ImagePath="offers/specialpack2" ButtonPath="offers/daily_deal1_btn" Day="6">
+<reward id="or00" type="Rubies"  count="100"/>
+<reward id="or01" type="Keys"  count="50"/>
+<reward id="or02" type="Item" param="t1" count="4"/>
+</specialoffer>
+<specialoffer Id="daily6_1" PriceBeforeSale="50000" Price="2000" Type="Daily"   ImagePath="offers/specialpack2" ButtonPath="offers/daily_deal1_btn" Day="6">
+<reward id="or00" type="Rubies"  count="300"/>
+<reward id="or01" type="Multiplier"  count="7"/>
+<reward id="or02" type="Keys"  count="100"/>
+</specialoffer>
+<specialoffer Id="daily6_2" PriceBeforeSale="50000" Price="2000" Type="Daily"   ImagePath="offers/specialpack2" ButtonPath="offers/daily_deal1_btn" Day="6">
+<reward id="or00" type="Rubies"  count="250"/>
+<reward id="or01" type="Multiplier"  count="5"/>
+<reward id="or02" type="Keys" param="t2" count="75"/>
+</specialoffer>
+
+<!-- Pewdipie Event -->
+<specialoffer Id="pdp2018" PriceBeforeSale="10000" Price="2000" Type="ConditionalOffer" StartTime="1245868790" EndTime="1545868799"   ImagePath="offers/pewdipiepack" ButtonPath="offers/daily_deal1_btn">
+<conditions>
+<condition type="CompanyLevel" param="1000000" term="Greater"/>
+</conditions>
+<reward type="Skin" param="0,2special" count="1"/>
+<reward type="Thread" param="t0_3" count="1"/>
+<reward id="pdp00" type="Rubies"  count="500"/>
+<reward id="pdp01" type="Multiplier"  count="2"/>
+</specialoffer>
+
+<!-- Amber Event -->
+<specialoffer Id="amb2019" PriceBeforeSale="5000" Price="1000" Type="ConditionalOffer" StartTime="1245868790" EndTime="1550015940" ImagePath="offers/amber2mil" ButtonPath="offers/pewdiepack_btn">
+<conditions>
+<condition type="CompanyLevel" param="10000000" term="Greater"/>
+</conditions>
+<reward id="or00" type="Item" param="i00_amb" count="5"/>
+<reward id="or01" type="Rubies" count="315"/>
+<reward id="or02" type="Multiplier" count="5"/>
+</specialoffer>
+
+<!-- Gatcha week 1
+<specialoffer Id="lvl_21" PriceBeforeSale="8000" Price="2000" Type="ConditionalOffer"   ImagePath="offers/specialpack2" ButtonPath="offers/conditionalpack_btn">
+<conditions>
+<condition type="CompanyLevel" param="2" term="Greater"/>
+
+</conditions>
+<reward id="or00" type="Rubies"  count="200"/>
+<reward id="or01" type="Multiplier"  count="5"/>
+<reward id="or02" type="Item" param="i00_24i" count="25"/>
+<reward id="or03" type="Keys"  count="75"/>
+</specialoffer> -->
+</SpecialOffers>

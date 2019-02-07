@@ -1,0 +1,52 @@
+<langs>
+	<language id="en" name="English" ok="Ok"/>
+	<language id="de" name="Deutsche" ok="Fortsetzen"/>
+	<!-- <language id="jp" name="日本語" ok="開始"/> -->
+	<language id="fr" name="Français" ok="Continuer"/>
+	<language id="es" name="Español" ok="Continuar"/>
+
+   <smiley key="&gt;:"
+       path="em_devil"/>        
+          
+   <smiley key="&lt;3"
+       path="em_heart"/>        
+       
+	<smiley key=":A"
+       path="em_angel"/>
+       
+   <smiley key=":3"
+       path="em_ass"/>        
+       
+   <smiley key=":B"
+       path="em_buttplug"/>        
+
+   <smiley key=":E"
+       path="em_eggplant"/>                
+       
+   <smiley key=":D"
+       path="em_grin"/>        
+    
+   <smiley key="x)"
+       path="em_hearteyes"/>        
+       
+   <smiley key=":*"
+       path="em_kiss"/>        
+
+   <smiley key=":b"
+       path="em_tongue"/>        
+       
+   <smiley key=":P"
+       path="em_tongue"/>    
+       
+   <smiley key="8)"
+       path="em_meep"/>                    
+       
+   <smiley key=":R"
+       path="em_rabbits"/>                
+
+   <smiley key=";)"
+       path="em_wink"/>		
+		
+	
+				
+</langs>

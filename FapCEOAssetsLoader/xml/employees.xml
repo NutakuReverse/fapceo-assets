@@ -1,0 +1,1224 @@
+<employees ver="1.1">
+<employee id="0" cost="20" rps="1" base="1.13" max_level="5600" unlock_level="0" boob_size="2" foot_size="2" height="1" cm="170">
+<skins>
+<skin id="1" cost="300"/>
+<skin id="2special" cost="100000" background="special"/>
+</skins>
+<upgrades>
+<upgrade id="u0" level_required="5" amount="2"/>
+<upgrade id="u1" level_required="10" amount="2"/>
+<upgrade id="b0" level_required="15" type="Boost" amount="2"/>
+<upgrade id="u2" level_required="25" amount="2"/>
+<upgrade id="u3" level_required="50" amount="2"/>
+<upgrade id="u4" level_required="75" amount="3"/>
+<upgrade id="u5" level_required="100" amount="3"/>
+<upgrade id="b1" level_required="115" type="Boost" amount="4"/>
+<upgrade id="u6" level_required="125" amount="3"/>
+<upgrade id="u7" level_required="150" amount="5"/>
+<upgrade id="u8" level_required="175" amount="6"/>
+<upgrade id="u9" level_required="200" amount="8"/>
+<upgrade id="u10" level_required="225" amount="9"/>
+<upgrade id="b2" level_required="235" type="Boost" amount="6"/>
+<upgrade id="u11" level_required="250" amount="10"/>
+<upgrade id="u12" level_required="275" amount="10"/>
+<upgrade id="u13" level_required="300" amount="11"/>
+<upgrade id="u14" level_required="325" amount="12"/>
+<upgrade id="u15" level_required="350" amount="5"/>
+<upgrade id="u16" level_required="375" amount="12"/>
+<upgrade id="b3" level_required="385" type="Boost" amount="8"/>
+<upgrade id="u17" level_required="400" amount="15"/>
+<upgrade id="u18" level_required="425" amount="15"/>
+<upgrade id="u19" level_required="450" amount="12"/>
+<upgrade id="u20" level_required="500" amount="15"/>
+<upgrade id="u21" level_required="525" amount="15"/>
+<upgrade id="u22" level_required="575" amount="20"/>
+<upgrade id="u23" level_required="600" amount="15"/>
+<upgrade id="b4" level_required="615" type="Boost" amount="10"/>
+<upgrade id="u24" level_required="625" amount="20"/>
+<upgrade id="u25" level_required="650" amount="22"/>
+<upgrade id="u26" level_required="675" amount="20"/>
+<upgrade id="u27" level_required="725" amount="25"/>
+<upgrade id="u28" level_required="750" amount="20"/>
+<upgrade id="u29" level_required="800" amount="23"/>
+<upgrade id="u30" level_required="825" amount="25"/>
+<upgrade id="b5" level_required="850" type="Boost" amount="12"/>
+<upgrade id="u31" level_required="875" amount="25"/>
+<upgrade id="u32" level_required="925" amount="23"/>
+<upgrade id="u33" level_required="950" amount="25"/>
+<upgrade id="u34" level_required="1000" amount="27"/>
+<upgrade id="u35" level_required="1075" amount="25"/>
+<upgrade id="u36" level_required="1125" amount="30"/>
+<upgrade id="u37" level_required="1150" amount="35"/>
+<upgrade id="b6" level_required="1175" type="Boost" amount="14"/>
+<upgrade id="u38" level_required="1200" amount="30"/>
+<upgrade id="u39" level_required="1250" amount="32"/>
+<upgrade id="u40" level_required="1325" amount="35"/>
+<upgrade id="u41" level_required="1350" amount="35"/>
+<upgrade id="u42" level_required="1425" amount="37"/>
+<upgrade id="u43" level_required="1500" amount="35"/>
+<upgrade id="b7" level_required="1525" type="Boost" amount="16"/>
+<upgrade id="u44" level_required="1550" amount="40"/>
+<upgrade id="u45" level_required="1600" amount="40"/>
+<upgrade id="u46" level_required="1675" amount="43"/>
+<upgrade id="u47" level_required="1725" amount="45"/>
+<upgrade id="u48" level_required="1800" amount="43"/>
+<upgrade id="u49" level_required="1850" amount="45"/>
+<upgrade id="u50" level_required="1925" amount="45"/>
+<upgrade id="b8" level_required="1950" type="Boost" amount="18"/>
+<upgrade id="u51" level_required="2000" amount="45"/>
+<upgrade id="u52" level_required="2050" amount="50"/>
+<upgrade id="u53" level_required="2100" amount="45"/>
+<upgrade id="u54" level_required="2175" amount="50"/>
+<upgrade id="u55" level_required="2275" amount="50"/>
+<upgrade id="b9" level_required="2300" type="Boost" amount="20"/>
+<upgrade id="u56" level_required="2350" amount="50"/>
+<upgrade id="u57" level_required="2425" amount="55"/>
+<upgrade id="u58" level_required="2525" amount="60"/>
+<upgrade id="u59" level_required="2600" amount="65"/>
+<upgrade id="u60" level_required="2675" amount="70"/>
+<upgrade id="u61" level_required="2750" amount="75"/>
+<upgrade id="u62" level_required="2850" amount="80"/>
+<upgrade id="u63" level_required="2925" amount="85"/>
+<upgrade id="u64" level_required="3000" amount="90"/>
+<upgrade id="u65" level_required="3075" amount="95"/>
+<upgrade id="u66" level_required="3150" amount="100"/>
+<upgrade id="u67" level_required="3225" amount="105"/>
+<upgrade id="u68" level_required="3300" amount="110"/>
+<upgrade id="u69" level_required="3375" amount="115"/>
+<upgrade id="u70" level_required="3450" amount="120"/>
+<upgrade id="u71" level_required="3525" amount="125"/>
+<upgrade id="u72" level_required="3600" amount="130"/>
+<upgrade id="u73" level_required="3675" amount="135"/>
+<upgrade id="u74" level_required="3750" amount="140"/>
+<upgrade id="u75" level_required="3825" amount="145"/>
+<upgrade id="u76" level_required="3900" amount="150"/>
+<upgrade id="u77" level_required="3975" amount="155"/>
+<upgrade id="u78" level_required="4000" amount="160"/>
+<upgrade id="u79" level_required="4100" amount="165"/>
+<upgrade id="u80" level_required="4175" amount="170"/>
+<upgrade id="u81" level_required="4250" amount="175"/>
+<upgrade id="u82" level_required="4300" amount="180"/>
+</upgrades>
+</employee>
+<employee id="1" cost="220" rps="10" base="1.132" max_level="5500" unlock_level="0" boob_size="1" foot_size="0" height="0" cm="153">
+<skins>
+<skin id="1" cost="300" background="1"/>
+</skins>
+<upgrades>
+<upgrade id="u1" level_required="5" amount="2"/>
+<upgrade id="u2" level_required="10" amount="2"/>
+<upgrade id="b0" level_required="15" type="Boost" amount="2"/>
+<upgrade id="u3" level_required="25" amount="2"/>
+<upgrade id="u4" level_required="50" amount="2"/>
+<upgrade id="u5" level_required="75" amount="2"/>
+<upgrade id="u6" level_required="100" amount="3"/>
+<upgrade id="b1" level_required="115" type="Boost" amount="4"/>
+<upgrade id="u7" level_required="125" amount="3"/>
+<upgrade id="u8" level_required="150" amount="3"/>
+<upgrade id="u9" level_required="175" amount="7"/>
+<upgrade id="u10" level_required="200" amount="9"/>
+<upgrade id="u11" level_required="225" amount="10"/>
+<upgrade id="b2" level_required="235" type="Boost" amount="6"/>
+<upgrade id="u12" level_required="250" amount="10"/>
+<upgrade id="u13" level_required="275" amount="11"/>
+<upgrade id="u14" level_required="300" amount="12"/>
+<upgrade id="u15" level_required="325" amount="5"/>
+<upgrade id="u16" level_required="350" amount="12"/>
+<upgrade id="u17" level_required="375" amount="15"/>
+<upgrade id="b3" level_required="385" type="Boost" amount="15"/>
+<upgrade id="u18" level_required="400" amount="12"/>
+<upgrade id="u19" level_required="425" amount="15"/>
+<upgrade id="u20" level_required="450" amount="15"/>
+<upgrade id="u21" level_required="500" amount="20"/>
+<upgrade id="u22" level_required="525" amount="15"/>
+<upgrade id="u23" level_required="575" amount="10"/>
+<upgrade id="u24" level_required="600" amount="20"/>
+<upgrade id="b4" level_required="615" type="Boost" amount="22"/>
+<upgrade id="u25" level_required="625" amount="20"/>
+<upgrade id="u26" level_required="650" amount="25"/>
+<upgrade id="u27" level_required="675" amount="20"/>
+<upgrade id="u28" level_required="725" amount="23"/>
+<upgrade id="u29" level_required="750" amount="25"/>
+<upgrade id="u30" level_required="800" amount="12"/>
+<upgrade id="b5" level_required="825" type="Boost" amount="25"/>
+<upgrade id="u31" level_required="850" amount="23"/>
+<upgrade id="u32" level_required="900" amount="25"/>
+<upgrade id="u33" level_required="925" amount="27"/>
+<upgrade id="u34" level_required="975" amount="25"/>
+<upgrade id="u35" level_required="1050" amount="30"/>
+<upgrade id="u36" level_required="1100" amount="35"/>
+<upgrade id="u37" level_required="1125" amount="14"/>
+<upgrade id="b6" level_required="1175" type="Boost" amount="30"/>
+<upgrade id="u38" level_required="1200" amount="32"/>
+<upgrade id="u39" level_required="1250" amount="35"/>
+<upgrade id="u40" level_required="1300" amount="35"/>
+<upgrade id="u41" level_required="1325" amount="37"/>
+<upgrade id="u42" level_required="1375" amount="35"/>
+<upgrade id="u43" level_required="1450" amount="16"/>
+<upgrade id="b7" level_required="1500" type="Boost" amount="40"/>
+<upgrade id="u44" level_required="1525" amount="40"/>
+<upgrade id="u45" level_required="1575" amount="43"/>
+<upgrade id="u46" level_required="1650" amount="45"/>
+<upgrade id="u47" level_required="1700" amount="43"/>
+<upgrade id="u48" level_required="1775" amount="45"/>
+<upgrade id="u49" level_required="1850" amount="45"/>
+<upgrade id="u50" level_required="1900" amount="18"/>
+<upgrade id="b8" level_required="1925" type="Boost" amount="45"/>
+<upgrade id="u51" level_required="1950" amount="50"/>
+<upgrade id="u52" level_required="2000" amount="45"/>
+<upgrade id="u53" level_required="2050" amount="50"/>
+<upgrade id="u54" level_required="2150" amount="50"/>
+<upgrade id="u55" level_required="2225" amount="20"/>
+<upgrade id="b9" level_required="2250" type="Boost" amount="50"/>
+<upgrade id="u56" level_required="2300" amount="55"/>
+<upgrade id="u57" level_required="2375" amount="60"/>
+<upgrade id="u58" level_required="2475" amount="65"/>
+<upgrade id="u59" level_required="2550" amount="70"/>
+<upgrade id="u60" level_required="2626" amount="75"/>
+<upgrade id="u61" level_required="2700" amount="80"/>
+<upgrade id="u62" level_required="2800" amount="85"/>
+<upgrade id="u63" level_required="2875" amount="90"/>
+<upgrade id="u64" level_required="2950" amount="95"/>
+<upgrade id="u65" level_required="3025" amount="100"/>
+<upgrade id="u66" level_required="3100" amount="105"/>
+<upgrade id="u67" level_required="3175" amount="110"/>
+<upgrade id="u68" level_required="3250" amount="115"/>
+<upgrade id="u69" level_required="3325" amount="120"/>
+<upgrade id="u70" level_required="3400" amount="125"/>
+<upgrade id="u71" level_required="3475" amount="130"/>
+<upgrade id="u72" level_required="3550" amount="135"/>
+<upgrade id="u73" level_required="3625" amount="140"/>
+<upgrade id="u74" level_required="3700" amount="145"/>
+<upgrade id="u75" level_required="3775" amount="150"/>
+<upgrade id="u76" level_required="3850" amount="155"/>
+<upgrade id="u77" level_required="3925" amount="160"/>
+<upgrade id="u78" level_required="4000" amount="165"/>
+<upgrade id="u79" level_required="4100" amount="170"/>
+<upgrade id="u80" level_required="4175" amount="175"/>
+<upgrade id="u81" level_required="4250" amount="180"/>
+<upgrade id="u82" level_required="4300" amount="185"/>
+</upgrades>
+</employee>
+<employee id="2" cost="2400" rps="60" base="1.134" max_level="5400" unlock_level="0" boob_size="0" foot_size="0" height="0" cm="148">
+<skins>
+<skin id="1" cost="300" background="1"/>
+<skin id="2" cost="200" background="special"/>
+</skins>
+<upgrades>
+<upgrade id="u2" level_required="5" amount="2"/>
+<upgrade id="u3" level_required="10" amount="2"/>
+<upgrade id="b0" level_required="15" type="Boost" amount="2"/>
+<upgrade id="u4" level_required="25" amount="2"/>
+<upgrade id="u5" level_required="50" amount="2"/>
+<upgrade id="u6" level_required="75" amount="2"/>
+<upgrade id="u7" level_required="100" amount="3"/>
+<upgrade id="b1" level_required="115" type="Boost" amount="4"/>
+<upgrade id="u8" level_required="125" amount="4"/>
+<upgrade id="u9" level_required="150" amount="7"/>
+<upgrade id="u10" level_required="175" amount="8"/>
+<upgrade id="u11" level_required="200" amount="10"/>
+<upgrade id="u12" level_required="225" amount="10"/>
+<upgrade id="b2" level_required="235" type="Boost" amount="6"/>
+<upgrade id="u13" level_required="250" amount="10"/>
+<upgrade id="u14" level_required="275" amount="11"/>
+<upgrade id="u15" level_required="300" amount="5"/>
+<upgrade id="u16" level_required="325" amount="12"/>
+<upgrade id="u17" level_required="350" amount="15"/>
+<upgrade id="u18" level_required="375" amount="15"/>
+<upgrade id="b3" level_required="385" type="Boost" amount="15"/>
+<upgrade id="u19" level_required="400" amount="12"/>
+<upgrade id="u20" level_required="425" amount="15"/>
+<upgrade id="u21" level_required="450" amount="15"/>
+<upgrade id="u22" level_required="500" amount="20"/>
+<upgrade id="u23" level_required="525" amount="15"/>
+<upgrade id="u24" level_required="575" amount="20"/>
+<upgrade id="u25" level_required="600" amount="22"/>
+<upgrade id="b4" level_required="615" type="Boost" amount="25"/>
+<upgrade id="u26" level_required="625" amount="20"/>
+<upgrade id="u27" level_required="675" amount="25"/>
+<upgrade id="u28" level_required="700" amount="20"/>
+<upgrade id="u29" level_required="750" amount="23"/>
+<upgrade id="u30" level_required="775" amount="25"/>
+<upgrade id="u31" level_required="825" amount="25"/>
+<upgrade id="b5" level_required="850" type="Boost" amount="12"/>
+<upgrade id="u32" level_required="875" amount="23"/>
+<upgrade id="u33" level_required="900" amount="25"/>
+<upgrade id="u34" level_required="950" amount="27"/>
+<upgrade id="u35" level_required="1025" amount="25"/>
+<upgrade id="u36" level_required="1075" amount="30"/>
+<upgrade id="u37" level_required="1100" amount="35"/>
+<upgrade id="u38" level_required="1150" amount="30"/>
+<upgrade id="b6" level_required="1175" type="Boost" amount="30"/>
+<upgrade id="u39" level_required="1200" amount="32"/>
+<upgrade id="u40" level_required="1275" amount="35"/>
+<upgrade id="u41" level_required="1300" amount="35"/>
+<upgrade id="u42" level_required="1375" amount="37"/>
+<upgrade id="u43" level_required="1425" amount="35"/>
+<upgrade id="u44" level_required="1475" amount="30"/>
+<upgrade id="b7" level_required="1500" type="Boost" amount="30"/>
+<upgrade id="u45" level_required="1525" amount="40"/>
+<upgrade id="u46" level_required="1600" amount="43"/>
+<upgrade id="u47" level_required="1650" amount="45"/>
+<upgrade id="u48" level_required="1725" amount="43"/>
+<upgrade id="u49" level_required="1775" amount="45"/>
+<upgrade id="u50" level_required="1850" amount="45"/>
+<upgrade id="b8" level_required="1875" type="Boost" amount="45"/>
+<upgrade id="u51" level_required="1900" amount="45"/>
+<upgrade id="u52" level_required="1950" amount="50"/>
+<upgrade id="u53" level_required="2000" amount="45"/>
+<upgrade id="u54" level_required="2075" amount="50"/>
+<upgrade id="u55" level_required="2175" amount="50"/>
+<upgrade id="b9" level_required="2200" type="Boost" amount="50"/>
+<upgrade id="u56" level_required="2250" amount="50"/>
+<upgrade id="u57" level_required="2325" amount="55"/>
+<upgrade id="u58" level_required="2425" amount="60"/>
+<upgrade id="u59" level_required="2500" amount="65"/>
+<upgrade id="u60" level_required="2575" amount="70"/>
+<upgrade id="u61" level_required="2650" amount="75"/>
+<upgrade id="u62" level_required="2725" amount="80"/>
+<upgrade id="u63" level_required="2825" amount="85"/>
+<upgrade id="u64" level_required="2900" amount="90"/>
+<upgrade id="u65" level_required="2975" amount="95"/>
+<upgrade id="u66" level_required="3050" amount="100"/>
+<upgrade id="u67" level_required="3125" amount="105"/>
+<upgrade id="u68" level_required="3200" amount="110"/>
+<upgrade id="u69" level_required="3275" amount="115"/>
+<upgrade id="u70" level_required="3350" amount="120"/>
+<upgrade id="u71" level_required="3425" amount="125"/>
+<upgrade id="u72" level_required="3500" amount="130"/>
+<upgrade id="u73" level_required="3575" amount="135"/>
+<upgrade id="u74" level_required="3650" amount="140"/>
+<upgrade id="u75" level_required="3725" amount="145"/>
+<upgrade id="u76" level_required="3800" amount="150"/>
+<upgrade id="u77" level_required="3875" amount="155"/>
+<upgrade id="u78" level_required="3975" amount="160"/>
+<upgrade id="u79" level_required="4000" amount="165"/>
+<upgrade id="u80" level_required="4100" amount="170"/>
+<upgrade id="u81" level_required="4175" amount="175"/>
+<upgrade id="u82" level_required="4250" amount="180"/>
+</upgrades>
+</employee>
+<employee id="3" cost="29400" rps="240" base="1.136" max_level="5300" unlock_level="0" boob_size="1" foot_size="1" height="1" cm="168">
+<skins>
+<skin id="1" cost="300" background="1"/>
+<skin id="2" cost="200" background="special"/>
+</skins>
+<upgrades>
+<upgrade id="u3" level_required="5" amount="2"/>
+<upgrade id="u4" level_required="10" amount="2"/>
+<upgrade id="b0" level_required="15" type="Boost" amount="2"/>
+<upgrade id="u5" level_required="25" amount="2"/>
+<upgrade id="u6" level_required="50" amount="2"/>
+<upgrade id="u7" level_required="75" amount="2"/>
+<upgrade id="u8" level_required="100" amount="4"/>
+<upgrade id="b1" level_required="115" type="Boost" amount="4"/>
+<upgrade id="u9" level_required="125" amount="6"/>
+<upgrade id="u10" level_required="150" amount="8"/>
+<upgrade id="u11" level_required="175" amount="9"/>
+<upgrade id="u12" level_required="200" amount="10"/>
+<upgrade id="u13" level_required="225" amount="10"/>
+<upgrade id="b2" level_required="235" type="Boost" amount="6"/>
+<upgrade id="u14" level_required="250" amount="11"/>
+<upgrade id="u15" level_required="275" amount="5"/>
+<upgrade id="u16" level_required="300" amount="12"/>
+<upgrade id="u17" level_required="325" amount="15"/>
+<upgrade id="u18" level_required="350" amount="15"/>
+<upgrade id="u19" level_required="375" amount="15"/>
+<upgrade id="b3" level_required="400" type="Boost" amount="12"/>
+<upgrade id="u20" level_required="425" amount="15"/>
+<upgrade id="u21" level_required="450" amount="15"/>
+<upgrade id="u22" level_required="500" amount="20"/>
+<upgrade id="u23" level_required="525" amount="15"/>
+<upgrade id="u24" level_required="550" amount="20"/>
+<upgrade id="u25" level_required="575" amount="22"/>
+<upgrade id="u26" level_required="600" amount="25"/>
+<upgrade id="b4" level_required="625" type="Boost" amount="20"/>
+<upgrade id="u27" level_required="650" amount="25"/>
+<upgrade id="u28" level_required="675" amount="20"/>
+<upgrade id="u29" level_required="725" amount="23"/>
+<upgrade id="u30" level_required="750" amount="25"/>
+<upgrade id="u31" level_required="800" amount="25"/>
+<upgrade id="b5" level_required="825" type="Boost" amount="25"/>
+<upgrade id="u32" level_required="850" amount="23"/>
+<upgrade id="u33" level_required="875" amount="25"/>
+<upgrade id="u34" level_required="925" amount="27"/>
+<upgrade id="u35" level_required="1000" amount="25"/>
+<upgrade id="u36" level_required="1050" amount="30"/>
+<upgrade id="u37" level_required="1075" amount="35"/>
+<upgrade id="u38" level_required="1150" amount="30"/>
+<upgrade id="b6" level_required="1175" type="Boost" amount="30"/>
+<upgrade id="u39" level_required="1200" amount="32"/>
+<upgrade id="u40" level_required="1250" amount="35"/>
+<upgrade id="u41" level_required="1275" amount="35"/>
+<upgrade id="u42" level_required="1325" amount="37"/>
+<upgrade id="u43" level_required="1400" amount="35"/>
+<upgrade id="u44" level_required="1450" amount="30"/>
+<upgrade id="u45" level_required="1500" amount="30"/>
+<upgrade id="b7" level_required="1525" type="Boost" amount="40"/>
+<upgrade id="u46" level_required="1575" amount="43"/>
+<upgrade id="u47" level_required="1625" amount="45"/>
+<upgrade id="u48" level_required="1700" amount="43"/>
+<upgrade id="u49" level_required="1775" amount="45"/>
+<upgrade id="u50" level_required="1825" amount="45"/>
+<upgrade id="b8" level_required="1850" type="Boost" amount="45"/>
+<upgrade id="u51" level_required="1875" amount="45"/>
+<upgrade id="u52" level_required="1925" amount="50"/>
+<upgrade id="u53" level_required="1975" amount="45"/>
+<upgrade id="u54" level_required="2075" amount="50"/>
+<upgrade id="u55" level_required="2150" amount="50"/>
+<upgrade id="b9" level_required="2200" type="Boost" amount="50"/>
+<upgrade id="u56" level_required="2225" amount="50"/>
+<upgrade id="u57" level_required="2300" amount="55"/>
+<upgrade id="u58" level_required="2375" amount="60"/>
+<upgrade id="u59" level_required="2450" amount="65"/>
+<upgrade id="u60" level_required="2525" amount="70"/>
+<upgrade id="u61" level_required="2600" amount="75"/>
+<upgrade id="u62" level_required="2700" amount="80"/>
+<upgrade id="u63" level_required="2775" amount="85"/>
+<upgrade id="u64" level_required="2850" amount="90"/>
+<upgrade id="u65" level_required="2925" amount="95"/>
+<upgrade id="u66" level_required="3000" amount="100"/>
+<upgrade id="u67" level_required="3075" amount="105"/>
+<upgrade id="u68" level_required="3150" amount="110"/>
+<upgrade id="u69" level_required="3225" amount="115"/>
+<upgrade id="u70" level_required="3300" amount="120"/>
+<upgrade id="u71" level_required="3375" amount="125"/>
+<upgrade id="u72" level_required="3450" amount="130"/>
+<upgrade id="u73" level_required="3525" amount="135"/>
+<upgrade id="u74" level_required="3600" amount="140"/>
+<upgrade id="u75" level_required="3675" amount="145"/>
+<upgrade id="u76" level_required="3750" amount="150"/>
+<upgrade id="u77" level_required="3825" amount="155"/>
+<upgrade id="u78" level_required="3900" amount="160"/>
+<upgrade id="u79" level_required="4000" amount="165"/>
+<upgrade id="u80" level_required="4100" amount="170"/>
+<upgrade id="u81" level_required="4175" amount="175"/>
+<upgrade id="u82" level_required="4250" amount="180"/>
+</upgrades>
+</employee>
+<employee id="4" cost="352800" rps="980" base="1.138" max_level="5200" unlock_level="0" boob_size="2" foot_size="1" height="1" cm="167">
+<skins>
+<skin id="1" cost="300" background="1"/>
+<skin id="2" cost="100000" background="special"/>
+</skins>
+<upgrades>
+<upgrade id="u4" level_required="5" amount="2"/>
+<upgrade id="u5" level_required="10" amount="2"/>
+<upgrade id="b0" level_required="15" type="Boost" amount="2"/>
+<upgrade id="u6" level_required="25" amount="3"/>
+<upgrade id="u7" level_required="50" amount="2"/>
+<upgrade id="u8" level_required="75" amount="3"/>
+<upgrade id="u9" level_required="100" amount="5"/>
+<upgrade id="b1" level_required="115" type="Boost" amount="4"/>
+<upgrade id="u10" level_required="125" amount="7"/>
+<upgrade id="u11" level_required="150" amount="9"/>
+<upgrade id="u12" level_required="175" amount="9"/>
+<upgrade id="u13" level_required="200" amount="9"/>
+<upgrade id="u14" level_required="225" amount="10"/>
+<upgrade id="b2" level_required="235" type="Boost" amount="6"/>
+<upgrade id="u15" level_required="250" amount="6"/>
+<upgrade id="u16" level_required="275" amount="12"/>
+<upgrade id="u17" level_required="300" amount="15"/>
+<upgrade id="u18" level_required="325" amount="15"/>
+<upgrade id="u19" level_required="350" amount="15"/>
+<upgrade id="b3" level_required="385" type="Boost" amount="12"/>
+<upgrade id="u20" level_required="400" amount="15"/>
+<upgrade id="u21" level_required="425" amount="15"/>
+<upgrade id="u22" level_required="475" amount="20"/>
+<upgrade id="u23" level_required="500" amount="15"/>
+<upgrade id="u24" level_required="525" amount="20"/>
+<upgrade id="u25" level_required="550" amount="22"/>
+<upgrade id="u26" level_required="575" amount="25"/>
+<upgrade id="b4" level_required="600" type="Boost" amount="20"/>
+<upgrade id="u27" level_required="625" amount="25"/>
+<upgrade id="u28" level_required="650" amount="20"/>
+<upgrade id="u29" level_required="700" amount="23"/>
+<upgrade id="u30" level_required="725" amount="25"/>
+<upgrade id="u31" level_required="775" amount="25"/>
+<upgrade id="u32" level_required="825" amount="25"/>
+<upgrade id="u33" level_required="850" amount="23"/>
+<upgrade id="b5" level_required="875" type="Boost" amount="25"/>
+<upgrade id="u34" level_required="900" amount="27"/>
+<upgrade id="u35" level_required="975" amount="25"/>
+<upgrade id="u36" level_required="1025" amount="30"/>
+<upgrade id="u37" level_required="1050" amount="35"/>
+<upgrade id="u38" level_required="1100" amount="30"/>
+<upgrade id="u39" level_required="1150" amount="30"/>
+<upgrade id="b6" level_required="1175" type="Boost" amount="32"/>
+<upgrade id="u40" level_required="1200" amount="35"/>
+<upgrade id="u41" level_required="1225" amount="35"/>
+<upgrade id="u42" level_required="1300" amount="37"/>
+<upgrade id="u43" level_required="1375" amount="35"/>
+<upgrade id="u44" level_required="1425" amount="30"/>
+<upgrade id="u45" level_required="1450" amount="30"/>
+<upgrade id="b7" level_required="1500" type="Boost" amount="40"/>
+<upgrade id="u46" level_required="1525" amount="43"/>
+<upgrade id="u47" level_required="1575" amount="45"/>
+<upgrade id="u48" level_required="1650" amount="43"/>
+<upgrade id="u49" level_required="1700" amount="45"/>
+<upgrade id="u50" level_required="1775" amount="45"/>
+<upgrade id="b8" level_required="1800" type="Boost" amount="45"/>
+<upgrade id="u51" level_required="1825" amount="45"/>
+<upgrade id="u52" level_required="1875" amount="50"/>
+<upgrade id="u53" level_required="1925" amount="45"/>
+<upgrade id="u54" level_required="2000" amount="50"/>
+<upgrade id="u55" level_required="2100" amount="50"/>
+<upgrade id="b9" level_required="2150" type="Boost" amount="50"/>
+<upgrade id="u56" level_required="2175" amount="50"/>
+<upgrade id="u57" level_required="2250" amount="55"/>
+<upgrade id="u58" level_required="2325" amount="60"/>
+<upgrade id="u59" level_required="2400" amount="65"/>
+<upgrade id="u60" level_required="2475" amount="70"/>
+<upgrade id="u61" level_required="2550" amount="75"/>
+<upgrade id="u62" level_required="2600" amount="80"/>
+<upgrade id="u63" level_required="2700" amount="85"/>
+<upgrade id="u64" level_required="2800" amount="90"/>
+<upgrade id="u65" level_required="2875" amount="95"/>
+<upgrade id="u66" level_required="2950" amount="100"/>
+<upgrade id="u67" level_required="3025" amount="105"/>
+<upgrade id="u68" level_required="3100" amount="110"/>
+<upgrade id="u69" level_required="3175" amount="115"/>
+<upgrade id="u70" level_required="3250" amount="120"/>
+<upgrade id="u71" level_required="3325" amount="125"/>
+<upgrade id="u72" level_required="3400" amount="130"/>
+<upgrade id="u73" level_required="3475" amount="135"/>
+<upgrade id="u74" level_required="3550" amount="140"/>
+<upgrade id="u75" level_required="3625" amount="145"/>
+<upgrade id="u76" level_required="3700" amount="150"/>
+<upgrade id="u77" level_required="3775" amount="155"/>
+<upgrade id="u78" level_required="3825" amount="160"/>
+<upgrade id="u79" level_required="3900" amount="165"/>
+<upgrade id="u80" level_required="4000" amount="170"/>
+<upgrade id="u81" level_required="4100" amount="175"/>
+<upgrade id="u82" level_required="4175" amount="180"/>
+</upgrades>
+</employee>
+<employee id="5" cost="4233600" rps="5880" base="1.14" max_level="5150" unlock_level="0" boob_size="2" foot_size="2" height="2" cm="172">
+<skins>
+<skin id="1" cost="300" background="1"/>
+<skin id="2" cost="200" background="special"/>
+</skins>
+<upgrades>
+<upgrade id="u5" level_required="5" amount="2"/>
+<upgrade id="u6" level_required="10" amount="2"/>
+<upgrade id="b0" level_required="15" type="Boost" amount="2"/>
+<upgrade id="u7" level_required="25" amount="2"/>
+<upgrade id="u8" level_required="50" amount="3"/>
+<upgrade id="u9" level_required="75" amount="4"/>
+<upgrade id="u10" level_required="100" amount="7"/>
+<upgrade id="b1" level_required="115" type="Boost" amount="4"/>
+<upgrade id="u11" level_required="125" amount="8"/>
+<upgrade id="u12" level_required="150" amount="9"/>
+<upgrade id="u13" level_required="175" amount="9"/>
+<upgrade id="u14" level_required="200" amount="10"/>
+<upgrade id="u15" level_required="225" amount="6"/>
+<upgrade id="b2" level_required="235" type="Boost" amount="6"/>
+<upgrade id="u16" level_required="250" amount="12"/>
+<upgrade id="u17" level_required="275" amount="15"/>
+<upgrade id="u18" level_required="300" amount="15"/>
+<upgrade id="u19" level_required="325" amount="15"/>
+<upgrade id="u20" level_required="350" amount="12"/>
+<upgrade id="b3" level_required="385" type="Boost" amount="15"/>
+<upgrade id="u21" level_required="400" amount="15"/>
+<upgrade id="u22" level_required="450" amount="20"/>
+<upgrade id="u23" level_required="475" amount="15"/>
+<upgrade id="u24" level_required="500" amount="20"/>
+<upgrade id="u25" level_required="525" amount="22"/>
+<upgrade id="u26" level_required="550" amount="25"/>
+<upgrade id="u27" level_required="600" amount="20"/>
+<upgrade id="b4" level_required="615" type="Boost" amount="25"/>
+<upgrade id="u28" level_required="625" amount="20"/>
+<upgrade id="u29" level_required="675" amount="23"/>
+<upgrade id="u30" level_required="700" amount="25"/>
+<upgrade id="u31" level_required="750" amount="25"/>
+<upgrade id="u32" level_required="800" amount="25"/>
+<upgrade id="u33" level_required="825" amount="23"/>
+<upgrade id="b5" level_required="850" type="Boost" amount="25"/>
+<upgrade id="u34" level_required="875" amount="27"/>
+<upgrade id="u35" level_required="925" amount="25"/>
+<upgrade id="u36" level_required="975" amount="30"/>
+<upgrade id="u37" level_required="1000" amount="35"/>
+<upgrade id="u38" level_required="1075" amount="30"/>
+<upgrade id="u39" level_required="1125" amount="30"/>
+<upgrade id="b6" level_required="1150" type="Boost" amount="32"/>
+<upgrade id="u40" level_required="1175" amount="35"/>
+<upgrade id="u41" level_required="1200" amount="35"/>
+<upgrade id="u42" level_required="1250" amount="37"/>
+<upgrade id="u43" level_required="1325" amount="35"/>
+<upgrade id="u44" level_required="1375" amount="30"/>
+<upgrade id="u45" level_required="1425" amount="30"/>
+<upgrade id="u46" level_required="1500" amount="40"/>
+<upgrade id="b7" level_required="1525" type="Boost" amount="43"/>
+<upgrade id="u47" level_required="1550" amount="45"/>
+<upgrade id="u48" level_required="1625" amount="43"/>
+<upgrade id="u49" level_required="1700" amount="45"/>
+<upgrade id="u50" level_required="1750" amount="45"/>
+<upgrade id="b8" level_required="1775" type="Boost" amount="45"/>
+<upgrade id="u51" level_required="1800" amount="45"/>
+<upgrade id="u52" level_required="1850" amount="50"/>
+<upgrade id="u53" level_required="1900" amount="45"/>
+<upgrade id="u54" level_required="2000" amount="50"/>
+<upgrade id="u55" level_required="2075" amount="50"/>
+<upgrade id="b9" level_required="2100" type="Boost" amount="50"/>
+<upgrade id="u56" level_required="2150" amount="50"/>
+<upgrade id="u57" level_required="2200" amount="55"/>
+<upgrade id="u58" level_required="2275" amount="60"/>
+<upgrade id="u59" level_required="2350" amount="65"/>
+<upgrade id="u60" level_required="2425" amount="70"/>
+<upgrade id="u61" level_required="2500" amount="75"/>
+<upgrade id="u62" level_required="2600" amount="80"/>
+<upgrade id="u63" level_required="2675" amount="85"/>
+<upgrade id="u64" level_required="2750" amount="90"/>
+<upgrade id="u65" level_required="2825" amount="95"/>
+<upgrade id="u66" level_required="2900" amount="100"/>
+<upgrade id="u67" level_required="2975" amount="105"/>
+<upgrade id="u68" level_required="3050" amount="110"/>
+<upgrade id="u69" level_required="3125" amount="115"/>
+<upgrade id="u70" level_required="3200" amount="120"/>
+<upgrade id="u71" level_required="3275" amount="125"/>
+<upgrade id="u72" level_required="3350" amount="130"/>
+<upgrade id="u73" level_required="3425" amount="135"/>
+<upgrade id="u74" level_required="3500" amount="140"/>
+<upgrade id="u75" level_required="3575" amount="145"/>
+<upgrade id="u76" level_required="3650" amount="150"/>
+<upgrade id="u77" level_required="3725" amount="155"/>
+<upgrade id="u78" level_required="3775" amount="160"/>
+<upgrade id="u79" level_required="3825" amount="165"/>
+<upgrade id="u80" level_required="3900" amount="170"/>
+<upgrade id="u81" level_required="4000" amount="175"/>
+<upgrade id="u82" level_required="4100" amount="180"/>
+</upgrades>
+</employee>
+<employee id="6" cost="101803200" rps="47040" base="1.142" max_level="5050" unlock_level="1" boob_size="0" foot_size="0" height="1" cm="163">
+<skins>
+<skin id="1" cost="300" background="1"/>
+</skins>
+<upgrades>
+<upgrade id="u6" level_required="5" amount="2"/>
+<upgrade id="u7" level_required="10" amount="2"/>
+<upgrade id="b0" level_required="15" type="Boost" amount="2"/>
+<upgrade id="u8" level_required="25" amount="2"/>
+<upgrade id="u9" level_required="50" amount="3"/>
+<upgrade id="u10" level_required="75" amount="6"/>
+<upgrade id="u11" level_required="100" amount="8"/>
+<upgrade id="b1" level_required="115" type="Boost" amount="4"/>
+<upgrade id="u12" level_required="125" amount="9"/>
+<upgrade id="u13" level_required="150" amount="8"/>
+<upgrade id="u14" level_required="175" amount="9"/>
+<upgrade id="u15" level_required="200" amount="6"/>
+<upgrade id="u16" level_required="225" amount="12"/>
+<upgrade id="b2" level_required="235" type="Boost" amount="6"/>
+<upgrade id="u17" level_required="250" amount="15"/>
+<upgrade id="u18" level_required="275" amount="15"/>
+<upgrade id="u19" level_required="300" amount="15"/>
+<upgrade id="u20" level_required="350" amount="12"/>
+<upgrade id="u21" level_required="375" amount="15"/>
+<upgrade id="b3" level_required="400" type="Boost" amount="15"/>
+<upgrade id="u22" level_required="425" amount="20"/>
+<upgrade id="u23" level_required="450" amount="15"/>
+<upgrade id="u24" level_required="475" amount="20"/>
+<upgrade id="u25" level_required="500" amount="22"/>
+<upgrade id="u26" level_required="525" amount="25"/>
+<upgrade id="u27" level_required="575" amount="20"/>
+<upgrade id="u28" level_required="600" amount="25"/>
+<upgrade id="b4" level_required="625" type="Boost" amount="20"/>
+<upgrade id="u29" level_required="650" amount="23"/>
+<upgrade id="u30" level_required="675" amount="25"/>
+<upgrade id="u31" level_required="725" amount="25"/>
+<upgrade id="u32" level_required="750" amount="25"/>
+<upgrade id="u33" level_required="775" amount="23"/>
+<upgrade id="u34" level_required="825" amount="25"/>
+<upgrade id="b5" level_required="850" type="Boost" amount="27"/>
+<upgrade id="u35" level_required="900" amount="25"/>
+<upgrade id="u36" level_required="950" amount="30"/>
+<upgrade id="u37" level_required="975" amount="35"/>
+<upgrade id="u38" level_required="1025" amount="30"/>
+<upgrade id="u39" level_required="1075" amount="30"/>
+<upgrade id="u40" level_required="1125" amount="32"/>
+<upgrade id="u41" level_required="1150" amount="35"/>
+<upgrade id="b6" level_required="1175" type="Boost" amount="35"/>
+<upgrade id="u42" level_required="1225" amount="37"/>
+<upgrade id="u43" level_required="1275" amount="35"/>
+<upgrade id="u44" level_required="1325" amount="30"/>
+<upgrade id="u45" level_required="1375" amount="30"/>
+<upgrade id="u46" level_required="1450" amount="40"/>
+<upgrade id="b7" level_required="1475" type="Boost" amount="43"/>
+<upgrade id="u47" level_required="1500" amount="45"/>
+<upgrade id="u48" level_required="1575" amount="43"/>
+<upgrade id="u49" level_required="1625" amount="45"/>
+<upgrade id="u50" level_required="1700" amount="45"/>
+<upgrade id="b8" level_required="1725" type="Boost" amount="45"/>
+<upgrade id="u51" level_required="1750" amount="45"/>
+<upgrade id="u52" level_required="1800" amount="50"/>
+<upgrade id="u53" level_required="1850" amount="45"/>
+<upgrade id="u54" level_required="1925" amount="50"/>
+<upgrade id="u55" level_required="2025" amount="50"/>
+<upgrade id="b9" level_required="2050" type="Boost" amount="50"/>
+<upgrade id="u56" level_required="2075" amount="50"/>
+<upgrade id="u57" level_required="2150" amount="55"/>
+<upgrade id="u58" level_required="2225" amount="60"/>
+<upgrade id="u59" level_required="2300" amount="65"/>
+<upgrade id="u60" level_required="2375" amount="70"/>
+<upgrade id="u61" level_required="2450" amount="75"/>
+<upgrade id="u62" level_required="2525" amount="80"/>
+<upgrade id="u63" level_required="2625" amount="85"/>
+<upgrade id="u64" level_required="2700" amount="90"/>
+<upgrade id="u65" level_required="2775" amount="95"/>
+<upgrade id="u66" level_required="2850" amount="100"/>
+<upgrade id="u67" level_required="2925" amount="105"/>
+<upgrade id="u68" level_required="3000" amount="110"/>
+<upgrade id="u69" level_required="3075" amount="115"/>
+<upgrade id="u70" level_required="3150" amount="120"/>
+<upgrade id="u71" level_required="3225" amount="125"/>
+<upgrade id="u72" level_required="3300" amount="130"/>
+<upgrade id="u73" level_required="3375" amount="135"/>
+<upgrade id="u74" level_required="3450" amount="140"/>
+<upgrade id="u75" level_required="3525" amount="145"/>
+<upgrade id="u76" level_required="3675" amount="150"/>
+<upgrade id="u77" level_required="3725" amount="155"/>
+<upgrade id="u78" level_required="3800" amount="160"/>
+<upgrade id="u79" level_required="3875" amount="165"/>
+<upgrade id="u80" level_required="3950" amount="170"/>
+<upgrade id="u81" level_required="4025" amount="175"/>
+<upgrade id="u82" level_required="4100" amount="180"/>
+</upgrades>
+</employee>
+<employee id="7" cost="4430000000" rps="282240" base="1.142" max_level="5000" unlock_level="2" boob_size="0" foot_size="0" height="0" cm="143">
+<skins>
+<skin id="1" cost="300" background="1"/>
+</skins>
+<upgrades>
+<upgrade id="u7" level_required="5" amount="2"/>
+<upgrade id="u8" level_required="10" amount="2"/>
+<upgrade id="b0" level_required="15" type="Boost" amount="2"/>
+<upgrade id="u9" level_required="25" amount="2"/>
+<upgrade id="u10" level_required="50" amount="3"/>
+<upgrade id="u11" level_required="75" amount="7"/>
+<upgrade id="u12" level_required="100" amount="8"/>
+<upgrade id="b1" level_required="115" type="Boost" amount="4"/>
+<upgrade id="u13" level_required="125" amount="8"/>
+<upgrade id="u14" level_required="150" amount="9"/>
+<upgrade id="u15" level_required="175" amount="6"/>
+<upgrade id="u16" level_required="200" amount="12"/>
+<upgrade id="u17" level_required="225" amount="15"/>
+<upgrade id="b2" level_required="235" type="Boost" amount="6"/>
+<upgrade id="u18" level_required="250" amount="15"/>
+<upgrade id="u19" level_required="275" amount="15"/>
+<upgrade id="u20" level_required="325" amount="12"/>
+<upgrade id="u21" level_required="350" amount="15"/>
+<upgrade id="b3" level_required="385" type="Boost" amount="15"/>
+<upgrade id="u22" level_required="400" amount="20"/>
+<upgrade id="u23" level_required="425" amount="15"/>
+<upgrade id="u24" level_required="450" amount="20"/>
+<upgrade id="u25" level_required="475" amount="22"/>
+<upgrade id="u26" level_required="500" amount="25"/>
+<upgrade id="u27" level_required="550" amount="20"/>
+<upgrade id="u28" level_required="575" amount="25"/>
+<upgrade id="b4" level_required="600" type="Boost" amount="20"/>
+<upgrade id="u29" level_required="625" amount="23"/>
+<upgrade id="u30" level_required="650" amount="25"/>
+<upgrade id="u31" level_required="700" amount="25"/>
+<upgrade id="u32" level_required="725" amount="25"/>
+<upgrade id="u33" level_required="750" amount="23"/>
+<upgrade id="u34" level_required="800" amount="25"/>
+<upgrade id="b5" level_required="850" type="Boost" amount="27"/>
+<upgrade id="u35" level_required="875" amount="25"/>
+<upgrade id="u36" level_required="925" amount="30"/>
+<upgrade id="u37" level_required="950" amount="35"/>
+<upgrade id="u38" level_required="1025" amount="30"/>
+<upgrade id="u39" level_required="1075" amount="30"/>
+<upgrade id="u40" level_required="1125" amount="32"/>
+<upgrade id="u41" level_required="1150" amount="35"/>
+<upgrade id="b6" level_required="1175" type="Boost" amount="35"/>
+<upgrade id="u42" level_required="1200" amount="37"/>
+<upgrade id="u43" level_required="1250" amount="35"/>
+<upgrade id="u44" level_required="1300" amount="30"/>
+<upgrade id="u45" level_required="1350" amount="30"/>
+<upgrade id="u46" level_required="1425" amount="40"/>
+<upgrade id="u47" level_required="1475" amount="43"/>
+<upgrade id="b7" level_required="1525" type="Boost" amount="45"/>
+<upgrade id="u48" level_required="1550" amount="43"/>
+<upgrade id="u49" level_required="1625" amount="45"/>
+<upgrade id="u50" level_required="1675" amount="45"/>
+<upgrade id="b8" level_required="1700" type="Boost" amount="45"/>
+<upgrade id="u51" level_required="1725" amount="45"/>
+<upgrade id="u52" level_required="1775" amount="50"/>
+<upgrade id="u53" level_required="1825" amount="45"/>
+<upgrade id="u54" level_required="1925" amount="50"/>
+<upgrade id="u55" level_required="2000" amount="50"/>
+<upgrade id="b9" level_required="2050" type="Boost" amount="50"/>
+<upgrade id="u56" level_required="2075" amount="50"/>
+<upgrade id="u57" level_required="2125" amount="55"/>
+<upgrade id="u58" level_required="2200" amount="60"/>
+<upgrade id="u59" level_required="2275" amount="65"/>
+<upgrade id="u60" level_required="2350" amount="70"/>
+<upgrade id="u61" level_required="2425" amount="75"/>
+<upgrade id="u62" level_required="2500" amount="80"/>
+<upgrade id="u63" level_required="2575" amount="85"/>
+<upgrade id="u64" level_required="2650" amount="90"/>
+<upgrade id="u65" level_required="2725" amount="95"/>
+<upgrade id="u66" level_required="2800" amount="100"/>
+<upgrade id="u67" level_required="2875" amount="105"/>
+<upgrade id="u68" level_required="2950" amount="110"/>
+<upgrade id="u69" level_required="3025" amount="115"/>
+<upgrade id="u70" level_required="3100" amount="120"/>
+<upgrade id="u71" level_required="3175" amount="125"/>
+<upgrade id="u72" level_required="3250" amount="130"/>
+<upgrade id="u73" level_required="3325" amount="135"/>
+<upgrade id="u74" level_required="3400" amount="140"/>
+<upgrade id="u75" level_required="3475" amount="145"/>
+<upgrade id="u76" level_required="3550" amount="150"/>
+<upgrade id="u77" level_required="3625" amount="155"/>
+<upgrade id="u78" level_required="3700" amount="160"/>
+<upgrade id="u79" level_required="3750" amount="165"/>
+<upgrade id="u80" level_required="3850" amount="170"/>
+<upgrade id="u81" level_required="3925" amount="175"/>
+<upgrade id="u82" level_required="4050" amount="180"/>
+</upgrades>
+</employee>
+<employee id="8" cost="58500000000" rps="2032128" base="1.144" max_level="4950" unlock_level="3" boob_size="2" foot_size="2" height="2" cm="175">
+<skins>
+<skin id="1" cost="300" background="1"/>
+</skins>
+<upgrades>
+<upgrade id="u8" level_required="5" amount="2"/>
+<upgrade id="u9" level_required="10" amount="2"/>
+<upgrade id="b0" level_required="15" type="Boost" amount="2"/>
+<upgrade id="u10" level_required="25" amount="4"/>
+<upgrade id="u11" level_required="50" amount="5"/>
+<upgrade id="u12" level_required="75" amount="7"/>
+<upgrade id="u13" level_required="100" amount="7"/>
+<upgrade id="b1" level_required="115" type="Boost" amount="4"/>
+<upgrade id="u14" level_required="125" amount="8"/>
+<upgrade id="u15" level_required="150" amount="6"/>
+<upgrade id="u16" level_required="175" amount="11"/>
+<upgrade id="u17" level_required="200" amount="15"/>
+<upgrade id="u18" level_required="225" amount="15"/>
+<upgrade id="b2" level_required="235" type="Boost" amount="15"/>
+<upgrade id="u19" level_required="250" amount="12"/>
+<upgrade id="u20" level_required="300" amount="15"/>
+<upgrade id="u21" level_required="325" amount="15"/>
+<upgrade id="u22" level_required="375" amount="20"/>
+<upgrade id="b3" level_required="385" type="Boost" amount="15"/>
+<upgrade id="u23" level_required="400" amount="20"/>
+<upgrade id="u24" level_required="425" amount="22"/>
+<upgrade id="u25" level_required="450" amount="25"/>
+<upgrade id="u26" level_required="475" amount="20"/>
+<upgrade id="u27" level_required="525" amount="25"/>
+<upgrade id="u28" level_required="550" amount="20"/>
+<upgrade id="u29" level_required="600" amount="23"/>
+<upgrade id="b4" level_required="615" type="Boost" amount="25"/>
+<upgrade id="u30" level_required="625" amount="25"/>
+<upgrade id="u31" level_required="675" amount="25"/>
+<upgrade id="u32" level_required="700" amount="23"/>
+<upgrade id="u33" level_required="725" amount="25"/>
+<upgrade id="u34" level_required="775" amount="27"/>
+<upgrade id="b5" level_required="825" type="Boost" amount="25"/>
+<upgrade id="u35" level_required="850" amount="30"/>
+<upgrade id="u36" level_required="900" amount="35"/>
+<upgrade id="u37" level_required="925" amount="30"/>
+<upgrade id="u38" level_required="975" amount="30"/>
+<upgrade id="u39" level_required="1025" amount="32"/>
+<upgrade id="u40" level_required="1075" amount="35"/>
+<upgrade id="u41" level_required="1100" amount="35"/>
+<upgrade id="b6" level_required="1150" type="Boost" amount="37"/>
+<upgrade id="u42" level_required="1175" amount="35"/>
+<upgrade id="u43" level_required="1225" amount="30"/>
+<upgrade id="u44" level_required="1275" amount="30"/>
+<upgrade id="u45" level_required="1325" amount="40"/>
+<upgrade id="u46" level_required="1375" amount="43"/>
+<upgrade id="u47" level_required="1425" amount="45"/>
+<upgrade id="u48" level_required="1500" amount="43"/>
+<upgrade id="b7" level_required="1525" type="Boost" amount="45"/>
+<upgrade id="u49" level_required="1550" amount="45"/>
+<upgrade id="u50" level_required="1625" amount="45"/>
+<upgrade id="u51" level_required="1675" amount="45"/>
+<upgrade id="b8" level_required="1700" type="Boost" amount="50"/>
+<upgrade id="u52" level_required="1725" amount="45"/>
+<upgrade id="u53" level_required="1775" amount="50"/>
+<upgrade id="u54" level_required="1850" amount="50"/>
+<upgrade id="u55" level_required="1950" amount="50"/>
+<upgrade id="b9" level_required="1975" type="Boost" amount="50"/>
+<upgrade id="u56" level_required="2000" amount="55"/>
+<upgrade id="u57" level_required="2075" amount="60"/>
+<upgrade id="u58" level_required="2150" amount="65"/>
+<upgrade id="u59" level_required="2225" amount="70"/>
+<upgrade id="u60" level_required="2300" amount="75"/>
+<upgrade id="u61" level_required="2375" amount="80"/>
+<upgrade id="u62" level_required="2475" amount="85"/>
+<upgrade id="u63" level_required="2550" amount="90"/>
+<upgrade id="u64" level_required="2625" amount="95"/>
+<upgrade id="u65" level_required="2700" amount="100"/>
+<upgrade id="u66" level_required="2775" amount="105"/>
+<upgrade id="u67" level_required="2850" amount="110"/>
+<upgrade id="u68" level_required="2925" amount="115"/>
+<upgrade id="u69" level_required="3000" amount="120"/>
+<upgrade id="u70" level_required="3075" amount="125"/>
+<upgrade id="u71" level_required="3150" amount="130"/>
+<upgrade id="u72" level_required="3225" amount="135"/>
+<upgrade id="u73" level_required="3300" amount="140"/>
+<upgrade id="u74" level_required="3375" amount="145"/>
+<upgrade id="u75" level_required="3450" amount="150"/>
+<upgrade id="u76" level_required="3525" amount="155"/>
+<upgrade id="u77" level_required="3600" amount="160"/>
+<upgrade id="u78" level_required="3675" amount="165"/>
+<upgrade id="u79" level_required="3750" amount="170"/>
+<upgrade id="u80" level_required="3825" amount="175"/>
+<upgrade id="u81" level_required="3900" amount="180"/>
+<upgrade id="u82" level_required="3975" amount="185"/>
+</upgrades>
+</employee>
+<employee id="9" cost="1050000000000" rps="12192768" base="1.146" max_level="4850" unlock_level="4" boob_size="0" foot_size="1" height="1" cm="167">
+<skins>
+<skin id="1" cost="300" background="1"/>
+</skins>
+<upgrades>
+<upgrade id="u9" level_required="5" amount="3"/>
+<upgrade id="u10" level_required="10" amount="3"/>
+<upgrade id="b0" level_required="15" type="Boost" amount="2"/>
+<upgrade id="u11" level_required="25" amount="4"/>
+<upgrade id="u12" level_required="50" amount="7"/>
+<upgrade id="u13" level_required="75" amount="6"/>
+<upgrade id="u14" level_required="100" amount="8"/>
+<upgrade id="b1" level_required="115" type="Boost" amount="4"/>
+<upgrade id="u15" level_required="125" amount="5"/>
+<upgrade id="u16" level_required="150" amount="12"/>
+<upgrade id="u17" level_required="175" amount="15"/>
+<upgrade id="u18" level_required="200" amount="15"/>
+<upgrade id="u19" level_required="225" amount="15"/>
+<upgrade id="b2" level_required="235" type="Boost" amount="12"/>
+<upgrade id="u20" level_required="275" amount="15"/>
+<upgrade id="u21" level_required="300" amount="15"/>
+<upgrade id="u22" level_required="350" amount="20"/>
+<upgrade id="u23" level_required="375" amount="15"/>
+<upgrade id="b3" level_required="385" type="Boost" amount="20"/>
+<upgrade id="u24" level_required="400" amount="22"/>
+<upgrade id="u25" level_required="425" amount="25"/>
+<upgrade id="u26" level_required="450" amount="20"/>
+<upgrade id="u27" level_required="500" amount="25"/>
+<upgrade id="u28" level_required="525" amount="20"/>
+<upgrade id="u29" level_required="575" amount="23"/>
+<upgrade id="u30" level_required="600" amount="25"/>
+<upgrade id="b4" level_required="625" type="Boost" amount="25"/>
+<upgrade id="u31" level_required="650" amount="25"/>
+<upgrade id="u32" level_required="675" amount="23"/>
+<upgrade id="u33" level_required="700" amount="25"/>
+<upgrade id="u34" level_required="750" amount="27"/>
+<upgrade id="u35" level_required="800" amount="25"/>
+<upgrade id="b5" level_required="825" type="Boost" amount="30"/>
+<upgrade id="u36" level_required="850" amount="35"/>
+<upgrade id="u37" level_required="875" amount="30"/>
+<upgrade id="u38" level_required="950" amount="30"/>
+<upgrade id="u39" level_required="1000" amount="32"/>
+<upgrade id="u40" level_required="1050" amount="35"/>
+<upgrade id="u41" level_required="1075" amount="35"/>
+<upgrade id="u42" level_required="1125" amount="37"/>
+<upgrade id="b6" level_required="1150" type="Boost" amount="35"/>
+<upgrade id="u43" level_required="1175" amount="30"/>
+<upgrade id="u44" level_required="1225" amount="30"/>
+<upgrade id="u45" level_required="1275" amount="40"/>
+<upgrade id="u46" level_required="1325" amount="43"/>
+<upgrade id="u47" level_required="1375" amount="45"/>
+<upgrade id="u48" level_required="1450" amount="43"/>
+<upgrade id="b7" level_required="1500" type="Boost" amount="45"/>
+<upgrade id="u49" level_required="1525" amount="45"/>
+<upgrade id="u50" level_required="1575" amount="45"/>
+<upgrade id="u51" level_required="1625" amount="45"/>
+<upgrade id="u52" level_required="1675" amount="50"/>
+<upgrade id="b8" level_required="1700" type="Boost" amount="45"/>
+<upgrade id="u53" level_required="1725" amount="50"/>
+<upgrade id="u54" level_required="1825" amount="50"/>
+<upgrade id="u55" level_required="1900" amount="50"/>
+<upgrade id="b9" level_required="1950" type="Boost" amount="50"/>
+<upgrade id="u56" level_required="1975" amount="55"/>
+<upgrade id="u57" level_required="2025" amount="60"/>
+<upgrade id="u58" level_required="2100" amount="65"/>
+<upgrade id="u59" level_required="2175" amount="70"/>
+<upgrade id="u60" level_required="2250" amount="75"/>
+<upgrade id="u61" level_required="2325" amount="80"/>
+<upgrade id="u62" level_required="2425" amount="85"/>
+<upgrade id="u63" level_required="2500" amount="90"/>
+<upgrade id="u64" level_required="2575" amount="95"/>
+<upgrade id="u65" level_required="2650" amount="100"/>
+<upgrade id="u66" level_required="2725" amount="105"/>
+<upgrade id="u67" level_required="2800" amount="110"/>
+<upgrade id="u68" level_required="2875" amount="115"/>
+<upgrade id="u69" level_required="2950" amount="120"/>
+<upgrade id="u70" level_required="3025" amount="125"/>
+<upgrade id="u71" level_required="3100" amount="130"/>
+<upgrade id="u72" level_required="3175" amount="135"/>
+<upgrade id="u73" level_required="3250" amount="140"/>
+<upgrade id="u74" level_required="3325" amount="145"/>
+<upgrade id="u75" level_required="3400" amount="150"/>
+<upgrade id="u76" level_required="3475" amount="155"/>
+<upgrade id="u77" level_required="3550" amount="160"/>
+<upgrade id="u78" level_required="3625" amount="165"/>
+<upgrade id="u79" level_required="3700" amount="170"/>
+<upgrade id="u80" level_required="3775" amount="175"/>
+<upgrade id="u81" level_required="3825" amount="180"/>
+<upgrade id="u82" level_required="3900" amount="185"/>
+</upgrades>
+</employee>
+<employee id="10" cost="36200000000000" rps="117050572" base="1.136" max_level="4750" unlock_level="5" boob_size="2" foot_size="2" height="2" cm="185">
+<skins>
+<skin id="1" cost="300" background="1"/>
+</skins>
+<upgrades>
+<upgrade id="u10" level_required="5" amount="3"/>
+<upgrade id="u11" level_required="10" amount="3"/>
+<upgrade id="b0" level_required="15" type="Boost" amount="1"/>
+<upgrade id="u12" level_required="25" amount="5"/>
+<upgrade id="u13" level_required="50" amount="5"/>
+<upgrade id="u14" level_required="75" amount="8"/>
+<upgrade id="u15" level_required="100" amount="5"/>
+<upgrade id="b1" level_required="115" type="Boost" amount="1"/>
+<upgrade id="u16" level_required="125" amount="12"/>
+<upgrade id="u17" level_required="150" amount="15"/>
+<upgrade id="u18" level_required="175" amount="15"/>
+<upgrade id="u19" level_required="200" amount="15"/>
+<upgrade id="b2" level_required="235" type="Boost" amount="1"/>
+<upgrade id="u20" level_required="250" amount="15"/>
+<upgrade id="u21" level_required="275" amount="15"/>
+<upgrade id="u22" level_required="325" amount="20"/>
+<upgrade id="u23" level_required="350" amount="15"/>
+<upgrade id="u24" level_required="375" amount="20"/>
+<upgrade id="b3" level_required="385" type="Boost" amount="1"/>
+<upgrade id="u25" level_required="400" amount="25"/>
+<upgrade id="u26" level_required="425" amount="20"/>
+<upgrade id="u27" level_required="475" amount="25"/>
+<upgrade id="u28" level_required="500" amount="20"/>
+<upgrade id="u29" level_required="550" amount="23"/>
+<upgrade id="u30" level_required="575" amount="25"/>
+<upgrade id="b4" level_required="600" type="Boost" amount="1"/>
+<upgrade id="u31" level_required="625" amount="25"/>
+<upgrade id="u32" level_required="650" amount="23"/>
+<upgrade id="u33" level_required="675" amount="25"/>
+<upgrade id="u34" level_required="725" amount="27"/>
+<upgrade id="u35" level_required="775" amount="25"/>
+<upgrade id="u36" level_required="825" amount="30"/>
+<upgrade id="u37" level_required="850" amount="35"/>
+<upgrade id="b5" level_required="875" type="Boost" amount="1"/>
+<upgrade id="u38" level_required="900" amount="30"/>
+<upgrade id="u39" level_required="950" amount="32"/>
+<upgrade id="u40" level_required="1000" amount="35"/>
+<upgrade id="u41" level_required="1025" amount="35"/>
+<upgrade id="u42" level_required="1100" amount="37"/>
+<upgrade id="u43" level_required="1150" amount="35"/>
+<upgrade id="b6" level_required="1175" type="Boost" amount="1"/>
+<upgrade id="u44" level_required="1200" amount="30"/>
+<upgrade id="u45" level_required="1250" amount="40"/>
+<upgrade id="u46" level_required="1300" amount="43"/>
+<upgrade id="u47" level_required="1350" amount="45"/>
+<upgrade id="u48" level_required="1425" amount="43"/>
+<upgrade id="u49" level_required="1475" amount="45"/>
+<upgrade id="b7" level_required="1525" type="Boost" amount="1"/>
+<upgrade id="u50" level_required="1550" amount="45"/>
+<upgrade id="u51" level_required="1600" amount="45"/>
+<upgrade id="u52" level_required="1650" amount="50"/>
+<upgrade id="b8" level_required="1675" type="Boost" amount="1"/>
+<upgrade id="u53" level_required="1700" amount="50"/>
+<upgrade id="u54" level_required="1775" amount="50"/>
+<upgrade id="u55" level_required="1875" amount="50"/>
+<upgrade id="b9" level_required="1900" type="Boost" amount="1"/>
+<upgrade id="u56" level_required="1925" amount="55"/>
+<upgrade id="u57" level_required="2000" amount="60"/>
+<upgrade id="u58" level_required="2075" amount="65"/>
+<upgrade id="u59" level_required="2150" amount="70"/>
+<upgrade id="u60" level_required="2225" amount="75"/>
+<upgrade id="u61" level_required="2300" amount="80"/>
+<upgrade id="u62" level_required="2375" amount="85"/>
+<upgrade id="u63" level_required="2450" amount="90"/>
+<upgrade id="u64" level_required="2550" amount="95"/>
+<upgrade id="u65" level_required="2625" amount="100"/>
+<upgrade id="u66" level_required="2700" amount="105"/>
+<upgrade id="u67" level_required="2775" amount="110"/>
+<upgrade id="u68" level_required="2850" amount="115"/>
+<upgrade id="u69" level_required="2925" amount="120"/>
+<upgrade id="u70" level_required="3000" amount="125"/>
+<upgrade id="u71" level_required="3075" amount="130"/>
+<upgrade id="u72" level_required="3150" amount="135"/>
+<upgrade id="u73" level_required="3225" amount="140"/>
+<upgrade id="u74" level_required="3300" amount="145"/>
+<upgrade id="u75" level_required="3375" amount="150"/>
+<upgrade id="u76" level_required="3450" amount="155"/>
+<upgrade id="u77" level_required="3525" amount="160"/>
+<upgrade id="u78" level_required="3600" amount="165"/>
+<upgrade id="u79" level_required="3675" amount="170"/>
+<upgrade id="u80" level_required="3750" amount="175"/>
+<upgrade id="u81" level_required="3825" amount="180"/>
+<upgrade id="u82" level_required="3900" amount="185"/>
+</upgrades>
+</employee>
+<employee id="11" cost="18200000000000" rps="117050572" base="1.144" max_level="4750" unlock_level="6" boob_size="2" foot_size="1" height="1" cm="168">
+<skins>
+<skin id="1" cost="300" background="1"/>
+</skins>
+<upgrades>
+<upgrade id="u10" level_required="5" amount="3"/>
+<upgrade id="u11" level_required="10" amount="3"/>
+<upgrade id="b0" level_required="15" type="Boost" amount="1"/>
+<upgrade id="u12" level_required="25" amount="5"/>
+<upgrade id="u13" level_required="50" amount="5"/>
+<upgrade id="u14" level_required="75" amount="8"/>
+<upgrade id="u15" level_required="100" amount="5"/>
+<upgrade id="b1" level_required="115" type="Boost" amount="1"/>
+<upgrade id="u16" level_required="125" amount="12"/>
+<upgrade id="u17" level_required="150" amount="15"/>
+<upgrade id="u18" level_required="175" amount="15"/>
+<upgrade id="u19" level_required="200" amount="15"/>
+<upgrade id="b2" level_required="235" type="Boost" amount="1"/>
+<upgrade id="u20" level_required="250" amount="15"/>
+<upgrade id="u21" level_required="275" amount="15"/>
+<upgrade id="u22" level_required="325" amount="20"/>
+<upgrade id="u23" level_required="350" amount="15"/>
+<upgrade id="u24" level_required="375" amount="20"/>
+<upgrade id="b3" level_required="385" type="Boost" amount="1"/>
+<upgrade id="u25" level_required="400" amount="25"/>
+<upgrade id="u26" level_required="425" amount="20"/>
+<upgrade id="u27" level_required="475" amount="25"/>
+<upgrade id="u28" level_required="500" amount="20"/>
+<upgrade id="u29" level_required="550" amount="23"/>
+<upgrade id="u30" level_required="575" amount="25"/>
+<upgrade id="b4" level_required="600" type="Boost" amount="1"/>
+<upgrade id="u31" level_required="625" amount="25"/>
+<upgrade id="u32" level_required="650" amount="23"/>
+<upgrade id="u33" level_required="675" amount="25"/>
+<upgrade id="u34" level_required="725" amount="27"/>
+<upgrade id="u35" level_required="775" amount="25"/>
+<upgrade id="u36" level_required="825" amount="30"/>
+<upgrade id="u37" level_required="850" amount="35"/>
+<upgrade id="b5" level_required="875" type="Boost" amount="1"/>
+<upgrade id="u38" level_required="900" amount="30"/>
+<upgrade id="u39" level_required="950" amount="32"/>
+<upgrade id="u40" level_required="1000" amount="35"/>
+<upgrade id="u41" level_required="1025" amount="35"/>
+<upgrade id="u42" level_required="1100" amount="37"/>
+<upgrade id="u43" level_required="1150" amount="35"/>
+<upgrade id="b6" level_required="1175" type="Boost" amount="1"/>
+<upgrade id="u44" level_required="1200" amount="30"/>
+<upgrade id="u45" level_required="1250" amount="40"/>
+<upgrade id="u46" level_required="1300" amount="43"/>
+<upgrade id="u47" level_required="1350" amount="45"/>
+<upgrade id="u48" level_required="1425" amount="43"/>
+<upgrade id="u49" level_required="1475" amount="45"/>
+<upgrade id="b7" level_required="1525" type="Boost" amount="1"/>
+<upgrade id="u50" level_required="1550" amount="45"/>
+<upgrade id="u51" level_required="1600" amount="45"/>
+<upgrade id="u52" level_required="1650" amount="50"/>
+<upgrade id="b8" level_required="1675" type="Boost" amount="1"/>
+<upgrade id="u53" level_required="1700" amount="50"/>
+<upgrade id="u54" level_required="1775" amount="50"/>
+<upgrade id="u55" level_required="1875" amount="50"/>
+<upgrade id="b9" level_required="1900" type="Boost" amount="1"/>
+<upgrade id="u56" level_required="1925" amount="55"/>
+<upgrade id="u57" level_required="2000" amount="60"/>
+<upgrade id="u58" level_required="2075" amount="65"/>
+<upgrade id="u59" level_required="2150" amount="70"/>
+<upgrade id="u60" level_required="2225" amount="75"/>
+<upgrade id="u61" level_required="2300" amount="80"/>
+<upgrade id="u62" level_required="2375" amount="85"/>
+<upgrade id="u63" level_required="2450" amount="90"/>
+<upgrade id="u64" level_required="2550" amount="95"/>
+<upgrade id="u65" level_required="2625" amount="100"/>
+<upgrade id="u66" level_required="2700" amount="105"/>
+<upgrade id="u67" level_required="2775" amount="110"/>
+<upgrade id="u68" level_required="2850" amount="115"/>
+<upgrade id="u69" level_required="2925" amount="120"/>
+<upgrade id="u70" level_required="3000" amount="125"/>
+<upgrade id="u71" level_required="3075" amount="130"/>
+<upgrade id="u72" level_required="3150" amount="135"/>
+<upgrade id="u73" level_required="3225" amount="140"/>
+<upgrade id="u74" level_required="3300" amount="145"/>
+<upgrade id="u75" level_required="3375" amount="150"/>
+<upgrade id="u76" level_required="3450" amount="155"/>
+<upgrade id="u77" level_required="3525" amount="160"/>
+<upgrade id="u78" level_required="3600" amount="165"/>
+<upgrade id="u79" level_required="3675" amount="170"/>
+<upgrade id="u80" level_required="3750" amount="175"/>
+<upgrade id="u81" level_required="3825" amount="180"/>
+<upgrade id="u82" level_required="3900" amount="185"/>
+</upgrades>
+</employee>
+<employee id="14" unlock_level="6" boob_size="1" foot_size="0" height="0" cm="154">
+<skins>
+<skin id="1" cost="300" background="1"/>
+</skins>
+<upgrades>
+</upgrades>
+</employee>
+<employee id="12" unlock_level="7" boob_size="2" foot_size="0" height="1" cm="164">
+<skins>
+<skin id="1" cost="300" background="1"/>
+</skins>
+<upgrades>
+</upgrades>
+</employee>
+<employee id="16" unlock_level="7" boob_size="1" foot_size="1" height="1" cm="163">
+<skins>
+<skin id="1" cost="300" background="1"/>
+</skins>
+<upgrades>
+</upgrades>
+</employee>
+<employee id="13" unlock_level="8" boob_size="2" foot_size="2" height="2" cm="173">
+<skins>
+<skin id="1" cost="300" background="1"/>
+</skins>
+<upgrades>
+</upgrades>
+</employee>
+<employee id="17" unlock_level="8" boob_size="0" foot_size="1" height="1" cm="166">
+<skins>
+<skin id="1" cost="300" background="1"/>
+</skins>
+<upgrades>
+</upgrades>
+</employee>
+<employee id="15" unlock_level="9" boob_size="1" foot_size="0" height="0" cm="158">
+<skins>
+<skin id="1" cost="300" background="1"/>
+</skins>
+<upgrades></upgrades>
+</employee>
+<employee id="18" unlock_level="9" boob_size="1" foot_size="2" height="2" cm="172">
+<skins>
+<skin id="1" cost="300" background="1"/>
+</skins>
+<upgrades></upgrades>
+</employee>
+<employee id="19" unlock_level="10" boob_size="2" foot_size="1" height="0" cm="160">
+<skins>
+<skin id="1" cost="300" background="1"/>
+</skins>
+<upgrades></upgrades>
+</employee>
+<employee id="20" unlock_level="11" boob_size="2" foot_size="2" height="2" cm="173">
+<upgrades/>
+</employee>
+<employee id="21" unlock_level="100000" boob_size="2" foot_size="1" height="2" cm="176">
+<upgrades/>
+</employee>
+<employee id="22" unlock_level="100000" boob_size="2" foot_size="0" height="0" cm="158">
+<upgrades/>
+</employee>
+<employee id="23" unlock_level="100000" boob_size="0" foot_size="0" height="1" cm="164">
+<upgrades/>
+</employee>
+<employee id="24" unlock_level="100000" boob_size="1" foot_size="1" height="1" cm="164">
+<skins>
+<skin id="1" cost="100000" background="special"/>
+<skin id="2" cost="100000" background="special"/>
+<skin id="3" cost="100000" background="special"/>
+</skins>
+<upgrades/>
+</employee>
+<employee id="25" unlock_level="100000" boob_size="0" foot_size="0" height="0" cm="140">
+<upgrades/>
+</employee>
+<employee id="26" unlock_level="100000" boob_size="2" foot_size="2" height="2" cm="171">
+<upgrades/>
+</employee>
+<employee id="27" unlock_level="100000" boob_size="2" foot_size="1" height="1" cm="169">
+<upgrades/>
+</employee>
+</employees>

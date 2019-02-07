@@ -1,0 +1,38 @@
+<wheel>
+<position>
+<reward type="Multiplier" count="2"/>
+</position>
+<position>
+<reward type="Keys" count="3"/>
+</position>
+<position>
+<reward type="Item" param="t2" count="1"/>
+</position>
+<position>
+<reward type="Item" param="b0" count="1"/>
+</position>
+<position>
+<reward type="Item" param="t0" count="1"/>
+</position>
+<position>
+<reward type="Keys" count="2"/>
+</position>
+<position>
+<reward type="Item" param="b0" count="2"/>
+</position>
+<position>
+<reward type="Item" param="t3" count="1"/>
+</position>
+<position>
+<reward type="Multiplier" count="3"/>
+</position>
+<position>
+<reward type="Keys" count="5"/>
+</position>
+<position>
+<reward type="Item" param="t1" count="1"/>
+</position>
+<position>
+<reward type="Keys" count="4"/>
+</position>
+</wheel>

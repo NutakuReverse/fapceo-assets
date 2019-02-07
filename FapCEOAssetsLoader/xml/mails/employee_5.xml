@@ -1,0 +1,539 @@
+<mails employeeId="5">
+	<thread id="t5_0" delay="0">
+		<mail id="m5_0_0" unlock="OnHire">
+			<reply id="r5_0_0a"/>
+			<reply id="r5_0_0b"/>
+			<reward type="Mail" param="m5_0_1"/>
+		</mail>
+		
+		<mail id="m5_0_1" unlock="Locked">
+			<attachment id="mail/5/mudshwke" />
+			<reward type="Thread" param="t5_1"/>
+		</mail>
+	</thread>
+	
+	
+	<thread id="t5_1" delay="60">
+		<mail id="m5_1_0" unlock="Instant">
+			<reply id="r5_1_0a"/>
+			<reply id="r5_1_0b"/>
+			<reward type="Mail" param="m5_1_1"/>
+		</mail>
+		
+		<mail id="m5_1_1" unlock="Locked">
+			<reply id="r5_1_1a">
+				<requirement type="Item" param="i5" count="3"/>
+			</reply>
+			<reply id="r5_1_1b">
+				<requirement type="Item" param="i11" count="3"/>
+			</reply>
+			<reward type="Mail" param="m5_1_2"/>
+		</mail>
+		
+		<mail id="m5_1_2" unlock="Locked">
+			<attachment id="mail/5/gjrfbyeh" />
+			<reward type="Thread" param="t5_2"/>
+		</mail>
+	</thread>
+	
+	
+	<thread id="t5_2" delay="600">
+		<mail id="m5_2_0" unlock="Instant">
+			<reply id="r5_2_0a"/>
+			<reply id="r5_2_0b"/>
+			<reward type="Mail" param="m5_2_1"/>
+		</mail>
+		
+		<mail id="m5_2_1" unlock="Locked">
+			<reply id="r5_2_1a"/>
+			<reply id="r5_2_1b"/>
+			<reward type="Mail" param="m5_2_2"/>
+		</mail>
+		
+		<mail id="m5_2_2" unlock="Locked">
+			<reply id="r5_2_2a">
+				<requirement type="Item" param="i6" count="5"/>
+			</reply>
+			<reply id="r5_2_2b">
+				<requirement type="Item" param="i4" count="5"/>
+			</reply>
+			<reward type="Mail" param="m5_2_3"/>
+		</mail>
+		
+		<mail id="m5_2_3" unlock="Locked">
+			<attachment id="mail/5/swghdrlm" />
+			<reward type="Thread" param="t5_3"/>
+		</mail>
+	</thread>
+	
+	
+	<thread id="t5_3" delay="3600">
+		<mail id="m5_3_0" unlock="Instant">
+			<reply id="r5_3_0a"/>
+			<reply id="r5_3_0b"/>
+			<reward type="Mail" param="m5_3_1"/>
+		</mail>
+		
+		<mail id="m5_3_1" unlock="Locked">
+			<reply id="r5_3_1a"/>
+			<reply id="r5_3_1b"/>
+			<reward type="Mail" param="m5_3_2"/>
+		</mail>
+		
+		<mail id="m5_3_2" unlock="Locked">
+			<reply id="r5_3_2a"/>
+			<reply id="r5_3_2b"/>
+			<reward type="Mail" param="m5_3_3"/>
+		</mail>
+		
+		<mail id="m5_3_3" unlock="Locked">
+			<reply id="r5_3_3a"/>
+			<reply id="r5_3_3b"/>
+			<reward type="Mail" param="m5_3_4"/>
+		</mail>
+		
+		<mail id="m5_3_4" unlock="Locked">
+			<reply id="r5_3_4a"/>
+			<reply id="r5_3_4b"/>
+			<reward type="Mail" param="m5_3_5"/>
+		</mail>
+		
+		<mail id="m5_3_5" unlock="Locked">
+			<reply id="r5_3_5a">
+				<requirement type="Item" param="i5" count="5"/>
+				<requirement type="Item" param="i14" count="5"/>
+			</reply>
+			<reply id="r5_3_5b">
+				<requirement type="Item" param="i14" count="5"/>
+				<requirement type="Item" param="i11" count="5"/>
+			</reply>
+			<reward type="Mail" param="m5_3_6"/>
+		</mail>
+		
+		<mail id="m5_3_6" unlock="Locked">
+			<attachment id="mail/5/bgyqqskc" />
+			<reward type="Thread" param="t5_4"/>
+		</mail>
+	</thread>
+	
+	
+	<thread id="t5_4" delay="36000">
+		<mail id="m5_4_0" unlock="Instant">
+			<reply id="r5_4_0a"/>
+			<reply id="r5_4_0b"/>
+			<reward type="Mail" param="m5_4_1"/>
+		</mail>
+		
+		<mail id="m5_4_1" unlock="Locked">
+			<reply id="r5_4_1a"/>
+			<reply id="r5_4_1b"/>
+			<reward type="Mail" param="m5_4_2"/>
+		</mail>
+		
+		<mail id="m5_4_2" unlock="Locked">
+			<reply id="r5_4_2a"/>
+			<reply id="r5_4_2b"/>
+			<reward type="Mail" param="m5_4_3"/>
+		</mail>
+		
+		<mail id="m5_4_3" unlock="Locked">
+			<reply id="r5_4_3a"/>
+			<reply id="r5_4_3b"/>
+			<reward type="Mail" param="m5_4_4"/>
+		</mail>
+		
+		<mail id="m5_4_4" unlock="Locked">
+			<reply id="r5_4_4a"/>
+			<reply id="r5_4_4b"/>
+			<reward type="Mail" param="m5_4_5"/>
+		</mail>
+		
+		<mail id="m5_4_5" unlock="Locked">
+			<reply id="r5_4_5a">
+				<requirement type="Item" param="i6" count="5"/>
+				<requirement type="Item" param="i14" count="5"/>
+			</reply>
+			<reply id="r5_4_5b">
+				<requirement type="Item" param="i14" count="5"/>
+				<requirement type="Item" param="i4" count="5"/>
+			</reply>
+			<reward type="Mail" param="m5_4_6"/>
+		</mail>
+		
+		<mail id="m5_4_6" unlock="Locked">
+			<attachment id="mail/5/ewwuctyg" />
+			<reward type="Thread" param="t5_5"/>
+		</mail>
+	</thread>
+	
+	
+	<thread id="t5_5" delay="72000">
+		<mail id="m5_5_0" unlock="Instant">
+			<reply id="r5_5_0a"/>
+			<reply id="r5_5_0b"/>
+			<reward type="Mail" param="m5_5_1"/>
+		</mail>
+		
+		<mail id="m5_5_1" unlock="Locked">
+			<reply id="r5_5_1a"/>
+			<reply id="r5_5_1b"/>
+			<reward type="Mail" param="m5_5_2"/>
+		</mail>
+		
+		<mail id="m5_5_2" unlock="Locked">
+			<reply id="r5_5_2a"/>
+			<reply id="r5_5_2b"/>
+			<reward type="Mail" param="m5_5_3"/>
+		</mail>
+		
+		<mail id="m5_5_3" unlock="Locked">
+			<reply id="r5_5_3a"/>
+			<reply id="r5_5_3b"/>
+			<reward type="Mail" param="m5_5_4"/>
+		</mail>
+		
+		<mail id="m5_5_4" unlock="Locked">
+			<reply id="r5_5_4a">
+				<requirement type="Item" param="i5" count="10"/>
+				<requirement type="Item" param="i6" count="10"/>
+				<requirement type="Item" param="i14" count="10"/>
+			</reply>
+			<reply id="r5_5_4b">
+				<requirement type="Item" param="i14" count="10"/>
+				<requirement type="Item" param="i4" count="10"/>
+				<requirement type="Item" param="i11" count="10"/>
+			</reply>
+			<reward type="Mail" param="m5_5_5"/>
+		</mail>
+		
+		<mail id="m5_5_5" unlock="Locked">
+			<attachment id="mail/5/wegutrkh" />
+			<reward type="Thread" param="t5_6"/>
+		</mail>
+	</thread>
+	
+	
+	<thread id="t5_6" delay="180000" specialInstruction="t5_1_si">
+		<mail id="m5_6_0" unlock="Instant">
+			<reply id="r5_6_0a"/>
+			<reply id="r5_6_0b"/>
+			<reward type="Mail" param="m5_6_1"/>
+		</mail>
+		
+		<mail id="m5_6_1" unlock="Locked">
+			<reply id="r5_6_1a"/>
+			<reply id="r5_6_1b"/>
+			<reward type="Mail" param="m5_6_2"/>
+		</mail>
+		
+		<mail id="m5_6_2" unlock="Locked">
+			<reply id="r5_6_2a"/>
+			<reply id="r5_6_2b"/>
+			<reward type="Mail" param="m5_6_3"/>
+		</mail>
+		
+		<mail id="m5_6_3" unlock="Locked">
+			<reply id="r5_6_3a"/>
+			<reply id="r5_6_3b"/>
+			<reward type="Mail" param="m5_6_4"/>
+		</mail>
+		
+		<mail id="m5_6_4" unlock="Locked">
+			<reply id="r5_6_4a">
+				<requirement type="Item" param="i5" count="10"/>
+				<requirement type="Item" param="i6" count="10"/>
+				<requirement type="Item" param="i14" count="15"/>
+			</reply>
+			<reply id="r5_6_4b">
+				<requirement type="Item" param="i14" count="15"/>
+				<requirement type="Item" param="i4" count="10"/>
+				<requirement type="Item" param="i11" count="10"/>
+			</reply>
+			<reward type="Mail" param="m5_6_5"/>
+		</mail>
+		
+		<mail id="m5_6_5" unlock="Locked">
+			<attachment id="mail/5/hqdaeeoi" />
+			
+			<reward type="ConditionalThread" path="m1_6_6" param="t1_7"/>
+		</mail>
+	</thread>
+	
+	
+	<thread id="t5_7" delay="180000" specialInstruction="t5_1_si">
+		<mail id="m5_7_0" unlock="Instant">
+			<reply id="r5_7_0a"/>
+			<reply id="r5_7_0b"/>
+			<reward type="Mail" param="m5_7_1"/>
+		</mail>
+		
+		<mail id="m5_7_1" unlock="Locked">
+			<reply id="r5_7_1a"/>
+			<reply id="r5_7_1b"/>
+			<reward type="Mail" param="m5_7_2"/>
+		</mail>
+		
+		<mail id="m5_7_2" unlock="Locked">
+			<reply id="r5_7_2a"/>
+			<reply id="r5_7_2b"/>
+			<reward type="Mail" param="m5_7_3"/>
+		</mail>
+		
+		<mail id="m5_7_3" unlock="Locked">
+			<reply id="r5_7_3a"/>
+			<reply id="r5_7_3b"/>
+			<reward type="Mail" param="m5_7_4"/>
+		</mail>
+		
+		<mail id="m5_7_4" unlock="Locked">
+			<reply id="r5_7_4a"/>
+			<reply id="r5_7_4b"/>
+			<reward type="Mail" param="m5_7_5"/>
+		</mail>
+		
+		<mail id="m5_7_5" unlock="Locked">
+			<reply id="r5_7_5a"/>
+			<reply id="r5_7_5b"/>
+			<reward type="Mail" param="m5_7_6"/>
+		</mail>
+		
+		<mail id="m5_7_6" unlock="Locked">
+			<reply id="r5_7_6a"/>
+			<reply id="r5_7_6b"/>
+			<reward type="Mail" param="m5_7_7"/>
+		</mail>
+		
+		<mail id="m5_7_7" unlock="Locked">
+			<reply id="r5_7_7a"/>
+			<reply id="r5_7_7b"/>
+			<reward type="Mail" param="m5_7_8"/>
+		</mail>
+		
+		<mail id="m5_7_8" unlock="Locked">
+			<reply id="r5_7_8a"/>
+			<reply id="r5_7_8b"/>
+			<reward type="Mail" param="m5_7_9"/>
+		</mail>
+		
+		<mail id="m5_7_9" unlock="Locked">
+			<reply id="r5_7_9a"/>
+			<reply id="r5_7_9b"/>
+			<reward type="Mail" param="m5_7_10"/>
+		</mail>
+		
+		<mail id="m5_7_10" unlock="Locked">
+			<reply id="r5_7_10a">
+				<requirement type="Item" param="i5" count="40"/>
+				<requirement type="Item" param="i6" count="40"/>
+				<requirement type="Item" param="i14" count="50"/>
+			</reply>
+			<reply id="r5_7_10b">
+				<requirement type="Item" param="i14" count="50"/>
+				<requirement type="Item" param="i4" count="40"/>
+				<requirement type="Item" param="i11" count="40"/>
+			</reply>
+			<reward type="Mail" param="m5_7_11"/>
+		</mail>
+		
+		
+		<mail id="m5_7_11" unlock="Locked">
+			<attachment id="mail/5/dcklmnrw" />
+			<reward type="Thread" param="t1_8"/>
+		</mail>
+	</thread>
+	
+	
+	
+	<thread id="t5_8" delay="180000" specialInstruction="t5_1_si">
+		<mail id="m5_8_0" unlock="Instant">
+			<reply id="r5_8_0a"/>
+			<reply id="r5_8_0b"/>
+			<reward type="Mail" param="m5_8_1"/>
+		</mail>
+		
+		<mail id="m5_8_1" unlock="Locked">
+			<reply id="r5_8_1a"/>
+			<reply id="r5_8_1b"/>
+			<reward type="Mail" param="m5_8_2"/>
+		</mail>
+		
+		<mail id="m5_8_2" unlock="Locked">
+			<reply id="r5_8_2a"/>
+			<reply id="r5_8_2b"/>
+			<reward type="Mail" param="m5_8_3"/>
+		</mail>
+		
+		<mail id="m5_8_3" unlock="Locked">
+			<reply id="r5_8_3a"/>
+			<reply id="r5_8_3b"/>
+			<reward type="Mail" param="m5_8_4"/>
+		</mail>
+		
+		<mail id="m5_8_4" unlock="Locked">
+			<reply id="r5_8_4a"/>
+			<reply id="r5_8_4b"/>
+			<reward type="Mail" param="m5_8_5"/>
+		</mail>
+		
+		<mail id="m5_8_5" unlock="Locked">
+			<reply id="r5_8_5a"/>
+			<reply id="r5_8_5b"/>
+			<reward type="Mail" param="m5_8_6"/>
+		</mail>
+		
+		<mail id="m5_8_6" unlock="Locked">
+			<reply id="r5_8_6a"/>
+			<reply id="r5_8_6b"/>
+			<reward type="Mail" param="m5_8_7"/>
+		</mail>
+		
+		<mail id="m5_8_7" unlock="Locked">
+			<reply id="r5_8_7a"/>
+			<reply id="r5_8_7b"/>
+			<reward type="Mail" param="m5_8_8"/>
+		</mail>
+		
+		<mail id="m5_8_8" unlock="Locked">
+			<reply id="r5_8_8a"/>
+			<reply id="r5_8_8b"/>
+			<reward type="Mail" param="m5_8_9"/>
+		</mail>
+		
+		<mail id="m5_8_9" unlock="Locked">
+			<reply id="r5_8_9a"/>
+			<reply id="r5_8_9b"/>
+			<reward type="Mail" param="m5_8_10"/>
+		</mail>
+		
+		<mail id="m5_8_10" unlock="Locked">
+			<reply id="r5_8_10a"/>
+			<reply id="r5_8_10b"/>
+			<reward type="Mail" param="m5_8_11"/>
+		</mail>
+		
+		<mail id="m5_8_11" unlock="Locked">
+			<reply id="r5_8_11a">
+				<requirement type="Item" param="i5" count="40"/>
+				<requirement type="Item" param="i6" count="40"/>
+				<requirement type="Item" param="i14" count="50"/>
+			</reply>
+			<reply id="r5_8_11b">
+				<requirement type="Item" param="i14" count="50"/>
+				<requirement type="Item" param="i4" count="40"/>
+				<requirement type="Item" param="i11" count="40"/>
+			</reply>
+			<reward type="Mail" param="m5_8_12"/>
+		</mail>
+		
+		
+		<mail id="m5_8_12" unlock="Locked">
+			<attachment id="mail/5/hkomunie" />
+			<reward type="Thread" param="t1_9"/>
+		</mail>
+	</thread>
+	
+	
+	<thread id="t5_9" delay="180000" specialInstruction="t5_1_si">
+		<mail id="m5_9_0" unlock="Instant">
+			<reply id="r5_9_0a"/>
+			<reply id="r5_9_0b"/>
+			<reward type="Mail" param="m5_9_1"/>
+		</mail>
+		
+		<mail id="m5_9_1" unlock="Locked">
+			<reply id="r5_9_1a"/>
+			<reply id="r5_9_1b"/>
+			<reward type="Mail" param="m5_9_2"/>
+		</mail>
+		
+		<mail id="m5_9_2" unlock="Locked">
+			<reply id="r5_9_2a"/>
+			<reply id="r5_9_2b"/>
+			<reward type="Mail" param="m5_9_3"/>
+		</mail>
+		
+		<mail id="m5_9_3" unlock="Locked">
+			<reply id="r5_9_3a"/>
+			<reply id="r5_9_3b"/>
+			<reward type="Mail" param="m5_9_4"/>
+		</mail>
+		
+		<mail id="m5_9_4" unlock="Locked">
+			<reply id="r5_9_4a"/>
+			<reply id="r5_9_4b"/>
+			<reward type="Mail" param="m5_9_5"/>
+		</mail>
+		
+		<mail id="m5_9_5" unlock="Locked">
+			<reply id="r5_9_5a"/>
+			<reply id="r5_9_5b"/>
+			<reward type="Mail" param="m5_9_6"/>
+		</mail>
+		
+		<mail id="m5_9_6" unlock="Locked">
+			<reply id="r5_9_6a"/>
+			<reply id="r5_9_6b"/>
+			<reward type="Mail" param="m5_9_7"/>
+		</mail>
+		
+		<mail id="m5_9_7" unlock="Locked">
+			<reply id="r5_9_7a"/>
+			<reply id="r5_9_7b"/>
+			<reward type="Mail" param="m5_9_8"/>
+		</mail>
+		
+		<mail id="m5_9_8" unlock="Locked">
+			<reply id="r5_9_8a"/>
+			<reply id="r5_9_8b"/>
+			<reward type="Mail" param="m5_9_9"/>
+		</mail>
+		
+		<mail id="m5_9_9" unlock="Locked">
+			<reply id="r5_9_9a"/>
+			<reply id="r5_9_9b"/>
+			<reward type="Mail" param="m5_9_10"/>
+		</mail>
+		
+		<mail id="m5_9_10" unlock="Locked">
+			<reply id="r5_9_10a"/>
+			<reply id="r5_9_10b"/>
+			<reward type="Mail" param="m5_9_11"/>
+		</mail>
+		
+		<mail id="m5_9_11" unlock="Locked">
+			<reply id="r5_9_11a"/>
+			<reply id="r5_9_11b"/>
+			<reward type="Mail" param="m5_9_12"/>
+		</mail>
+		
+		<mail id="m5_9_12" unlock="Locked">
+			<reply id="r5_9_12a"/>
+			<reply id="r5_9_12b"/>
+			<reward type="Mail" param="m5_9_13"/>
+		</mail>
+		
+		<mail id="m5_9_13" unlock="Locked">
+			<reply id="r5_9_13a"/>
+			<reply id="r5_9_13b"/>
+			<reward type="Mail" param="m5_9_14"/>
+		</mail>
+		
+		<mail id="m5_9_14" unlock="Locked">
+			<reply id="r5_9_14a">
+				<requirement type="Item" param="i5" count="40"/>
+				<requirement type="Item" param="i6" count="40"/>
+				<requirement type="Item" param="i14" count="50"/>
+			</reply>
+			<reply id="r5_9_14b">
+				<requirement type="Item" param="i14" count="50"/>
+				<requirement type="Item" param="i4" count="40"/>
+				<requirement type="Item" param="i11" count="40"/>
+			</reply>
+			<reward type="Mail" param="m5_9_15"/>
+		</mail>
+		
+		<mail id="m5_9_15" unlock="Locked">
+			<attachment id="mail/5/niutewbv" />
+		</mail>
+	</thread>
+</mails>

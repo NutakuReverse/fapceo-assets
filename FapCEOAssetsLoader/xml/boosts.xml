@@ -1,0 +1,12 @@
+<boosts>
+  <boost id="b0" multip="2" duration="600" />
+  <boost id="b1" multip="2.5" duration="600" />
+  <boost id="b2" multip="3" duration="540" />
+  <boost id="b3" multip="3.5" duration="540" />
+  <boost id="b4" multip="4" duration="480" />
+  <boost id="b5" multip="4.5" duration="480" />
+  <boost id="b6" multip="5" duration="420" />
+  <boost id="b7" multip="5.5" duration="420" />
+  <boost id="b8" multip="6" duration="360" />
+  <boost id="b9" multip="7" duration="300" />
+</boosts>

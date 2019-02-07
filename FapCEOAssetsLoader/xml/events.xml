@@ -1,0 +1,761 @@
+<events>
+    <current id="gacha_24i" 
+			mail="0"
+			type="Gacha" 
+			level="2"
+            expiration="1548979199"
+            removal="1549151999" 
+            button="eventbtn_i24" 
+			box="eventbox_bf"
+			bundle="gacha_24i"
+            girl="girl_24i" />
+			
+	<offer id="amb2019"
+			type="SpecialPack"
+			level="1"
+			expiration="1550015940"
+			removal="1550015940"
+			button="eventbtn_amb"/>
+			
+	<box duration="7200" 
+			count="1"
+			number="2"
+			maxClicks="10"/>
+
+	<gacha type="Item" 
+			param="i00_24i"
+			rerollPrice="200" 
+			choosePrice="20">
+	
+		<chest type="Thread" param="t0_4" />
+	
+		<prize>
+			<reward type="Item" count="1" param="i10_24i"/>
+			<reward type="Item" count="1" param="i20_24i"/>
+			<reward type="Item" count="1" param="i30_24i"/>
+			<reward type="Item" count="1" param="i40_24i"/>
+			<reward type="Item" count="1" param="i50_24i"/>
+		</prize>
+	
+		<brackets>
+            <bracket tier="0" probability="10">
+            <reward type="Multiplier" count="5"/>
+            <reward type="Item" count="2" param="t3"/>
+            <reward type="Keys" count="15"/>
+            <reward type="Keys" count="20"/>
+            <reward type="Item" count="5" param="i00_24i"/>
+        </bracket>
+        <bracket tier="1" probability="20">
+            <reward type="Multiplier" count="3"/>
+            <reward type="Item" count="3" param="t2"/>
+            <reward type="Item" count="2" param="t2"/>
+            <reward type="Keys" count="10"/>
+            <reward type="Item" count="3" param="i00_24i"/>
+        </bracket>
+        <bracket tier="2" probability="50">
+            <reward type="Item" count="5" param="b0"/>
+            <reward type="Item" count="3" param="b0"/>
+            <reward type="Item" count="4" param="t1"/>
+            <reward type="Item" count="3" param="t1"/>
+            <reward type="Keys" count="5"/>
+            <reward type="Keys" count="7"/>
+            <reward type="Item" count="2" param="i00_24i"/>
+        </bracket>
+        <bracket tier="3">
+            <reward type="Item" count="2" param="b0"/>
+            <reward type="Item" count="2" param="t0"/>
+            <reward type="Item" count="1" param="t0"/>
+            <reward type="Keys" count="3"/>
+            <reward type="Keys" count="2"/>
+        </bracket>
+		</brackets>
+	
+		<itemRewards>
+			<reward type="Item" count="1" param="si00"/>
+			<reward type="Item" count="1" param="si01"/>
+			<reward type="Item" count="1" param="si02"/>
+			<reward type="Item" count="1" param="si03"/>
+			<reward type="Item" count="1" param="si04"/>
+			<reward type="Item" count="1" param="si05"/>
+			<reward type="Item" count="1" param="si06"/>
+			<reward type="Item" count="1" param="si07"/>
+		</itemRewards>
+	</gacha>
+			
+    <orgasm type="Item" param="i00_tw">
+		<randoms base="1">
+			<reward type="Item" count="1" param="i00_tw" fparam="0.1"/>
+			<reward type="Item" count="1" param="t0" fparam="0.25"/>
+			<reward type="Keys" count="1" fparam="0.4"/>
+		</randoms>
+
+        <brackets>
+            <bracket count="15000" id="tw_0" tier="0">
+                <reward type="Rubies" count="50"/>
+                <reward type="Keys" count="25"/>
+                <reward type="Multiplier"  count="2"/>
+            </bracket>
+			<bracket count="15000" id="tw_0b" condition="org_0" tier="0">
+                <reward type="Rubies" count="50"/>
+                <reward type="Keys" count="25"/>
+                <reward type="Multiplier"  count="2"/>
+            </bracket>
+            <bracket count="30000" id="tw_1" tier="1">
+                <reward type="Rubies" count="100"/>
+                <reward type="Keys" count="50"/>
+                <reward type="Multiplier"  count="3"/>
+            </bracket>
+			<bracket count="30000" id="tw_1b" condition="org_1" tier="1">
+                <reward type="Rubies" count="100"/>
+                <reward type="Keys" count="50"/>
+                <reward type="Multiplier"  count="3"/>
+            </bracket>
+            <bracket count="45000" id="tw_2" tier="2">
+                <reward type="Rubies" count="200"/>
+                <reward type="Keys" count="100"/>
+                <reward type="Multiplier"  count="5"/>
+            </bracket>
+			<bracket count="45000" id="tw_2b" condition="org_2" tier="2">
+                <reward type="Rubies" count="200"/>
+                <reward type="Keys" count="100"/>
+                <reward type="Multiplier"  count="5"/>
+            </bracket>
+            <bracket count="60000" id="tw_3" tier="3" special="tw_24">
+                <reward type="Employee" param="24" count="1"/>
+            </bracket>
+			<bracket count="60000" id="tw_3b" condition="org_3" tier="3" special="tw_skins">
+			   <reward type="Employee" param="24" count="1"/>
+               <reward type="Skin" param="24,2" count="1"/>
+			   <reward type="Skin" param="24,3" count="1"/>
+            </bracket>
+        </brackets>
+    </orgasm>
+
+    <missions>
+		<durations>
+			<duration min="1799" max="3601">1800</duration>
+			<duration min="3599" max="14401">3600</duration>
+			<duration min="3599" max="28801">14400</duration>
+			<duration min="28799" max="86400">86400</duration>
+		</durations>
+	
+        <target type="Item" param="i00_cm">
+            <employee id="25" count="3000"/>
+            <employee id="26" count="5000"/>
+            <employee id="27" count="7000"/>
+        </target>
+        
+		<templates>
+			<template id="t0" probability="24" enhanced="-1">
+				<mission id="t0_0" duration="1800" offset="0.3">
+					<rewards>
+						<reward type="Item" param="b0" count="1" />
+						<reward type="Keys" count="1" />
+						<reward type="Item" param="i00_cm" count="13" />
+					</rewards>
+				</mission>
+				<mission id="t0_1" duration="1800" offset="0.3">
+					<rewards>
+						<reward type="Item" param="b0" count="1" />
+						<reward type="Keys" count="1" />
+						<reward type="Item" param="i00_cm" count="13" />
+					</rewards>
+				</mission>
+				<mission id="t0_2" duration="1800" offset="0.3">
+					<rewards>
+						<reward type="Item" param="b0" count="1" />
+						<reward type="Keys" count="1" />
+						<reward type="Item" param="i00_cm" count="13" />
+					</rewards>
+				</mission>
+				<mission id="t0_3" duration="1800" offset="0.3">
+					<rewards>
+						<reward type="Item" param="b0" count="1" />
+						<reward type="Item" param="b0" count="1" />
+						<reward type="Item" param="i00_cm" count="13" />
+					</rewards>
+				</mission>
+				<mission id="t0_4" duration="1800" offset="0.3">
+					<rewards>
+						<reward type="Item" param="b0" count="1" />
+						<reward type="Item" param="b0" count="1" />
+						<reward type="Item" param="i00_cm" count="13" />
+					</rewards>
+				</mission>
+				<mission id="t0_5" duration="1800" offset="0.3">
+					<rewards>
+						<reward type="Item" param="b0" count="1" />
+						<reward type="Item" param="b0" count="1" />
+						<reward type="Item" param="i00_cm" count="13" />
+					</rewards>
+				</mission>
+				<mission id="t0_6" duration="1800" offset="0.3">
+					<rewards>
+						<reward type="Keys" count="1" />
+						<reward type="Item" param="b0" count="1" />
+						<reward type="Item" param="i00_cm" count="13" />
+					</rewards>
+				</mission>
+				<mission id="t0_7" duration="1800" offset="0.3">
+					<rewards>
+						<reward type="Keys" count="1" />
+						<reward type="Item" param="b0" count="1" />
+						<reward type="Item" param="i00_cm" count="13" />
+					</rewards>
+				</mission>
+				<mission id="t0_8" duration="1800" offset="0.3">
+					<rewards>
+						<reward type="Keys" count="1" />
+						<reward type="Keys" count="1" />
+						<reward type="Item" param="i00_cm" count="13" />
+					</rewards>
+				</mission>
+				<mission id="t0_9" duration="3600" offset="0.3">
+					<rewards>
+						<reward type="Item" param="b0" count="1" />
+						<reward type="Keys" count="1" />
+						<reward type="Item" param="i00_cm" count="23" />
+					</rewards>
+				</mission>
+				<mission id="t0_10" duration="3600" offset="0.3">
+					<rewards>
+						<reward type="Item" param="b0" count="1" />
+						<reward type="Keys" count="1" />
+						<reward type="Item" param="i00_cm" count="23" />
+					</rewards>
+				</mission>
+				<mission id="t0_11" duration="3600" offset="0.3">
+					<rewards>
+						<reward type="Item" param="b0" count="2" />
+						<reward type="Item" param="b0" count="1" />
+						<reward type="Item" param="i00_cm" count="23" />
+					</rewards>
+				</mission>
+				<mission id="t0_12" duration="3600" offset="0.3">
+					<rewards>
+						<reward type="Item" param="b0" count="2" />
+						<reward type="Item" param="b0" count="1" />
+						<reward type="Item" param="i00_cm" count="23" />
+					</rewards>
+				</mission>
+				<mission id="t0_13" duration="3600" offset="0.3">
+					<rewards>
+						<reward type="Keys" count="2" />
+						<reward type="Keys" count="2" />
+						<reward type="Item" param="i00_cm" count="23" />
+					</rewards>
+				</mission>
+				<mission id="t0_14" duration="3600" offset="0.3">
+					<rewards>
+						<reward type="Keys" count="2" />
+						<reward type="Item" param="b0" count="2" />
+						<reward type="Item" param="i00_cm" count="23" />
+					</rewards>
+				</mission>
+				<mission id="t0_15" duration="7200" offset="0.3">
+					<rewards>
+						<reward type="Item" param="t0" count="1" />
+						<reward type="Keys" count="4" />
+						<reward type="Item" param="i00_cm" count="41" />
+					</rewards>
+				</mission>
+				<mission id="t0_16" duration="7200" offset="0.3">
+					<rewards>
+						<reward type="Item" param="t0" count="1" />
+						<reward type="Keys" count="4" />
+						<reward type="Item" param="i00_cm" count="41" />
+					</rewards>
+				</mission>
+				<mission id="t0_17" duration="7200" offset="0.3">
+					<rewards>
+						<reward type="Keys" count="3" />
+						<reward type="Item" param="t0" count="1" />
+						<reward type="Item" param="i00_cm" count="41" />
+					</rewards>
+				</mission>
+				<mission id="t0_18" duration="7200" offset="0.3">
+					<rewards>
+						<reward type="Keys" count="3" />
+						<reward type="Item" param="t0" count="1" />
+						<reward type="Item" param="i00_cm" count="41" />
+					</rewards>
+				</mission>
+				<mission id="t0_19" duration="7200" offset="0.3">
+					<rewards>
+						<reward type="Item" param="b0" count="2" />
+						<reward type="Keys" count="3" />
+						<reward type="Item" param="i00_cm" count="41" />
+					</rewards>
+				</mission>
+				<mission id="t0_20" duration="7200" offset="0.3">
+					<rewards>
+						<reward type="Item" param="b0" count="2" />
+						<reward type="Keys" count="3" />
+						<reward type="Item" param="i00_cm" count="41" />
+					</rewards>
+				</mission>
+				<mission id="t0_21" duration="14400" offset="0.3">
+					<rewards>
+						<reward type="Item" param="t0" count="1" />
+						<reward type="Keys" count="4" />
+						<reward type="Item" param="i00_cm" count="71" />
+					</rewards>
+				</mission>
+				<mission id="t0_22" duration="14400" offset="0.3">
+					<rewards>
+						<reward type="Keys" count="4" />
+						<reward type="Item" param="t0" count="1" />
+						<reward type="Item" param="i00_cm" count="71" />
+					</rewards>
+				</mission>
+				<mission id="t0_23" duration="14400" offset="0.3">
+					<rewards>
+						<reward type="Item" param="b0" count="2" />
+						<reward type="Keys" count="4" />
+						<reward type="Item" param="i00_cm" count="71" />
+					</rewards>
+				</mission>
+				<mission id="t0_24" duration="14400" offset="0.3">
+					<rewards>
+						<reward type="Item" param="b0" count="2" />
+						<reward type="Keys" count="4" />
+						<reward type="Item" param="i00_cm" count="71" />
+					</rewards>
+				</mission>
+				<mission id="t0_25" duration="28800" offset="0.3">
+					<rewards>
+						<reward type="Item" param="t1" count="1" />
+						<reward type="Keys" count="8" />
+						<reward type="Item" param="i00_cm" count="121" />
+					</rewards>
+				</mission>
+				<mission id="t0_26" duration="28800" offset="0.3">
+					<rewards>
+						<reward type="Keys" count="8" />
+						<reward type="Item" param="t1" count="1" />
+						<reward type="Item" param="i00_cm" count="121" />
+					</rewards>
+				</mission>
+				<mission id="t0_27" duration="28800" offset="0.3">
+					<rewards>
+						<reward type="Item" param="b0" count="4" />
+						<reward type="Keys" count="8" />
+						<reward type="Item" param="i00_cm" count="121" />
+					</rewards>
+				</mission>
+				<mission id="t0_28" duration="86399" offset="0.3">
+					<rewards>
+						<reward type="Item" param="t1" count="1" />
+						<reward type="Keys" count="15" />
+						<reward type="Item" param="i00_cm" count="242" />
+					</rewards>
+				</mission>
+				<mission id="t0_29" duration="86399" offset="0.3">
+					<rewards>
+						<reward type="Item" param="t1" count="1" />
+						<reward type="Item" param="b0" count="7" />
+						<reward type="Item" param="i00_cm" count="242" />
+					</rewards>
+				</mission>
+				<mission id="t0_30" duration="86399" offset="0.3">
+					<rewards>
+						<reward type="Item" param="b0" count="7" />
+						<reward type="Keys" count="15" />
+						<reward type="Item" param="i00_cm" count="242" />
+					</rewards>
+				</mission>
+			</template>
+			<template id="t1" probability="45" enhanced="60">
+				<mission id="t1_12" duration="1800" offset="0.2">
+					<rewards>
+						<reward type="Item" param="b0" count="1" />
+						<reward type="Keys" count="2" />
+						<reward type="Item" param="i00_cm" count="25" />
+					</rewards>
+				</mission>
+				<mission id="t1_13" duration="1800" offset="0.2">
+					<rewards>
+						<reward type="Item" param="b0" count="1" />
+						<reward type="Keys" count="2" />
+						<reward type="Item" param="i00_cm" count="25" />
+					</rewards>
+				</mission>
+				<mission id="t1_14" duration="1800" offset="0.2">
+					<rewards>
+						<reward type="Item" param="b0" count="1" />
+						<reward type="Keys" count="2" />
+						<reward type="Item" param="i00_cm" count="25" />
+					</rewards>
+				</mission>
+				<mission id="t1_15" duration="1800" offset="0.2">
+					<rewards>
+						<reward type="Item" param="b0" count="1" />
+						<reward type="Keys" count="2" />
+						<reward type="Item" param="i00_cm" count="25" />
+					</rewards>
+				</mission>
+				<mission id="t1_16" duration="1800" offset="0.2">
+					<rewards>
+						<reward type="Item" param="b0" count="1" />
+						<reward type="Keys" count="2" />
+						<reward type="Item" param="i00_cm" count="25" />
+					</rewards>
+				</mission>
+				<mission id="t1_17" duration="1800" offset="0.2">
+					<rewards>
+						<reward type="Item" param="b0" count="1" />
+						<reward type="Keys" count="2" />
+						<reward type="Item" param="i00_cm" count="25" />
+					</rewards>
+				</mission>
+				<mission id="t1_18" duration="1800" offset="0.2">
+					<rewards>
+						<reward type="Item" param="b0" count="1" />
+						<reward type="Keys" count="2" />
+						<reward type="Item" param="i00_cm" count="25" />
+					</rewards>
+				</mission>
+				<mission id="t1_0" duration="3600" offset="0.2">
+					<rewards>
+						<reward type="Item" param="t0" count="1" />
+						<reward type="Keys" count="3" />
+						<reward type="Item" param="i00_cm" count="40" />
+					</rewards>
+				</mission>
+				<mission id="t1_6" duration="3600" offset="0.2">
+					<rewards>
+						<reward type="Keys" count="3" />
+						<reward type="Item" param="t0" count="1" />
+						<reward type="Item" param="i00_cm" count="40" />
+					</rewards>
+				</mission>
+				<mission id="t1_19" duration="3600" offset="0.2">
+					<rewards>
+						<reward type="Item" param="b0" count="2" />
+						<reward type="Keys" count="3" />
+						<reward type="Item" param="i00_cm" count="40" />
+					</rewards>
+				</mission>
+				<mission id="t1_1" duration="7200" offset="0.2">
+					<rewards>
+						<reward type="Item" param="t0" count="1" />
+						<reward type="Keys" count="6" />
+						<reward type="Item" param="i00_cm" count="70" />
+					</rewards>
+				</mission>
+				<mission id="t1_7" duration="7200" offset="0.2">
+					<rewards>
+						<reward type="Keys" count="6" />
+						<reward type="Item" param="t0" count="1" />
+						<reward type="Item" param="i00_cm" count="70" />
+					</rewards>
+				</mission>
+				<mission id="t1_20" duration="7200" offset="0.2">
+					<rewards>
+						<reward type="Item" param="b0" count="3" />
+						<reward type="Keys" count="6" />
+						<reward type="Item" param="i00_cm" count="70" />
+					</rewards>
+				</mission>
+				<mission id="t1_8" duration="14400" offset="0.2">
+					<rewards>
+						<reward type="Keys" count="10" />
+						<reward type="Item" param="t1" count="1" />
+						<reward type="Item" param="i00_cm" count="121" />
+					</rewards>
+				</mission>
+				<mission id="t1_10" duration="14400" offset="0.2">
+					<rewards>
+						<reward type="Item" param="b0" count="3" />
+						<reward type="Item" param="t1" count="1" />
+						<reward type="Item" param="i00_cm" count="121" />
+					</rewards>
+				</mission>
+				<mission id="t1_21" duration="14400" offset="0.2">
+					<rewards>
+						<reward type="Item" param="b0" count="3" />
+						<reward type="Keys" count="10" />
+						<reward type="Item" param="i00_cm" count="121" />
+					</rewards>
+				</mission>
+				<mission id="t1_2" duration="28800" offset="0.2">
+					<rewards>
+						<reward type="Item" param="t1" count="1" />
+						<reward type="Keys" count="17" />
+						<reward type="Item" param="i00_cm" count="208" />
+					</rewards>
+				</mission>
+				<mission id="t1_3" duration="28800" offset="0.2">
+					<rewards>
+						<reward type="Item" param="t1" count="1" />
+						<reward type="Item" param="b0" count="6" />
+						<reward type="Item" param="i00_cm" count="208" />
+					</rewards>
+				</mission>
+				<mission id="t1_9" duration="28800" offset="0.2">
+					<rewards>
+						<reward type="Keys" count="17" />
+						<reward type="Item" param="b0" count="6" />
+						<reward type="Item" param="i00_cm" count="121" />
+					</rewards>
+				</mission>
+				<mission id="t1_11" duration="28800" offset="0.2">
+					<rewards>
+						<reward type="Keys" count="17" />
+						<reward type="Item" param="t1" count="1" />
+						<reward type="Item" param="i00_cm" count="208" />
+					</rewards>
+				</mission>
+				<mission id="t1_22" duration="28800" offset="0.2">
+					<rewards>
+						<reward type="Item" param="b0" count="6" />
+						<reward type="Keys" count="17" />
+						<reward type="Item" param="i00_cm" count="208" />
+					</rewards>
+				</mission>
+				<mission id="t1_4" duration="86399" offset="0.2">
+					<rewards>
+						<reward type="Item" param="t2" count="1" />
+						<reward type="Keys" count="33" />
+						<reward type="Item" param="i00_cm" count="415" />
+					</rewards>
+				</mission>
+				<mission id="t1_5" duration="86399" offset="0.2">
+					<rewards>
+						<reward type="Item" param="t2" count="1" />
+						<reward type="Keys" count="33" />
+						<reward type="Item" param="i00_cm" count="415" />
+					</rewards>
+				</mission>
+				<mission id="t1_23" duration="86399" offset="0.2">
+					<rewards>
+						<reward type="Item" param="b0" count="11" />
+						<reward type="Keys" count="33" />
+						<reward type="Item" param="i00_cm" count="415" />
+					</rewards>
+				</mission>
+			</template>
+			<template id="t2" probability="25" enhanced="25">
+				<mission id="t2_0" duration="1800" offset="0.1">
+					<rewards>
+						<reward type="Item" param="t0" count="1" />
+						<reward type="Keys" count="3" />
+						<reward type="Item" param="i00_cm" count="35" />
+					</rewards>
+				</mission>
+				<mission id="t2_1" duration="1800" offset="0.1">
+					<rewards>
+						<reward type="Item" param="t0" count="1" />
+						<reward type="Keys" count="3" />
+						<reward type="Item" param="i00_cm" count="35" />
+					</rewards>
+				</mission>
+				<mission id="t2_2" duration="1800" offset="0.1">
+					<rewards>
+						<reward type="Item" param="t0" count="1" />
+						<reward type="Keys" count="3" />
+						<reward type="Item" param="i00_cm" count="35" />
+					</rewards>
+				</mission>
+				<mission id="t2_3" duration="1800" offset="0.1">
+					<rewards>
+						<reward type="Keys" count="3" />
+						<reward type="Item" param="t0" count="1" />
+						<reward type="Item" param="i00_cm" count="35" />
+					</rewards>
+				</mission>
+				<mission id="t2_4" duration="1800" offset="0.1">
+					<rewards>
+						<reward type="Keys" count="3" />
+						<reward type="Item" param="t0" count="1" />
+						<reward type="Item" param="i00_cm" count="35" />
+					</rewards>
+				</mission>
+				<mission id="t2_5" duration="1800" offset="0.1">
+					<rewards>
+						<reward type="Keys" count="3" />
+						<reward type="Item" param="t0" count="1" />
+						<reward type="Item" param="i00_cm" count="35" />
+					</rewards>
+				</mission>
+				<mission id="t2_6" duration="1800" offset="0.1">
+					<rewards>
+						<reward type="Keys" count="3" />
+						<reward type="Item" param="t0" count="1" />
+						<reward type="Item" param="i00_cm" count="35" />
+					</rewards>
+				</mission>
+				<mission id="t2_7" duration="1800" offset="0.1">
+					<rewards>
+						<reward type="Item" param="b0" count="3" />
+						<reward type="Keys" count="3" />
+						<reward type="Item" param="i00_cm" count="35" />
+					</rewards>
+				</mission>
+				<mission id="t2_8" duration="3600" offset="0.1">
+					<rewards>
+						<reward type="Item" param="t1" count="1" />
+						<reward type="Keys" count="5" />
+						<reward type="Item" param="i00_cm" count="60" />
+					</rewards>
+				</mission>
+				<mission id="t2_9" duration="3600" offset="0.1">
+					<rewards>
+						<reward type="Keys" count="5" />
+						<reward type="Item" param="t1" count="1" />
+						<reward type="Item" param="i00_cm" count="60" />
+					</rewards>
+				</mission>
+				<mission id="t2_10" duration="3600" offset="0.1">
+					<rewards>
+						<reward type="Item" param="b0" count="3" />
+						<reward type="Keys" count="5" />
+						<reward type="Item" param="i00_cm" count="60" />
+					</rewards>
+				</mission>
+				<mission id="t2_11" duration="7200" offset="0.1">
+					<rewards>
+						<reward type="Item" param="t1" count="1" />
+						<reward type="Keys" count="8" />
+						<reward type="Item" param="i00_cm" count="105" />
+					</rewards>
+				</mission>
+				<mission id="t2_12" duration="7200" offset="0.1">
+					<rewards>
+						<reward type="Keys" count="8" />
+						<reward type="Item" param="t1" count="1" />
+						<reward type="Item" param="i00_cm" count="105" />
+					</rewards>
+				</mission>
+				<mission id="t2_13" duration="7200" offset="0.1">
+					<rewards>
+						<reward type="Item" param="b0" count="5" />
+						<reward type="Keys" count="12" />
+						<reward type="Item" param="i00_cm" count="105" />
+					</rewards>
+				</mission>
+				<mission id="t2_14" duration="14400" offset="0.1">
+					<rewards>
+						<reward type="Item" param="t2" count="1" />
+						<reward type="Keys" count="15" />
+						<reward type="Item" param="i00_cm" count="181" />
+					</rewards>
+				</mission>
+				<mission id="t2_15" duration="14400" offset="0.1">
+					<rewards>
+						<reward type="Item" param="t1" count="2" />
+						<reward type="Item" param="t2" count="1" />
+						<reward type="Item" param="i00_cm" count="181" />
+					</rewards>
+				</mission>
+				<mission id="t2_16" duration="14400" offset="0.1">
+					<rewards>
+						<reward type="Item" param="b0" count="7" />
+						<reward type="Keys" count="12" />
+						<reward type="Item" param="i00_cm" count="181" />
+					</rewards>
+				</mission>
+				<mission id="t2_17" duration="28800" offset="0.1">
+					<rewards>
+						<reward type="Item" param="t2" count="1" />
+						<reward type="Item" param="b0" count="10" />
+						<reward type="Item" param="i00_cm" count="311" />
+					</rewards>
+				</mission>
+				<mission id="t2_18" duration="28800" offset="0.1">
+					<rewards>
+						<reward type="Keys" count="12" />
+						<reward type="Keys" count="12" />
+						<reward type="Item" param="i00_cm" count="311" />
+					</rewards>
+				</mission>
+				<mission id="t2_19" duration="28800" offset="0.1">
+					<rewards>
+						<reward type="Item" param="b0" count="10" />
+						<reward type="Keys" count="12" />
+						<reward type="Item" param="i00_cm" count="311" />
+					</rewards>
+				</mission>
+				<mission id="t2_20" duration="86399" offset="0.1">
+					<rewards>
+						<reward type="Item" param="t3" count="1" />
+						<reward type="Keys" count="52" />
+						<reward type="Item" param="i00_cm" count="622" />
+					</rewards>
+				</mission>
+				<mission id="t2_21" duration="86399" offset="0">
+					<rewards>
+						<reward type="Item" param="t3" count="1" />
+						<reward type="Multiplier" count="2" />
+						<reward type="Item" param="i00_cm" count="622" />
+					</rewards>
+				</mission>
+			</template>
+			<template id="t3" probability="6" enhanced="15">
+				<mission id="t3_0" duration="1800" offset="0.2">
+					<rewards>
+						<reward type="Keys" count="5" />
+						<reward type="Item" param="t2" count="1" />
+						<reward type="Item" param="i00_cm" count="46" />
+					</rewards>
+				</mission>
+				<mission id="t3_1" duration="1800" offset="0.1">
+					<rewards>
+						<reward type="Keys" count="5" />
+						<reward type="Item" param="b0" count="5" />
+						<reward type="Item" param="i00_cm" count="46" />
+					</rewards>
+				</mission>
+				<mission id="t3_2" duration="1800" offset="0">
+					<rewards>
+						<reward type="Keys" count="5" />
+						<reward type="Item" param="b0" count="5" />
+						<reward type="Item" param="i00_cm" count="46" />
+					</rewards>
+				</mission>
+				<mission id="t3_3" duration="1800" offset="0.1">
+					<rewards>
+						<reward type="Keys" count="5" />
+						<reward type="Item" param="t2" count="1" />
+						<reward type="Item" param="i00_cm" count="46" />
+					</rewards>
+				</mission>
+				<mission id="t3_4" duration="14400" offset="0">
+					<rewards>
+						<reward type="Multiplier" count="2" />
+						<reward type="Item" param="t2" count="1" />
+						<reward type="Item" param="i00_cm" count="252" />
+					</rewards>
+				</mission>
+				<mission id="t3_5" duration="86399" offset="0">
+					<rewards>
+						<reward type="Item" param="bck14" count="1" />
+						<reward type="Multiplier" count="3" />
+						<reward type="Item" param="i00_cm" count="1000" />
+					</rewards>
+				</mission>
+				<mission id="t3_6" duration="28800" offset="0">
+					<rewards>
+						<reward type="Item" param="b0" count="24" />
+						<reward type="Multiplier" count="2" />
+						<reward type="Item" param="i00_cm" count="432" />
+					</rewards>
+				</mission>
+				<mission id="t3_7" duration="7200" offset="0.2">
+					<rewards>
+						<reward type="Item" param="b0" count="8" />
+						<reward type="Keys" count="24" />
+						<reward type="Item" param="i00_cm" count="144" />
+					</rewards>
+				</mission>
+				<mission id="t3_8" duration="7200" offset="0.1">
+					<rewards>
+						<reward type="Item" param="b0" count="8" />
+						<reward type="Keys" count="24" />
+						<reward type="Item" param="i00_cm" count="144" />
+					</rewards>
+				</mission>
+			</template>
+		</templates>
+	</missions>
+</events>

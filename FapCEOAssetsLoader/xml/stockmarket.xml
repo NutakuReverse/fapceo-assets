@@ -1,0 +1,23 @@
+<stockmarket>
+	<stockpanel id = "s0"
+		    speed = "0.2"
+		    interval = "5"
+		    range="200"
+		    level = "0"
+		    cooldown = "300"
+		    multiplier = "1"/>
+	<stockpanel id = "s1"
+		    speed = "0.1"
+		    interval = "10"
+		    range="200"
+		    level = "2"
+		    cooldown = "900"
+		    multiplier = "2"/>
+	<stockpanel id = "s2"
+		    speed = "0.05"
+		    interval = "20"
+		    range="200"
+		    level = "4"
+		    cooldown = "1800"
+		    multiplier = "5"/>
+</stockmarket>

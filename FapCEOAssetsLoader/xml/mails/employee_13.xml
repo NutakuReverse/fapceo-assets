@@ -1,0 +1,204 @@
+<mails employeeId="13">
+<thread id="t13_0" delay="0">
+<mail id="m13_0_0" unlock="OnHire">
+<reply id="r13_0_0a"/>
+<reply id="r13_0_0b"/>
+<reward type="Mail" param="m13_0_1"/>
+</mail>
+<mail id="m13_0_1" unlock="Locked">
+<attachment id="mail/13/ynmsoysq" />
+<reward type="Thread" param="t13_1"/>
+</mail>
+</thread>
+<thread id="t13_1" delay="60">
+<mail id="m13_1_0" unlock="Instant">
+<reply id="r13_1_0a"/>
+<reply id="r13_1_0b"/>
+<reward type="Mail" param="m13_1_1"/>
+</mail>
+<mail id="m13_1_1" unlock="Locked">
+<reply id="r13_1_1a">
+<requirement type="Item" param="i9" count="5"/>
+</reply>
+<reply id="r13_1_1b">
+<requirement type="Item" param="i7" count="5"/>
+</reply>
+<reward type="Mail" param="m13_1_2"/>
+</mail>
+<mail id="m13_1_2" unlock="Locked">
+<attachment id="mail/13/vkzygqeq" />
+<reward type="Thread" param="t13_2"/>
+</mail>
+</thread>
+<thread id="t13_2" delay="600">
+<mail id="m13_2_0" unlock="Instant">
+<reply id="r13_2_0a"/>
+<reply id="r13_2_0b"/>
+<reward type="Mail" param="m13_2_1"/>
+</mail>
+<mail id="m13_2_1" unlock="Locked">
+<reply id="r13_2_1a"/>
+<reply id="r13_2_1b"/>
+<reward type="Mail" param="m13_2_2"/>
+</mail>
+<mail id="m13_2_2" unlock="Locked">
+<reply id="r13_2_2a">
+<requirement type="Item" param="i11" count="10"/>
+</reply>
+<reply id="r13_2_2b">
+<requirement type="Item" param="i5" count="10"/>
+</reply>
+<reward type="Mail" param="m13_2_3"/>
+</mail>
+<mail id="m13_2_3" unlock="Locked">
+<attachment id="mail/13/panmdusz" />
+<reward type="Thread" param="t13_3"/>
+</mail>
+</thread>
+<thread id="t13_3" delay="3600">
+<mail id="m13_3_0" unlock="Instant">
+<reply id="r13_3_0a"/>
+<reply id="r13_3_0b"/>
+<reward type="Mail" param="m13_3_1"/>
+</mail>
+<mail id="m13_3_1" unlock="Locked">
+<reply id="r13_3_1a"/>
+<reply id="r13_3_1b"/>
+<reward type="Mail" param="m13_3_2"/>
+</mail>
+<mail id="m13_3_2" unlock="Locked">
+<reply id="r13_3_2a"/>
+<reply id="r13_3_2b"/>
+<reward type="Mail" param="m13_3_3"/>
+</mail>
+<mail id="m13_3_3" unlock="Locked">
+<reply id="r13_3_3a">
+<requirement type="Item" param="i9" count="15"/>
+<requirement type="Item" param="i13" count="15"/>
+</reply>
+<reply id="r13_3_3b">
+<requirement type="Item" param="i13" count="15"/>
+<requirement type="Item" param="i7" count="15"/>
+</reply>
+<reward type="Mail" param="m13_3_4"/>
+</mail>
+<mail id="m13_3_4" unlock="Locked">
+<attachment id="mail/13/yhaoeriw" />
+<reward type="Thread" param="t13_4"/>
+</mail>
+</thread>
+<thread id="t13_4" delay="36000">
+<mail id="m13_4_0" unlock="Instant">
+<reply id="r13_4_0a"/>
+<reply id="r13_4_0b"/>
+<reward type="Mail" param="m13_4_1"/>
+</mail>
+<mail id="m13_4_1" unlock="Locked">
+<reply id="r13_4_1a"/>
+<reply id="r13_4_1b"/>
+<reward type="Mail" param="m13_4_2"/>
+</mail>
+<mail id="m13_4_2" unlock="Locked">
+<reply id="r13_4_2a"/>
+<reply id="r13_4_2b"/>
+<reward type="Mail" param="m13_4_3"/>
+</mail>
+<mail id="m13_4_3" unlock="Locked">
+<reply id="r13_4_3a"/>
+<reply id="r13_4_3b"/>
+<reward type="Mail" param="m13_4_4"/>
+</mail>
+<mail id="m13_4_4" unlock="Locked">
+<reply id="r13_4_4a">
+<requirement type="Item" param="i11" count="20"/>
+<requirement type="Item" param="i13" count="20"/>
+</reply>
+<reply id="r13_4_4b">
+<requirement type="Item" param="i13" count="20"/>
+<requirement type="Item" param="i5" count="20"/>
+</reply>
+<reward type="Mail" param="m13_4_5"/>
+</mail>
+<mail id="m13_4_5" unlock="Locked">
+<attachment id="mail/13/pqrtvavq" />
+<reward type="Thread" param="t13_5"/>
+</mail>
+</thread>
+<thread id="t13_5" delay="72000">
+<mail id="m13_5_0" unlock="Instant">
+<reply id="r13_5_0a"/>
+<reply id="r13_5_0b"/>
+<reward type="Mail" param="m13_5_1"/>
+</mail>
+<mail id="m13_5_1" unlock="Locked">
+<reply id="r13_5_1a"/>
+<reply id="r13_5_1b"/>
+<reward type="Mail" param="m13_5_2"/>
+</mail>
+<mail id="m13_5_2" unlock="Locked">
+<reply id="r13_5_2a"/>
+<reply id="r13_5_2b"/>
+<reward type="Mail" param="m13_5_3"/>
+</mail>
+<mail id="m13_5_3" unlock="Locked">
+<reply id="r13_5_3a"/>
+<reply id="r13_5_3b"/>
+<reward type="Mail" param="m13_5_4"/>
+</mail>
+<mail id="m13_5_4" unlock="Locked">
+<reply id="r13_5_4a">
+<requirement type="Item" param="i9" count="25"/>
+<requirement type="Item" param="i11" count="25"/>
+<requirement type="Item" param="i13" count="25"/>
+</reply>
+<reply id="r13_5_4b">
+<requirement type="Item" param="i13" count="25"/>
+<requirement type="Item" param="i5" count="25"/>
+<requirement type="Item" param="i7" count="25"/>
+</reply>
+<reward type="Mail" param="m13_5_5"/>
+</mail>
+<mail id="m13_5_5" unlock="Locked">
+<attachment id="mail/13/dgrrbdlh" />
+<reward type="Thread" param="t13_6"/>
+</mail>
+</thread>
+<thread id="t13_6" delay="180000">
+<mail id="m13_6_0" unlock="Instant">
+<reply id="r13_6_0a"/>
+<reply id="r13_6_0b"/>
+<reward type="Mail" param="m13_6_1"/>
+</mail>
+<mail id="m13_6_1" unlock="Locked">
+<reply id="r13_6_1a"/>
+<reply id="r13_6_1b"/>
+<reward type="Mail" param="m13_6_2"/>
+</mail>
+<mail id="m13_6_2" unlock="Locked">
+<reply id="r13_6_2a"/>
+<reply id="r13_6_2b"/>
+<reward type="Mail" param="m13_6_3"/>
+</mail>
+<mail id="m13_6_3" unlock="Locked">
+<reply id="r13_6_3a"/>
+<reply id="r13_6_3b"/>
+<reward type="Mail" param="m13_6_4"/>
+</mail>
+<mail id="m13_6_4" unlock="Locked">
+<reply id="r13_6_4a">
+<requirement type="Item" param="i9" count="30"/>
+<requirement type="Item" param="i11" count="30"/>
+<requirement type="Item" param="i13" count="40"/>
+</reply>
+<reply id="r13_6_4b">
+<requirement type="Item" param="i13" count="40"/>
+<requirement type="Item" param="i5" count="30"/>
+<requirement type="Item" param="i7" count="30"/>
+</reply>
+<reward type="Mail" param="m13_6_5"/>
+</mail>
+<mail id="m13_6_5" unlock="Locked">
+<attachment id="mail/13/iupsdywa" />
+</mail>
+</thread>
+</mails>

@@ -1,0 +1,122 @@
+<mails employeeId="0">
+<thread id="t0_0" delay="5">
+<mail id="m0_0_0" unlock="Instant">
+<attachment id="mail/0/qw" />
+</mail>
+</thread>
+<thread id="t0_1" delay="0">
+<mail id="m0_1_0" unlock="Instant">
+<reply id="r0_1_0a">
+<requirement type="Item" param="i1" count="1"/>
+</reply>
+<reply id="r0_1_0b">
+<requirement type="Item" param="i2" count="1"/>
+</reply>
+<reward type="Mail" param="m0_1_1"/>
+</mail>
+<mail id="m0_1_1" unlock="Locked">
+<attachment id="mail/0/as" />
+</mail>
+</thread>
+<thread id="t0_2" delay="60" specialInstruction="amber_thread_pdp">
+<mail id="m0_2_0" unlock="Instant">
+<attachment id="mail/0/zx" />
+</mail>
+</thread>
+<thread id="t0_3" delay="0" specialInstruction="amber_thread_pdp">
+<mail id="m0_3_0" unlock="Instant">
+<reply id="r0_3_0a"/>
+<reply id="r0_3_0b"/>
+<reward type="Mail" param="m0_3_1"/>
+</mail>
+<mail id="m0_3_1" unlock="Locked">
+<reply id="r0_3_1a"/>
+<reply id="r0_3_1b"/>
+<reward type="Mail" param="m0_3_2"/>
+</mail>
+<mail id="m0_3_2" unlock="Locked">
+<reply id="r0_3_2a"/>
+<reply id="r0_3_2b"/>
+<reward type="Mail" param="m0_3_3"/>
+</mail>
+<mail id="m0_3_3" unlock="Locked">
+<reply id="r0_3_3a"/>
+<reply id="r0_3_3b"/>
+<reward type="Mail" param="m0_3_4"/>
+</mail>
+<mail id="m0_3_4" unlock="Locked">
+<reply id="r0_3_4a"/>
+<reply id="r0_3_4b"/>
+<reward type="Mail" param="m0_3_5"/>
+</mail>
+<mail id="m0_3_5" unlock="Locked">
+<reply id="r0_3_5a"/>
+<reply id="r0_3_5b"/>
+<reward type="Mail" param="m0_3_6"/>
+</mail>
+<mail id="m0_3_6" unlock="Locked">
+<reply id="r0_3_6a"/>
+<reply id="r0_3_6b"/>
+<reward type="Mail" param="m0_3_7"/>
+</mail>
+<mail id="m0_3_7" unlock="Locked">
+<reply id="r0_3_7a"/>
+<reply id="r0_3_7b"/>
+<reward type="Mail" param="m0_3_8"/>
+</mail>
+<mail id="m0_3_8" unlock="Locked">
+<reply id="r0_3_8a"/>
+<reply id="r0_3_8b"/>
+<reward type="Mail" param="m0_3_9"/>
+</mail>
+<mail id="m0_3_9" unlock="Locked">
+<attachment id="mail/0/pew" />
+<animation id="amber_pdp"/>
+</mail>
+</thread>
+<thread id="t0_4" delay="0" specialInstruction="amber_thread_pdp">
+	<mail id="m0_4_0" unlock="Instant">
+		<attachment id="mail/0/wow" />
+	</mail>
+</thread>
+
+<thread id="t0_5" delay="0" specialInstruction="amber_thread_pdp">
+<mail id="m0_5_0" unlock="Instant">
+<reply id="r0_5_0a"/>
+<reply id="r0_5_0b"/>
+<reward type="Mail" param="m0_5_1"/>
+</mail>
+<mail id="m0_5_1" unlock="Locked">
+<reply id="r0_5_1a"/>
+<reply id="r0_5_1b"/>
+<reward type="Mail" param="m0_5_2"/>
+</mail>
+<mail id="m0_5_2" unlock="Locked">
+<reply id="r0_5_2a"/>
+<reply id="r0_5_2b"/>
+<reward type="Mail" param="m0_5_3"/>
+</mail>
+<mail id="m0_5_3" unlock="Locked">
+<reply id="r0_5_3a"/>
+<reply id="r0_5_3b"/>
+<reward type="Mail" param="m0_5_4"/>
+</mail>
+<mail id="m0_5_4" unlock="Locked">
+<reply id="r0_5_4a"/>
+<reply id="r0_5_4b"/>
+<reward type="Mail" param="m0_5_5"/>
+</mail>
+<mail id="m0_5_5" unlock="Locked">
+<reply id="r0_5_5a">
+<requirement type="Item" param="i00_amb" count="5"/>
+</reply>
+<reply id="r0_5_5b">
+<requirement type="Item" param="i00_amb" count="5"/>
+</reply>
+<reward type="Mail" param="m0_5_6"/>
+</mail>
+<mail id="m0_5_6" unlock="Locked">
+<attachment id="mail/0/mil" />
+</mail>
+</thread>
+</mails>

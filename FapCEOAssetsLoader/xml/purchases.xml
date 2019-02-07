@@ -1,0 +1,132 @@
+<purchases>
+    <purchase type="Offer" id="off_0" sprite="rubyshop/speshul" price="100">
+        <reward id="starterPack" type="Special" count="1" />
+    </purchase>
+    
+    <purchase type="Offer" id="off_1" price="100">
+        <reward id="specialOffer" type="Special" count="1" />
+    </purchase>
+    
+    <purchase type="Offer" id="off_2" price="100">
+        <reward id="specialOffer" type="Special" count="1" />
+    </purchase>
+    
+    <purchase type="Offer" id="off_3" price="100">
+        <reward id="specialOffer" type="Special" count="1" />
+    </purchase>
+    
+    <purchase type="Offer" id="off_4" price="100">
+        <reward id="specialOffer" type="Special" count="1" />
+    </purchase>
+    
+    <purchase type="Offer" id="off_5" price="100">
+        <reward id="specialOffer" type="Special" count="1" />
+    </purchase>
+    
+    <purchase type="Offer" id="off_6" price="100">
+        <reward id="specialOffer" type="Special" count="1" />
+    </purchase>
+    
+     <purchase type="Offer" id="off_7" price="100">
+        <reward id="specialOffer" type="Special" count="1" />
+    </purchase>
+
+     <purchase type="Offer" id="lvl_3" price="100">
+        <reward id="specialOffer" type="Special" count="1" />
+    </purchase>
+
+     <purchase type="Offer" id="lvl_4" price="100">
+        <reward id="specialOffer" type="Special" count="1" />
+    </purchase>
+
+    <purchase type="Offer" id="lvl_10plus" price="100">
+        <reward id="specialOffer" type="Special" count="1" />
+    </purchase>
+     
+    
+    <purchase type="Rubies" id="rubyshop0" price="100" sprite="rubyshop/rubies/1">
+        <reward id="r00" type="Rubies" count="10" />
+    </purchase>
+    
+    <purchase type="Rubies" id="rubyshop1" price="500" sprite="rubyshop/rubies/2">
+        <reward id="r01" type="Rubies" count="50" />
+    </purchase>
+    
+    <purchase type="Rubies" id="rubyshop2" price="2000" sprite="rubyshop/rubies/3">
+        <reward id="r02" type="Rubies" count="220" />
+    </purchase>
+    
+    <purchase type="Rubies" id="rubyshop3" price="3000" sprite="rubyshop/rubies/4">
+        <reward id="r03" type="Rubies" count="390" />
+    </purchase>
+    
+    <purchase type="Rubies" id="rubyshop4" price="5000" sprite="rubyshop/rubies/5">
+        <reward id="r04" type="Rubies" count="700" />
+    </purchase>
+    
+    <purchase type="Rubies" id="rubyshop5" price="10000" sprite="rubyshop/rubies/6">
+        <reward id="r05" type="Rubies" count="1500" />
+    </purchase>
+    
+    <rubypurchase type="Multiplier" id="rubypurchase0_ext" price="100">
+        <reward id="r11" type="Multiplier" count="2" />
+    </rubypurchase>
+    
+    <rubypurchase type="Multiplier" id="rubypurchase1_ext" price="200">
+        <reward id="r12" type="Multiplier" count="5" />
+    </rubypurchase>
+    
+    <rubypurchase type="Multiplier" id="rubypurchase2_ext" price="300">
+        <reward id="r13" type="Multiplier" count="10" />
+    </rubypurchase>
+	
+	 <rubypurchase type="Item" id="rubypurchase4" price="25">
+        <reward id="r15" type="Item" param="t1" count="1" />
+    </rubypurchase>
+    
+    <rubypurchase type="Item" id="rubypurchase5" price="50">
+        <reward id="r16" type="Item" param="t2" count="1" />
+    </rubypurchase>
+    
+    <rubypurchase type="Item" id="rubypurchase6" price="150">
+        <reward id="r17" type="Item" param="t3" count="1" />
+    </rubypurchase>
+    
+    
+    <rubypurchase type="Keys" id="rubypurchase7" price="10" sprite="rubyshop/keys/key_00">
+        <reward id="r06" type="Keys" count="1" />
+    </rubypurchase>
+    
+    <rubypurchase type="Keys" id="rubypurchase8" price="45" sprite="rubyshop/keys/key_01">
+        <reward id="r07" type="Keys" count="5" />
+    </rubypurchase>
+    
+    <rubypurchase type="Keys" id="rubypurchase9" price="200" sprite="rubyshop/keys/key_02">
+        <reward id="r08" type="Keys" count="25" />
+    </rubypurchase>
+    
+    <rubypurchase type="Keys" id="rubypurchase10" price="350" sprite="rubyshop/keys/key_03">
+        <reward id="r09" type="Keys" count="50" />
+    </rubypurchase>
+    
+    <rubypurchase type="Keys" id="rubypurchase11" price="600" sprite="rubyshop/keys/key_04">
+        <reward id="r10" type="Keys" count="100" />
+    </rubypurchase>
+    
+    <rubypurchase type="Keys" id="rubypurchase12" price="1000" sprite="rubyshop/keys/key_04">
+        <reward id="r11" type="Keys" count="200" />
+    </rubypurchase>
+	
+	<purchase type="Offer" id="pdp2018" price="2000">
+        <reward id="specialOffer" type="Special" count="1" />
+    </purchase>
+	
+	<purchase type="Offer" id="off_1mil" price="1000">
+        <reward id="specialOffer" type="Special" count="1" />
+    </purchase>
+	
+	<purchase type="Offer" id="lvl_21" price="2000">
+        <reward id="specialOffer" type="Special" count="1" />
+    </purchase>
+    
+</purchases>

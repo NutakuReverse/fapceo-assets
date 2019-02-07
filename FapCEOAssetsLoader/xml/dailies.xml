@@ -1,0 +1,454 @@
+<dailies>
+    <day>
+        <reward type="Rubies" count="5" />
+        <quest type="CoinsClicked" id="dq_00" minLevel="1" maxLevel="3">
+            <step target="1000">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="CoinsClicked" id="dq_01" minLevel="4" maxLevel="6">
+            <step target="2000">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="CoinsClicked" id="dq_02" minLevel="7" maxLevel="10">
+            <step target="3000">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="CoinsClicked" id="dq_03" minLevel="11">
+            <step target="5000">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+    </day>
+    <day>
+        <reward type="Item" param="t0" count="1" />
+        <quest type="WorkerLevel" id="dq_10" minLevel="1" maxLevel="3">
+            <step target="100">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="WorkerLevel" id="dq_11" minLevel="4" maxLevel="6">
+            <step target="500">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="WorkerLevel" id="dq_12" minLevel="7" maxLevel="10">
+            <step target="1000">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="WorkerLevel" id="dq_13" minLevel="11" maxLevel="14">
+            <step target="5000">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="WorkerLevel" id="dq_14" minLevel="15">
+            <step target="7500">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+    </day>
+    <day>
+        <reward type="Keys" count="5" />
+        <quest type="CompanyLevel" id="dq_20" minLevel="1" maxLevel="14">
+            <step target="1">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="CompanyLevel" id="dq_21" minLevel="15" maxLevel="20">
+            <step target="2">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="CompanyLevel" id="dq_22" minLevel="21" maxLevel="50">
+            <step target="3">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="CompanyLevel" id="dq_23" minLevel="51">
+            <step target="5">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+    </day>
+    <day>
+        <reward type="Rubies" count="10" />
+        <quest type="StockBought" id="dq_30" minLevel="1" maxLevel="3">
+            <step target="2">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="StockBought" id="dq_31" minLevel="4" maxLevel="7">
+            <step target="3">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="StockBought" id="dq_32" minLevel="8" maxLevel="10">
+            <step target="5">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="StockBought" id="dq_33" minLevel="11">
+            <step target="10">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+    </day>
+    <day>
+        <reward type="Item" param="t1" count="1" />
+        <quest type="CoinsClicked" id="dq_40" minLevel="1" maxLevel="3">
+            <step target="1000">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="CoinsClicked" id="dq_41" minLevel="4" maxLevel="6">
+            <step target="2000">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="CoinsClicked" id="dq_42" minLevel="7" maxLevel="10">
+            <step target="3000">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="CoinsClicked" id="dq_43" minLevel="11">
+            <step target="5000">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+    </day>
+    <day>
+        <reward type="Keys" count="10" />
+        <quest type="TimeTravels" id="dq_50" minLevel="1" maxLevel="3">
+            <step target="60">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="TimeTravels" id="dq_51" minLevel="4" maxLevel="7">
+            <step target="120">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="TimeTravels" id="dq_52" minLevel="8" maxLevel="10">
+            <step target="180">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="TimeTravels" id="dq_53" minLevel="11">
+            <step target="240">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+    </day>
+    <day>
+        <reward type="Multiplier" count="5" />
+        <reward type="Item" param="t0" count="3" />
+        <reward type="Keys" count="12" />
+        <quest type="BoosterUsed" id="dq_60" minLevel="1" maxLevel="3">
+            <step target="1">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="BoosterUsed" id="dq_61" minLevel="4" maxLevel="7">
+            <step target="2">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="BoosterUsed" id="dq_62" minLevel="8" maxLevel="10">
+            <step target="3">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="BoosterUsed" id="dq_63" minLevel="11">
+            <step target="5">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+    </day>
+    <day>
+        <reward type="Rubies" count="25" />
+        <quest type="CoinsClicked" id="dq_70" minLevel="1" maxLevel="3">
+            <step target="1000">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="CoinsClicked" id="dq_71" minLevel="4" maxLevel="6">
+            <step target="2000">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="CoinsClicked" id="dq_72" minLevel="7" maxLevel="10">
+            <step target="3000">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="CoinsClicked" id="dq_73" minLevel="11">
+            <step target="5000">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+    </day>
+    <day>
+        <reward type="Item" param="t0" count="5" />
+        <quest type="WorkerLevel" id="dq_80" minLevel="1" maxLevel="3">
+            <step target="100">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="WorkerLevel" id="dq_81" minLevel="4" maxLevel="6">
+            <step target="500">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="WorkerLevel" id="dq_82" minLevel="7" maxLevel="10">
+            <step target="1000">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="WorkerLevel" id="dq_83" minLevel="11" maxLevel="14">
+            <step target="5000">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="WorkerLevel" id="dq_84" minLevel="15">
+            <step target="7500">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+    </day>
+    <day>
+        <reward type="Keys" count="15" />
+        <quest type="CompanyLevel" id="dq_90" minLevel="1" maxLevel="14">
+            <step target="1">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="CompanyLevel" id="dq_91" minLevel="15" maxLevel="20">
+            <step target="2">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="CompanyLevel" id="dq_92" minLevel="21" maxLevel="50">
+            <step target="3">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="CompanyLevel" id="dq_93" minLevel="51">
+            <step target="5">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+    </day>
+    <day>
+        <reward type="Rubies" count="50" />
+        <quest type="StockBought" id="dq_100" minLevel="1" maxLevel="3">
+            <step target="2">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="StockBought" id="dq_101" minLevel="4" maxLevel="7">
+            <step target="3">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="StockBought" id="dq_102" minLevel="8" maxLevel="10">
+            <step target="5">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="StockBought" id="dq_103" minLevel="11">
+            <step target="10">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+    </day>
+    <day>
+        <reward type="Item" param="t1" count="5" />
+        <quest type="CoinsClicked" id="dq_110" minLevel="1" maxLevel="3">
+            <step target="1000">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="CoinsClicked" id="dq_111" minLevel="4" maxLevel="6">
+            <step target="2000">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="CoinsClicked" id="dq_112" minLevel="7" maxLevel="10">
+            <step target="3000">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="CoinsClicked" id="dq_113" minLevel="11">
+            <step target="5000">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+    </day>
+    <day>
+        <reward type="Keys" count="20" />
+        <quest type="TimeTravels" id="dq_120" minLevel="1" maxLevel="3">
+            <step target="60">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="TimeTravels" id="dq_121" minLevel="4" maxLevel="7">
+            <step target="120">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="TimeTravels" id="dq_122" minLevel="8" maxLevel="10">
+            <step target="180">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="TimeTravels" id="dq_123" minLevel="11">
+            <step target="240">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+    </day>
+    <day>
+        <reward type="Multiplier" count="10" />
+        <reward type="Item" param="t1" count="3" />
+        <reward type="Keys" count="22" />
+        <quest type="BoosterUsed" id="dq_130" minLevel="1" maxLevel="3">
+            <step target="1">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="BoosterUsed" id="dq_131" minLevel="4" maxLevel="7">
+            <step target="2">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="BoosterUsed" id="dq_132" minLevel="8" maxLevel="10">
+            <step target="3">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+        <quest type="BoosterUsed" id="dq_133" minLevel="11">
+            <step target="5">
+                <rewards>
+                    <reward type="Item" param="i00_amb" count="1" />
+                </rewards>
+            </step>
+        </quest>
+    </day>
+</dailies>

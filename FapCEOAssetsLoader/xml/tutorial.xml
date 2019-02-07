@@ -1,0 +1,151 @@
+<tutorial>
+<stages>
+ <!--  INTRODUCTION MESSAGE  -->
+<stage index="0" message="000_welcome">
+<triggers>
+<trigger id="close_tutorial"/>
+</triggers>
+</stage>
+ <!--  HIRE SECRETARY  -->
+<stage index="1" arrowx="113" arrowy="-107" arrowdir="Up" message="001_hire">
+<actions>
+<action id="suspend_supercoin"/>
+</actions>
+<triggers>
+<trigger id="close_tutorial"/>
+<trigger id="hire_employee"/>
+</triggers>
+<rewards>
+<reward type="Thread" param="t0_0"/>
+</rewards>
+</stage>
+ <!--  RECEIVE EMAIL  -->
+<stage index="2">
+<triggers>
+<trigger id="receive_mail"/>
+</triggers>
+</stage>
+ <!--  REPLY TO SECRETARY  -->
+<stage index="3" arrowx="-851" arrowy="132" arrowdir="Left">
+<triggers>
+<trigger id="open_email"/>
+</triggers>
+</stage>
+<stage index="4" arrowx="650" arrowy="45" arrowdir="Up">
+<triggers>
+<trigger id="open_picture"/>
+</triggers>
+</stage>
+<stage index="5">
+<triggers>
+<trigger id="close_email"/>
+</triggers>
+</stage>
+ <!--  UPGRADE SECRETARY  -->
+<stage index="6" arrowx="113" arrowy="-107" arrowdir="Up" message="002_upgrade">
+<triggers>
+<trigger id="close_tutorial"/>
+<trigger id="upgrade_employee"/>
+<trigger id="upgrade_employee"/>
+</triggers>
+</stage>
+ <!--  WAIT FOR COIN  -->
+<stage index="7" message="003_getkey">
+<actions>
+<action id="force_item"/>
+</actions>
+<triggers>
+<trigger id="close_tutorial"/>
+</triggers>
+</stage>
+ <!--  CLICK COIN AND GET KEY  -->
+<stage index="8" message="004_clickkey">
+<actions>
+<action id="infinite_supercoin"/>
+</actions>
+<triggers>
+<trigger id="get_key"/>
+</triggers>
+</stage>
+ <!--  OPEN CHEST  -->
+<stage index="9" arrowx="-851" arrowy="232" arrowdir="Left" message="004_openchest">
+<actions>
+<action id="close_supercoin"/>
+</actions>
+<triggers>
+<trigger id="close_tutorial"/>
+<trigger id="open_chest"/>
+</triggers>
+</stage>
+ <!--  OFFER ROSE  -->
+<stage index="10" message="005_offerrose">
+<triggers>
+<trigger id="close_tutorial"/>
+</triggers>
+<rewards>
+<reward type="Thread" param="t0_1"/>
+</rewards>
+</stage>
+ <!--  OFFER ROSE2  -->
+<stage index="11" arrowx="-851" arrowy="132" arrowdir="Left">
+<triggers>
+<trigger id="close_email"/>
+</triggers>
+</stage>
+ <!--  HIRE NEW GIRL  -->
+<stage index="12" message="006_another">
+<triggers>
+<trigger id="close_tutorial"/>
+<trigger id="hire_employee"/>
+</triggers>
+</stage>
+ <!--  SELL COMPANY  -->
+<stage index="13" message="007_sell">
+<triggers>
+<trigger id="sell_company"/>
+</triggers>
+<rewards>
+<reward type="Thread" param="t0_2"/>
+</rewards>
+</stage>
+ <!--  CEO ROOM  -->
+<stage index="14" arrowx="800" arrowy="440" arrowdir="Right" message="008_ceoroom">
+<triggers>
+<trigger id="enter_BossRoom"/>
+</triggers>
+</stage>
+ <!--  END OF TUTORIAL  -->
+<stage index="15" message="009_final">
+<triggers>
+<trigger id="close_tutorial"/>
+</triggers>
+<rewards>
+<reward type="Keys" count="10"/>
+<reward type="Rubies" count="10"/>
+</rewards>
+</stage>
+</stages>
+<items>
+<item id="ovr_leftside" stage="0"/>
+<item id="btn_settings" stage="1"/>
+<item id="btn_inventory" stage="5"/>
+<item id="btn_mail" stage="3"/>
+<item id="btn_decorations" stage="14"/>
+<item id="btn_stock" stage="MAX"/>
+<item id="btn_skilltree" stage="14"/>
+<item id="btn_empupgrade" stage="4"/>
+<item id="btn_closeemail" stage="5"/>
+<item id="ovr_money" stage="1"/>
+<item id="ovr_top" stage="1"/>
+<item id="btn_keys" stage="1"/>
+<item id="btn_rubies" stage="13"/>
+<item id="btn_grow" stage="7"/>
+<item id="btn_achievements" stage="7"/>
+<item id="btn_ceoroom" stage="8"/>
+<item id="btn_daily" stage="13"/>
+<item id="ovr_starter" stage="12"/>
+<item id="ovr_rightside" stage="11"/>
+<item id="btn_wheel" stage="14"/>
+<item id="btn_timetravel" stage="13"/>
+</items>
+</tutorial>

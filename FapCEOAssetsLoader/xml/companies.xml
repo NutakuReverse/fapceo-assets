@@ -1,0 +1,102 @@
+<companies>
+<company id="0" background="background0" desk="desk0" chair="chair0" computer="computer0" anchor="anchor1" levelUps="300" unlockedBackground = "bck0"/>
+<company id="1" background="background1" desk="desk1" chair="chair1" computer="computer1" anchor="anchor2" levelUps="700" unlockedBackground = "bck1"/>
+<company id="2" background="background2" desk="desk2" chair="chair2" computer="computer2" anchor="anchor3" levelUps="1100" unlockedBackground = "bck2"/>
+<company id="3" background="background3" desk="desk3" chair="chair3" computer="computer3" anchor="anchor4" levelUps="1600" unlockedBackground = "bck3"/>
+<company id="4" background="background4" desk="desk4" chair="chair4" computer="computer4" anchor="anchor5" levelUps="2100" unlockedBackground = "bck4"/>
+<company id="5" background="background5" desk="desk5" chair="chair5" computer="computer5" anchor="anchor6" levelUps="2600" unlockedBackground = "bck5"/>
+<company id="6" background="background6" desk="desk6" chair="chair6" computer="computer6" anchor="anchor6" levelUps="3200" unlockedBackground = "bck6"/>
+<company id="7" background="background7" desk="desk7" chair="chair7" computer="computer7" anchor="anchor6" levelUps="3800" unlockedBackground = "bck7"/>
+<company id="8" background="background8" desk="desk8" chair="chair8" computer="computer8" anchor="anchor6" levelUps="4200" unlockedBackground = "bck8"/>
+<company id="9" background="background0" desk="desk0" chair="chair0" computer="computer0" anchor="anchor6" levelUps="4400" unlockedBackground = "bck9"/>
+<company id="10" background="background1" desk="desk1" chair="chair1" computer="computer1" anchor="anchor6" levelUps="4500"/>
+<company id="11" background="background2" desk="desk2" chair="chair2" computer="computer2" anchor="anchor6" levelUps="4600"/>
+<company id="12" background="background3" desk="desk3" chair="chair3" computer="computer3" anchor="anchor6" levelUps="4700" />
+<company id="13" background="background9" desk="desk9" chair="chair4" computer="computer4" anchor="anchor6" levelUps="4800" />
+<company id="14" background="background5" desk="desk5" chair="chair5" computer="computer5" anchor="anchor6" levelUps="4900"/>
+<company id="15" background="background6" desk="desk6" chair="chair6" computer="computer6" anchor="anchor6" levelUps="5000"/>
+<company id="16" background="background7" desk="desk7" chair="chair7" computer="computer7" anchor="anchor6" levelUps="5000"/>
+<company id="17" background="background8" desk="desk8" chair="chair8" computer="computer8" anchor="anchor6" levelUps="5000"/>
+<company id="18" background="background0" desk="desk0" chair="chair0" computer="computer0" anchor="anchor6" levelUps="5000"/>
+<company id="19" background="background1" desk="desk1" chair="chair1" computer="computer1" anchor="anchor6" levelUps="5000"/>
+<company id="20" background="background2" desk="desk2" chair="chair2" computer="computer2" anchor="anchor6" levelUps="5000"/>
+<company id="21" background="background3" desk="desk3" chair="chair3" computer="computer3" anchor="anchor6" levelUps="5000"/>
+<company id="22" background="background4" desk="desk4" chair="chair4" computer="computer4" anchor="anchor6" levelUps="5000"/>
+<company id="23" background="background5" desk="desk5" chair="chair5" computer="computer5" anchor="anchor6" levelUps="5000"/>
+<company id="24" background="background6" desk="desk6" chair="chair6" computer="computer6" anchor="anchor6" levelUps="5000"/>
+<company id="25" background="background7" desk="desk7" chair="chair7" computer="computer7" anchor="anchor6" levelUps="5000"/>
+<company id="26" background="background8" desk="desk8" chair="chair8" computer="computer8" anchor="anchor6" levelUps="5000"/>
+<company id="27" background="background0" desk="desk0" chair="chair0" computer="computer0" anchor="anchor6" levelUps="5000"/>
+<company id="28" background="background1" desk="desk1" chair="chair1" computer="computer1" anchor="anchor6" levelUps="5000"/>
+<company id="29" background="background2" desk="desk2" chair="chair2" computer="computer2" anchor="anchor6" levelUps="5000"/>
+<company id="30" background="background3" desk="desk3" chair="chair3" computer="computer3" anchor="anchor6" levelUps="5000"/>
+<company id="31" background="background4" desk="desk4" chair="chair4" computer="computer4" anchor="anchor6" levelUps="5000"/>
+<company id="32" background="background5" desk="desk5" chair="chair5" computer="computer5" anchor="anchor6" levelUps="5000"/>
+<company id="33" background="background6" desk="desk6" chair="chair6" computer="computer6" anchor="anchor6" levelUps="5000"/>
+<company id="34" background="background7" desk="desk7" chair="chair7" computer="computer7" anchor="anchor6" levelUps="5000"/>
+<company id="35" background="background8" desk="desk8" chair="chair8" computer="computer8" anchor="anchor6" levelUps="5000"/>
+<company id="36" background="background0" desk="desk0" chair="chair0" computer="computer0" anchor="anchor6" levelUps="5000"/>
+<company id="37" background="background1" desk="desk1" chair="chair1" computer="computer1" anchor="anchor6" levelUps="5000"/>
+<company id="38" background="background2" desk="desk2" chair="chair2" computer="computer2" anchor="anchor6" levelUps="5000"/>
+<company id="39" background="background3" desk="desk3" chair="chair3" computer="computer3" anchor="anchor6" levelUps="5000"/>
+<company id="40" background="background4" desk="desk4" chair="chair4" computer="computer4" anchor="anchor6" levelUps="5000"/>
+<company id="41" background="background5" desk="desk5" chair="chair5" computer="computer5" anchor="anchor6" levelUps="5000"/>
+<company id="42" background="background6" desk="desk6" chair="chair6" computer="computer6" anchor="anchor6" levelUps="5000"/>
+<company id="43" background="background7" desk="desk7" chair="chair7" computer="computer7" anchor="anchor6" levelUps="5000"/>
+<company id="44" background="background8" desk="desk8" chair="chair8" computer="computer8" anchor="anchor6" levelUps="5000"/>
+<company id="45" background="background0" desk="desk0" chair="chair0" computer="computer0" anchor="anchor6" levelUps="5000"/>
+<company id="46" background="background1" desk="desk1" chair="chair1" computer="computer1" anchor="anchor6" levelUps="5000"/>
+<company id="47" background="background2" desk="desk2" chair="chair2" computer="computer2" anchor="anchor6" levelUps="5000"/>
+<company id="48" background="background3" desk="desk3" chair="chair3" computer="computer3" anchor="anchor6" levelUps="5000"/>
+<company id="49" background="background4" desk="desk4" chair="chair4" computer="computer4" anchor="anchor6" levelUps="5000"/>
+<company id="50" background="background5" desk="desk5" chair="chair5" computer="computer5" anchor="anchor6" levelUps="5000"/>
+<company id="51" background="background6" desk="desk6" chair="chair6" computer="computer6" anchor="anchor6" levelUps="5000"/>
+<company id="52" background="background7" desk="desk7" chair="chair7" computer="computer7" anchor="anchor6" levelUps="5000"/>
+<company id="53" background="background8" desk="desk8" chair="chair8" computer="computer8" anchor="anchor6" levelUps="5000"/>
+<company id="54" background="background0" desk="desk0" chair="chair0" computer="computer0" anchor="anchor6" levelUps="5000"/>
+<company id="55" background="background1" desk="desk1" chair="chair1" computer="computer1" anchor="anchor6" levelUps="5000"/>
+<company id="56" background="background2" desk="desk2" chair="chair2" computer="computer2" anchor="anchor6" levelUps="5000"/>
+<company id="57" background="background3" desk="desk3" chair="chair3" computer="computer3" anchor="anchor6" levelUps="5000"/>
+<company id="58" background="background4" desk="desk4" chair="chair4" computer="computer4" anchor="anchor6" levelUps="5000"/>
+<company id="59" background="background5" desk="desk5" chair="chair5" computer="computer5" anchor="anchor6" levelUps="5000"/>
+<company id="60" background="background6" desk="desk6" chair="chair6" computer="computer6" anchor="anchor6" levelUps="5000"/>
+<company id="61" background="background7" desk="desk7" chair="chair7" computer="computer7" anchor="anchor6" levelUps="5000"/>
+<company id="62" background="background8" desk="desk8" chair="chair8" computer="computer8" anchor="anchor6" levelUps="5000"/>
+<company id="63" background="background0" desk="desk0" chair="chair0" computer="computer0" anchor="anchor6" levelUps="5000"/>
+<company id="64" background="background1" desk="desk1" chair="chair1" computer="computer1" anchor="anchor6" levelUps="5000"/>
+<company id="65" background="background2" desk="desk2" chair="chair2" computer="computer2" anchor="anchor6" levelUps="5000"/>
+<company id="66" background="background3" desk="desk3" chair="chair3" computer="computer3" anchor="anchor6" levelUps="5000"/>
+<company id="67" background="background4" desk="desk4" chair="chair4" computer="computer4" anchor="anchor6" levelUps="5000"/>
+<company id="68" background="background5" desk="desk5" chair="chair5" computer="computer5" anchor="anchor6" levelUps="5000"/>
+<company id="69" background="background6" desk="desk6" chair="chair6" computer="computer6" anchor="anchor6" levelUps="5000"/>
+<company id="70" background="background7" desk="desk7" chair="chair7" computer="computer7" anchor="anchor6" levelUps="5000"/>
+<company id="71" background="background8" desk="desk8" chair="chair8" computer="computer8" anchor="anchor6" levelUps="5000"/>
+<company id="72" background="background0" desk="desk0" chair="chair0" computer="computer0" anchor="anchor6" levelUps="5000"/>
+<company id="73" background="background1" desk="desk1" chair="chair1" computer="computer1" anchor="anchor6" levelUps="5000"/>
+<company id="74" background="background2" desk="desk2" chair="chair2" computer="computer2" anchor="anchor6" levelUps="5000"/>
+<company id="75" background="background3" desk="desk3" chair="chair3" computer="computer3" anchor="anchor6" levelUps="5000"/>
+<company id="76" background="background4" desk="desk4" chair="chair4" computer="computer4" anchor="anchor6" levelUps="5000"/>
+<company id="77" background="background5" desk="desk5" chair="chair5" computer="computer5" anchor="anchor6" levelUps="5000"/>
+<company id="78" background="background6" desk="desk6" chair="chair6" computer="computer6" anchor="anchor6" levelUps="5000"/>
+<company id="79" background="background7" desk="desk7" chair="chair7" computer="computer7" anchor="anchor6" levelUps="5000"/>
+<company id="80" background="background8" desk="desk8" chair="chair8" computer="computer8" anchor="anchor6" levelUps="5000"/>
+<company id="81" background="background0" desk="desk0" chair="chair0" computer="computer0" anchor="anchor6" levelUps="5000"/>
+<company id="82" background="background1" desk="desk1" chair="chair1" computer="computer1" anchor="anchor6" levelUps="5000"/>
+<company id="83" background="background2" desk="desk2" chair="chair2" computer="computer2" anchor="anchor6" levelUps="5000"/>
+<company id="84" background="background3" desk="desk3" chair="chair3" computer="computer3" anchor="anchor6" levelUps="5000"/>
+<company id="85" background="background4" desk="desk4" chair="chair4" computer="computer4" anchor="anchor6" levelUps="5000"/>
+<company id="86" background="background5" desk="desk5" chair="chair5" computer="computer5" anchor="anchor6" levelUps="5000"/>
+<company id="87" background="background6" desk="desk6" chair="chair6" computer="computer6" anchor="anchor6" levelUps="5000"/>
+<company id="88" background="background7" desk="desk7" chair="chair7" computer="computer7" anchor="anchor6" levelUps="5000"/>
+<company id="89" background="background8" desk="desk8" chair="chair8" computer="computer8" anchor="anchor6" levelUps="5000"/>
+<company id="90" background="background0" desk="desk0" chair="chair0" computer="computer0" anchor="anchor6" levelUps="5000"/>
+<company id="91" background="background1" desk="desk1" chair="chair1" computer="computer1" anchor="anchor6" levelUps="5000"/>
+<company id="92" background="background2" desk="desk2" chair="chair2" computer="computer2" anchor="anchor6" levelUps="5000"/>
+<company id="93" background="background3" desk="desk3" chair="chair3" computer="computer3" anchor="anchor6" levelUps="5000"/>
+<company id="94" background="background4" desk="desk4" chair="chair4" computer="computer4" anchor="anchor6" levelUps="5000"/>
+<company id="95" background="background5" desk="desk5" chair="chair5" computer="computer5" anchor="anchor6" levelUps="5000"/>
+<company id="96" background="background6" desk="desk6" chair="chair6" computer="computer6" anchor="anchor6" levelUps="5000"/>
+<company id="97" background="background7" desk="desk7" chair="chair7" computer="computer7" anchor="anchor6" levelUps="5000"/>
+<company id="98" background="background8" desk="desk8" chair="chair8" computer="computer8" anchor="anchor6" levelUps="5000"/>
+</companies>
+

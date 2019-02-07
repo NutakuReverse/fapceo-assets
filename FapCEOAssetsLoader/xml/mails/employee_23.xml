@@ -1,0 +1,404 @@
+<mails employeeId="23">
+<thread id="t23_0" delay="0">
+<mail id="m23_0_0" unlock="OnHire">
+<reply id="r23_0_0a"/>
+<reply id="r23_0_0b"/>
+<reward type="Mail" param="m23_0_1"/>
+</mail>
+<mail id="m23_0_1" unlock="Locked">
+<reply id="r23_0_1a"/>
+<reply id="r23_0_1b"/>
+<reward type="Mail" param="m23_0_2"/>
+</mail>
+<mail id="m23_0_2" unlock="Locked">
+<reply id="r23_0_2a"/>
+<reply id="r23_0_2b"/>
+<reward type="Mail" param="m23_0_3"/>
+</mail>
+<mail id="m23_0_3" unlock="Locked">
+<reply id="r23_0_3a"/>
+<reply id="r23_0_3b"/>
+<reward type="Mail" param="m23_0_4"/>
+</mail>
+<mail id="m23_0_4" unlock="Locked">
+<reply id="r23_0_4a"/>
+<reply id="r23_0_4b"/>
+<reward type="Mail" param="m23_0_5"/>
+</mail>
+<mail id="m23_0_5" unlock="Locked">
+<reply id="r23_0_5a"/>
+<reply id="r23_0_5b"/>
+<reward type="Mail" param="m23_0_6"/>
+</mail>
+<mail id="m23_0_6" unlock="Locked">
+<attachment id="mail/23/dmilopte" />
+<reward type="Thread" param="t23_1"/>
+</mail>
+</thread>
+<thread id="t23_1" delay="60">
+<mail id="m23_1_0" unlock="Instant">
+<reply id="r23_1_0a"/>
+<reply id="r23_1_0b"/>
+<reward type="Mail" param="m23_1_1"/>
+</mail>
+<mail id="m23_1_1" unlock="Locked">
+<reply id="r23_1_1a"/>
+<reply id="r23_1_1b"/>
+<reward type="Mail" param="m23_1_2"/>
+</mail>
+<mail id="m23_1_2" unlock="Locked">
+<reply id="r23_1_2a"/>
+<reply id="r23_1_2b"/>
+<reward type="Mail" param="m23_1_3"/>
+</mail>
+<mail id="m23_1_3" unlock="Locked">
+<reply id="r23_1_3a"/>
+<reply id="r23_1_3b"/>
+<reward type="Mail" param="m23_1_4"/>
+</mail>
+<mail id="m23_1_4" unlock="Locked">
+<reply id="r23_1_4a"/>
+<reply id="r23_1_4b"/>
+<reward type="Mail" param="m23_1_5"/>
+</mail>
+<mail id="m23_1_5" unlock="Locked">
+<reply id="r23_1_5a"/>
+<reply id="r23_1_5b"/>
+<reward type="Mail" param="m23_1_6"/>
+</mail>
+<mail id="m23_1_6" unlock="Locked">
+<reply id="r23_1_6a"/>
+<reply id="r23_1_6b"/>
+<reward type="Mail" param="m23_1_7"/>
+</mail>
+<mail id="m23_1_7" unlock="Locked">
+<reply id="r23_1_7a">
+<requirement type="Item" param="i17" count="10"/>
+</reply>
+<reply id="r23_1_7b">
+<requirement type="Item" param="i18" count="10"/>
+</reply>
+<reward type="Mail" param="m23_1_8"/>
+</mail>
+<mail id="m23_1_8" unlock="Locked">
+<attachment id="mail/23/flpokmnb" />
+<reward type="Thread" param="t23_2"/>
+</mail>
+</thread>
+<thread id="t23_2" delay="600">
+<mail id="m23_2_0" unlock="Instant">
+<reply id="r23_2_0a"/>
+<reply id="r23_2_0b"/>
+<reward type="Mail" param="m23_2_1"/>
+</mail>
+<mail id="m23_2_1" unlock="Locked">
+<reply id="r23_2_1a"/>
+<reply id="r23_2_1b"/>
+<reward type="Mail" param="m23_2_2"/>
+</mail>
+<mail id="m23_2_2" unlock="Locked">
+<reply id="r23_2_2a"/>
+<reply id="r23_2_2b"/>
+<reward type="Mail" param="m23_2_3"/>
+</mail>
+<mail id="m23_2_3" unlock="Locked">
+<reply id="r23_2_3a"/>
+<reply id="r23_2_3b"/>
+<reward type="Mail" param="m23_2_4"/>
+</mail>
+<mail id="m23_2_4" unlock="Locked">
+<reply id="r23_2_4a"/>
+<reply id="r23_2_4b"/>
+<reward type="Mail" param="m23_2_5"/>
+</mail>
+<mail id="m23_2_5" unlock="Locked">
+<reply id="r23_2_5a"/>
+<reply id="r23_2_5b"/>
+<reward type="Mail" param="m23_2_6"/>
+</mail>
+<mail id="m23_2_6" unlock="Locked">
+<reply id="r23_2_6a"/>
+<reply id="r23_2_6b"/>
+<reward type="Mail" param="m23_2_7"/>
+</mail>
+<mail id="m23_2_7" unlock="Locked">
+<reply id="r23_2_7a"/>
+<reply id="r23_2_7b"/>
+<reward type="Mail" param="m23_2_8"/>
+</mail>
+<mail id="m23_2_8" unlock="Locked">
+<reply id="r23_2_8a"/>
+<reply id="r23_2_8b"/>
+<reward type="Mail" param="m23_2_9"/>
+</mail>
+<mail id="m23_2_9" unlock="Locked">
+<reply id="r23_2_9a"/>
+<reply id="r23_2_9b"/>
+<reward type="Mail" param="m23_2_10"/>
+</mail>
+<mail id="m23_2_10" unlock="Locked">
+<reply id="r23_2_10a">
+<requirement type="Item" param="i19" count="10"/>
+</reply>
+<reply id="r23_2_10b">
+<requirement type="Item" param="i16" count="10"/>
+</reply>
+<reward type="Mail" param="m23_2_11"/>
+</mail>
+<mail id="m23_2_11" unlock="Locked">
+<attachment id="mail/23/ghmsewat" />
+<reward type="Thread" param="t23_3"/>
+</mail>
+</thread>
+<thread id="t23_3" delay="3600">
+<mail id="m23_3_0" unlock="Instant">
+<reply id="r23_3_0a"/>
+<reply id="r23_3_0b"/>
+<reward type="Mail" param="m23_3_1"/>
+</mail>
+<mail id="m23_3_1" unlock="Locked">
+<reply id="r23_3_1a"/>
+<reply id="r23_3_1b"/>
+<reward type="Mail" param="m23_3_2"/>
+</mail>
+<mail id="m23_3_2" unlock="Locked">
+<reply id="r23_3_2a"/>
+<reply id="r23_3_2b"/>
+<reward type="Mail" param="m23_3_3"/>
+</mail>
+<mail id="m23_3_3" unlock="Locked">
+<reply id="r23_3_3a"/>
+<reply id="r23_3_3b"/>
+<reward type="Mail" param="m23_3_4"/>
+</mail>
+<mail id="m23_3_4" unlock="Locked">
+<reply id="r23_3_4a"/>
+<reply id="r23_3_4b"/>
+<reward type="Mail" param="m23_3_5"/>
+</mail>
+<mail id="m23_3_5" unlock="Locked">
+<reply id="r23_3_5a"/>
+<reply id="r23_3_5b"/>
+<reward type="Mail" param="m23_3_6"/>
+</mail>
+<mail id="m23_3_6" unlock="Locked">
+<reply id="r23_3_6a"/>
+<reply id="r23_3_6b"/>
+<reward type="Mail" param="m23_3_7"/>
+</mail>
+<mail id="m23_3_7" unlock="Locked">
+<reply id="r23_3_7a"/>
+<reply id="r23_3_7b"/>
+<reward type="Mail" param="m23_3_8"/>
+</mail>
+<mail id="m23_3_8" unlock="Locked">
+<reply id="r23_3_8a"/>
+<reply id="r23_3_8b"/>
+<reward type="Mail" param="m23_3_9"/>
+</mail>
+<mail id="m23_3_9" unlock="Locked">
+<reply id="r23_3_9a"/>
+<reply id="r23_3_9b"/>
+<reward type="Mail" param="m23_3_10"/>
+</mail>
+<mail id="m23_3_10" unlock="Locked">
+<reply id="r23_3_10a">
+<requirement type="Item" param="i17" count="15"/>
+<requirement type="Item" param="i20" count="15"/>
+</reply>
+<reply id="r23_3_10b">
+<requirement type="Item" param="i20" count="15"/>
+<requirement type="Item" param="i18" count="15"/>
+</reply>
+<reward type="Mail" param="m23_3_11"/>
+</mail>
+<mail id="m23_3_11" unlock="Locked">
+<attachment id="mail/23/iolkmnrb" />
+<reward type="Thread" param="t23_4"/>
+</mail>
+</thread>
+<thread id="t23_4" delay="36000">
+<mail id="m23_4_0" unlock="Instant">
+<reply id="r23_4_0a"/>
+<reply id="r23_4_0b"/>
+<reward type="Mail" param="m23_4_1"/>
+</mail>
+<mail id="m23_4_1" unlock="Locked">
+<reply id="r23_4_1a"/>
+<reply id="r23_4_1b"/>
+<reward type="Mail" param="m23_4_2"/>
+</mail>
+<mail id="m23_4_2" unlock="Locked">
+<reply id="r23_4_2a"/>
+<reply id="r23_4_2b"/>
+<reward type="Mail" param="m23_4_3"/>
+</mail>
+<mail id="m23_4_3" unlock="Locked">
+<reply id="r23_4_3a"/>
+<reply id="r23_4_3b"/>
+<reward type="Mail" param="m23_4_4"/>
+</mail>
+<mail id="m23_4_4" unlock="Locked">
+<reply id="r23_4_4a"/>
+<reply id="r23_4_4b"/>
+<reward type="Mail" param="m23_4_5"/>
+</mail>
+<mail id="m23_4_5" unlock="Locked">
+<reply id="r23_4_5a"/>
+<reply id="r23_4_5b"/>
+<reward type="Mail" param="m23_4_6"/>
+</mail>
+<mail id="m23_4_6" unlock="Locked">
+<reply id="r23_4_6a"/>
+<reply id="r23_4_6b"/>
+<reward type="Mail" param="m23_4_7"/>
+</mail>
+<mail id="m23_4_7" unlock="Locked">
+<reply id="r23_4_7a"/>
+<reply id="r23_4_7b"/>
+<reward type="Mail" param="m23_4_8"/>
+</mail>
+<mail id="m23_4_8" unlock="Locked">
+<reply id="r23_4_8a">
+<requirement type="Item" param="i19" count="26"/>
+<requirement type="Item" param="i20" count="25"/>
+</reply>
+<reply id="r23_4_8b">
+<requirement type="Item" param="i20" count="25"/>
+<requirement type="Item" param="i16" count="25"/>
+</reply>
+<reward type="Mail" param="m23_4_9"/>
+</mail>
+<mail id="m23_4_9" unlock="Locked">
+<attachment id="mail/23/jmnagrwc" />
+<reward type="Thread" param="t23_5"/>
+</mail>
+</thread>
+<thread id="t23_5" delay="72000">
+<mail id="m23_5_0" unlock="Instant">
+<reply id="r23_5_0a"/>
+<reply id="r23_5_0b"/>
+<reward type="Mail" param="m23_5_1"/>
+</mail>
+<mail id="m23_5_1" unlock="Locked">
+<reply id="r23_5_1a"/>
+<reply id="r23_5_1b"/>
+<reward type="Mail" param="m23_5_2"/>
+</mail>
+<mail id="m23_5_2" unlock="Locked">
+<reply id="r23_5_2a"/>
+<reply id="r23_5_2b"/>
+<reward type="Mail" param="m23_5_3"/>
+</mail>
+<mail id="m23_5_3" unlock="Locked">
+<reply id="r23_5_3a"/>
+<reply id="r23_5_3b"/>
+<reward type="Mail" param="m23_5_4"/>
+</mail>
+<mail id="m23_5_4" unlock="Locked">
+<reply id="r23_5_4a"/>
+<reply id="r23_5_4b"/>
+<reward type="Mail" param="m23_5_5"/>
+</mail>
+<mail id="m23_5_5" unlock="Locked">
+<reply id="r23_5_5a"/>
+<reply id="r23_5_5b"/>
+<reward type="Mail" param="m23_5_6"/>
+</mail>
+<mail id="m23_5_6" unlock="Locked">
+<reply id="r23_5_6a"/>
+<reply id="r23_5_6b"/>
+<reward type="Mail" param="m23_5_7"/>
+</mail>
+<mail id="m23_5_7" unlock="Locked">
+<reply id="r23_5_7a"/>
+<reply id="r23_5_7b"/>
+<reward type="Mail" param="m23_5_8"/>
+</mail>
+<mail id="m23_5_8" unlock="Locked">
+<reply id="r23_5_8a">
+<requirement type="Item" param="i17" count="30"/>
+<requirement type="Item" param="i19" count="30"/>
+<requirement type="Item" param="i20" count="30"/>
+</reply>
+<reply id="r23_5_8b">
+<requirement type="Item" param="i20" count="30"/>
+<requirement type="Item" param="i16" count="30"/>
+<requirement type="Item" param="i18" count="30"/>
+</reply>
+<reward type="Mail" param="m23_5_9"/>
+</mail>
+<mail id="m23_5_9" unlock="Locked">
+<attachment id="mail/23/polkiubq" />
+<reward type="Thread" param="t23_6"/>
+</mail>
+</thread>
+<thread id="t23_6" delay="180000">
+<mail id="m23_6_0" unlock="Instant">
+<reply id="r23_6_0a"/>
+<reply id="r23_6_0b"/>
+<reward type="Mail" param="m23_6_1"/>
+</mail>
+<mail id="m23_6_1" unlock="Locked">
+<reply id="r23_6_1a"/>
+<reply id="r23_6_1b"/>
+<reward type="Mail" param="m23_6_2"/>
+</mail>
+<mail id="m23_6_2" unlock="Locked">
+<reply id="r23_6_2a"/>
+<reply id="r23_6_2b"/>
+<reward type="Mail" param="m23_6_3"/>
+</mail>
+<mail id="m23_6_3" unlock="Locked">
+<reply id="r23_6_3a"/>
+<reply id="r23_6_3b"/>
+<reward type="Mail" param="m23_6_4"/>
+</mail>
+<mail id="m23_6_4" unlock="Locked">
+<reply id="r23_6_4a"/>
+<reply id="r23_6_4b"/>
+<reward type="Mail" param="m23_6_5"/>
+</mail>
+<mail id="m23_6_5" unlock="Locked">
+<reply id="r23_6_5a"/>
+<reply id="r23_6_5b"/>
+<reward type="Mail" param="m23_6_6"/>
+</mail>
+<mail id="m23_6_6" unlock="Locked">
+<reply id="r23_6_6a"/>
+<reply id="r23_6_6b"/>
+<reward type="Mail" param="m23_6_7"/>
+</mail>
+<mail id="m23_6_7" unlock="Locked">
+<reply id="r23_6_7a"/>
+<reply id="r23_6_7b"/>
+<reward type="Mail" param="m23_6_8"/>
+</mail>
+<mail id="m23_6_8" unlock="Locked">
+<reply id="r23_6_8a"/>
+<reply id="r23_6_8b"/>
+<reward type="Mail" param="m23_6_9"/>
+</mail>
+<mail id="m23_6_9" unlock="Locked">
+<reply id="r23_6_9a"/>
+<reply id="r23_6_9b"/>
+<reward type="Mail" param="m23_6_10"/>
+</mail>
+<mail id="m23_6_10" unlock="Locked">
+<reply id="r23_6_10a">
+<requirement type="Item" param="i17" count="35"/>
+<requirement type="Item" param="i19" count="35"/>
+<requirement type="Item" param="i20" count="40"/>
+</reply>
+<reply id="r23_6_10b">
+<requirement type="Item" param="i20" count="40"/>
+<requirement type="Item" param="i16" count="35"/>
+<requirement type="Item" param="i18" count="35"/>
+</reply>
+<reward type="Mail" param="m23_6_11"/>
+</mail>
+<mail id="m23_6_11" unlock="Locked">
+<attachment id="mail/23/roplkmnb" />
+</mail>
+</thread>
+</mails>

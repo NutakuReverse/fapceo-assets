@@ -1,0 +1,21 @@
+<mails>
+    <mail   id="m00"
+            index="0"
+            employeeId="1"
+            attachmentId="mail/attpicture_0"/>
+
+    <mail   id="m01"
+            index="1"
+            employeeId="1"
+            attachmentId="mail/attpicture_1"/>
+
+    <mail   id="m02"
+            index="2"
+            employeeId="1"
+            attachmentId="mail/attpicture_2"/>
+
+    <mail   id="m03"
+            index="3"
+            employeeId="1"
+            attachmentId="mail/attpicture_3"/>
+</mails>

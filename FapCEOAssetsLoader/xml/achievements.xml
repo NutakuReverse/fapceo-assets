@@ -1,0 +1,94 @@
+<achievements>							
+	<achievement type="WorkerLevel" id="ach_0">							
+	  <step id="ach_0_0" target="25">		<rewards>      <reward type="Rubies" count="1"/>    </rewards>  </step>							
+	  <step id="ach_0_1" target="100">		<rewards>      <reward type="Rubies" count="2"/>    </rewards>  </step>							
+	  <step id="ach_0_2" target="500">		<rewards>      <reward type="Rubies" count="3"/>    </rewards>  </step>							
+	  <step id="ach_0_3" target="1000">		<rewards>      <reward type="Rubies" count="4"/>    </rewards>  </step>							
+	  <step id="ach_0_4" target="2500">		<rewards>      <reward type="Rubies" count="5"/>    </rewards>  </step>							
+	</achievement>							
+	<achievement type="CoinsOwned" id="ach_1">							
+	  <step id="ach_1_0" target="100000">		<rewards>      <reward type="Rubies" count="1"/>    </rewards>  </step>							
+	  <step id="ach_1_1" target="1000000000">	<rewards>      <reward type="Rubies" count="2"/>    </rewards>  </step>							
+	  <step id="ach_1_2" target="1E+25">		<rewards>      <reward type="Rubies" count="3"/>    </rewards>  </step>							
+	  <step id="ach_1_3" target="1E+50">		<rewards>      <reward type="Rubies" count="4"/>    </rewards>  </step>							
+	  <step id="ach_1_4" target="1E+100">		<rewards>      <reward type="Rubies" count="5"/>    </rewards>  </step>							
+	</achievement>							
+	<achievement type="CoinsClicked" id="ach_2">							
+	  <step id="ach_2_0" target="1000">		<rewards>      <reward type="Rubies" count="1"/>    </rewards>  </step>							
+	  <step id="ach_2_1" target="10000">		<rewards>      <reward type="Rubies" count="2"/>    </rewards>  </step>							
+	  <step id="ach_2_2" target="100000">		<rewards>      <reward type="Rubies" count="3"/>    </rewards>  </step>							
+	  <step id="ach_2_3" target="1000000">		<rewards>      <reward type="Rubies" count="4"/>    </rewards>  </step>							
+	  <step id="ach_2_4" target="5000000">		<rewards>      <reward type="Rubies" count="5"/>    </rewards>  </step>							
+	</achievement>							
+	<achievement type="SharesOwned" id="ach_3">							
+	  <step id="ach_3_0" target="100">		<rewards>      <reward type="Rubies" count="1"/>    </rewards>  </step>							
+	  <step id="ach_3_1" target="1000">		<rewards>      <reward type="Rubies" count="2"/>    </rewards>  </step>							
+	  <step id="ach_3_2" target="10000">		<rewards>      <reward type="Rubies" count="3"/>    </rewards>  </step>							
+	  <step id="ach_3_3" target="100000">		<rewards>      <reward type="Rubies" count="4"/>    </rewards>  </step>							
+	  <step id="ach_3_4" target="1000000">		<rewards>      <reward type="Rubies" count="5"/>    </rewards>  </step>							
+	</achievement>							
+	<achievement type="CompanyLevel" id="ach_4">							
+	  <step id="ach_4_0" target="2">		<rewards>      <reward type="Rubies" count="1"/>    </rewards>  </step>							
+	  <step id="ach_4_1" target="4">		<rewards>      <reward type="Rubies" count="2"/>    </rewards>  </step>							
+	  <step id="ach_4_2" target="9">		<rewards>      <reward type="Rubies" count="3"/>    </rewards>  </step>							
+	  <step id="ach_4_3" target="24">		<rewards>      <reward type="Rubies" count="4"/>    </rewards>  </step>							
+	  <step id="ach_4_4" target="49">		<rewards>      <reward type="Rubies" count="5"/>    </rewards>  </step>							
+	</achievement>							
+	<achievement type="DecorationsOwned" id="ach_5">							
+	  <step id="ach_5_0" target="1">		<rewards>      <reward type="Rubies" count="1"/>    </rewards>  </step>							
+	  <step id="ach_5_1" target="3">		<rewards>      <reward type="Rubies" count="2"/>    </rewards>  </step>							
+	  <step id="ach_5_2" target="5">		<rewards>      <reward type="Rubies" count="3"/>    </rewards>  </step>							
+	  <step id="ach_5_3" target="10">		<rewards>      <reward type="Rubies" count="4"/>    </rewards>  </step>							
+	  <step id="ach_5_4" target="14">		<rewards>      <reward type="Rubies" count="5"/>    </rewards>  </step>
+      <step id="ach_5_5" target="20">		<rewards>      <reward type="Rubies" count="6"/>    </rewards>  </step>		  
+	</achievement>							
+	<achievement type="ChestsOpened" id="ach_6">							
+	  <step id="ach_6_0" target="10">		<rewards>      <reward type="Rubies" count="1"/>    </rewards>  </step>							
+	  <step id="ach_6_1" target="25">		<rewards>      <reward type="Rubies" count="2"/>    </rewards>  </step>							
+	  <step id="ach_6_2" target="100">		<rewards>      <reward type="Rubies" count="3"/>    </rewards>  </step>							
+	  <step id="ach_6_3" target="500">		<rewards>      <reward type="Rubies" count="4"/>    </rewards>  </step>							
+	  <step id="ach_6_4" target="1000">		<rewards>      <reward type="Rubies" count="5"/>    </rewards>  </step>							
+	</achievement>							
+	<achievement type="WheelSpins" id="ach_7">							
+	  <step id="ach_7_0" target="5">		<rewards>      <reward type="Rubies" count="1"/>    </rewards>  </step>							
+	  <step id="ach_7_1" target="10">		<rewards>      <reward type="Rubies" count="2"/>    </rewards>  </step>							
+	  <step id="ach_7_2" target="25">		<rewards>      <reward type="Rubies" count="3"/>    </rewards>  </step>							
+	  <step id="ach_7_3" target="50">		<rewards>      <reward type="Rubies" count="4"/>    </rewards>  </step>							
+	  <step id="ach_7_4" target="100">		<rewards>      <reward type="Rubies" count="5"/>    </rewards>  </step>							
+	</achievement>							
+	<achievement type="RepliesAnswered" id="ach_8">							
+	  <step id="ach_8_0" target="5">		<rewards>      <reward type="Rubies" count="1"/>    </rewards>  </step>							
+	  <step id="ach_8_1" target="25">		<rewards>      <reward type="Rubies" count="2"/>    </rewards>  </step>							
+	  <step id="ach_8_2" target="50">		<rewards>      <reward type="Rubies" count="3"/>    </rewards>  </step>							
+	  <step id="ach_8_3" target="100">		<rewards>      <reward type="Rubies" count="4"/>    </rewards>  </step>							
+	  <step id="ach_8_4" target="250">		<rewards>      <reward type="Rubies" count="5"/>    </rewards>  </step>							
+	</achievement>							
+	<achievement type="PhotosCollected" id="ach_9">							
+	  <step id="ach_9_0" target="5">		<rewards>      <reward type="Rubies" count="1"/>    </rewards>  </step>							
+	  <step id="ach_9_1" target="10">		<rewards>      <reward type="Rubies" count="2"/>    </rewards>  </step>							
+	  <step id="ach_9_2" target="25">		<rewards>      <reward type="Rubies" count="3"/>    </rewards>  </step>							
+	  <step id="ach_9_3" target="50">		<rewards>      <reward type="Rubies" count="4"/>    </rewards>  </step>							
+	  <step id="ach_9_4" target="100">		<rewards>      <reward type="Rubies" count="5"/>    </rewards>  </step>							
+	</achievement>							
+	<achievement type="StockBought" id="ach_10">							
+	  <step id="ach_10_0" target="10">		<rewards>      <reward type="Rubies" count="1"/>    </rewards>  </step>							
+	  <step id="ach_10_1" target="100">		<rewards>      <reward type="Rubies" count="2"/>    </rewards>  </step>							
+	  <step id="ach_10_2" target="500">		<rewards>      <reward type="Rubies" count="3"/>    </rewards>  </step>							
+	  <step id="ach_10_3" target="1000">		<rewards>      <reward type="Rubies" count="4"/>    </rewards>  </step>							
+	  <step id="ach_10_4" target="5000">		<rewards>      <reward type="Rubies" count="5"/>    </rewards>  </step>							
+	</achievement>
+	<achievement type="TimeTravels" id="ach_11">							
+	  <step id="ach_11_0" target="1440">		<rewards>      <reward type="Rubies" count="1"/>    </rewards>  </step>							
+	  <step id="ach_11_1" target="14400">		<rewards>      <reward type="Rubies" count="2"/>    </rewards>  </step>							
+	  <step id="ach_11_2" target="43200">		<rewards>      <reward type="Rubies" count="3"/>    </rewards>  </step>							
+	  <step id="ach_11_3" target="144000">		<rewards>      <reward type="Rubies" count="4"/>    </rewards>  </step>							
+	  <step id="ach_11_4" target="525600">		<rewards>      <reward type="Rubies" count="5"/>    </rewards>  </step>							
+	</achievement>							
+	<achievement type="MegaClicks" id="ach_12">							
+	  <step id="ach_12_0" target="100">		<rewards>      <reward type="Rubies" count="1"/>    </rewards>  </step>							
+	  <step id="ach_12_1" target="1000">		<rewards>      <reward type="Rubies" count="2"/>    </rewards>  </step>							
+	  <step id="ach_12_2" target="5000">		<rewards>      <reward type="Rubies" count="3"/>    </rewards>  </step>							
+	  <step id="ach_12_3" target="10000">		<rewards>      <reward type="Rubies" count="4"/>    </rewards>  </step>							
+	  <step id="ach_12_4" target="50000">		<rewards>      <reward type="Rubies" count="5"/>    </rewards>  </step>							
+	</achievement>					
+</achievements>						

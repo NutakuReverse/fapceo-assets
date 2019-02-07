@@ -1,0 +1,122 @@
+<decorations>
+<type id="Toys" maxlevel="25" prestige="200" priceBase="1.3" priceOffset="200">
+<decoration id="toy0" stage="1" level="0"/>
+<decoration id="toy1" stage="2" level="10"/>
+<decoration id="toy2" stage="3" level="25"/>
+</type>
+<type id="Sculpture" maxlevel="25" prestige="100" priceBase="1.3" priceOffset="100">
+<decoration id="sculpture0" stage="1" level="0"/>
+<decoration id="sculpture1" stage="2" level="10"/>
+<decoration id="sculpture2" stage="3" level="25"/>
+</type>
+<type id="Plant" maxlevel="25" prestige="100" priceBase="1.25" priceOffset="50">
+<decoration id="plant0" stage="1" level="0"/>
+<decoration id="plant1" stage="2" level="10"/>
+<decoration id="plant2" stage="3" level="25"/>
+</type>
+<type id="Neon" maxlevel="100" prestige="200" priceBase="1.35" priceOffset="200">
+<decoration id="neon0" stage="1" level="0"/>
+<decoration id="neon1" stage="2" level="10"/>
+<decoration id="neon2" stage="3" level="25"/>
+</type>
+<type id="Lamp" maxlevel="100" prestige="100" priceBase="1.17" priceOffset="100">
+<decoration id="lamp0" stage="1" level="0"/>
+<decoration id="lamp1" stage="2" level="10"/>
+<decoration id="lamp2" stage="3" level="25"/>
+</type>
+<type id="Furniture" maxlevel="25" prestige="200" priceBase="1.25" priceOffset="100">
+<decoration id="furniture0" stage="1" level="0"/>
+<decoration id="furniture1" stage="2" level="10"/>
+<decoration id="furniture2" stage="3" level="25"/>
+</type>
+<type id="Trophy" maxlevel="25" prestige="150" priceBase="1.35" priceOffset="100">
+<decoration id="trophy0" stage="1" level="0"/>
+<decoration id="trophy1" stage="2" level="10"/>
+<decoration id="trophy2" stage="3" level="25"/>
+</type>
+<type id="Sport" maxlevel="25" prestige="150" priceBase="1.25" priceOffset="150">
+<decoration id="sport0" stage="1" level="0"/>
+<decoration id="sport1" stage="2" level="10"/>
+<decoration id="sport2" stage="3" level="25"/>
+</type>
+<type id="Music" maxlevel="25" prestige="200" priceBase="1.25" priceOffset="200">
+<decoration id="music0" stage="1" level="0"/>
+<decoration id="music1" stage="2" level="10"/>
+<decoration id="music2" stage="3" level="25"/>
+</type>
+<type id="Couch" maxlevel="25" prestige="200" priceBase="1.17" priceOffset="200">
+<decoration id="couch0" stage="1" level="0"/>
+<decoration id="couch1" stage="2" level="10"/>
+<decoration id="couch2" stage="3" level="25"/>
+</type>
+<type id="Drink" maxlevel="25" prestige="200" priceBase="1.17" priceOffset="50">
+<decoration id="drink0" stage="1" level="0"/>
+<decoration id="drink1" stage="2" level="10"/>
+<decoration id="drink2" stage="3" level="25"/>
+</type>
+<type id="Pot" maxlevel="100" prestige="200" priceBase="1.2" priceOffset="100">
+<decoration id="pot0" stage="1" level="0"/>
+<decoration id="pot1" stage="2" level="10"/>
+<decoration id="pot2" stage="3" level="25"/>
+</type>
+<type id="Pc" maxlevel="5" prestige="200" priceBase="5" priceOffset="100">
+<decoration id="pc0" stage="1" level="0"/>
+<decoration id="pc1" stage="2" level="3"/>
+<decoration id="pc2" stage="3" level="5"/>
+</type>
+<type id="Painting" maxlevel="100" prestige="200" priceBase="1.17" priceOffset="50">
+<decoration id="painting0" stage="1" level="0"/>
+<decoration id="painting1" stage="2" level="10"/>
+<decoration id="painting2" stage="3" level="25"/>
+</type>
+<type id="Carpet" maxlevel="100" prestige="100" priceBase="1.17" priceOffset="200">
+    <decoration id="carpet0" stage="1" level="0"/>
+    <decoration id="carpet1" stage="2" level="10"/>
+    <decoration id="carpet2" stage="3" level="25"/>
+</type>
+<type id="Magazine" maxlevel="100" prestige="100" priceBase="1.17" priceOffset="200">
+    <decoration id="magazine0" stage="1" level="0"/>
+    <decoration id="magazine1" stage="2" level="10"/>
+    <decoration id="magazine2" stage="3" level="25"/>
+</type>
+<type id="Chandelier" maxlevel="100" prestige="100" priceBase="1.17" priceOffset="200">
+    <decoration id="chandelier0" stage="1" level="0"/>
+    <decoration id="chandelier1" stage="2" level="10"/>
+    <decoration id="chandelier2" stage="3" level="25"/>
+</type>
+<type id="Webcam" maxlevel="100" prestige="100" priceBase="1.17" priceOffset="200">
+    <decoration id="webcam0" stage="1" level="0"/>
+    <decoration id="webcam1" stage="2" level="10"/>
+    <decoration id="webcam2" stage="3" level="25"/>
+</type>
+<type id="Wallpaper" maxlevel="100" prestige="100" priceBase="1.17" priceOffset="200">
+    <decoration id="wallpaper0" stage="1" level="0"/>
+    <decoration id="wallpaper1" stage="2" level="10"/>
+    <decoration id="wallpaper2" stage="3" level="25"/>
+</type>
+<type id="FapSupplies" maxlevel="100" prestige="100" priceBase="1.17" priceOffset="200">
+    <decoration id="supply0" stage="1" level="0"/>
+    <decoration id="supply1" stage="2" level="10"/>
+    <decoration id="supply2" stage="3" level="25"/>
+</type>
+<type id="Lingerie" maxlevel="100" prestige="100" priceBase="1.17" priceOffset="200">
+    <decoration id="lingerie0" stage="1" level="0"/>
+    <decoration id="lingerie1" stage="2" level="10"/>
+    <decoration id="lingerie2" stage="3" level="25"/>
+</type> 
+<type id="Bin" maxlevel="100" prestige="100" priceBase="1.17" priceOffset="200">
+    <decoration id="bin0" stage="1" level="0"/>
+    <decoration id="bin1" stage="2" level="10"/>
+    <decoration id="bin2" stage="3" level="25"/>
+</type>
+<type id="Luggage" maxlevel="100" prestige="100" priceBase="1.17" priceOffset="200">
+   <decoration id="luggage0" stage="1" level="0"/>
+   <decoration id="luggage1" stage="2" level="10"/>
+   <decoration id="luggage2" stage="3" level="25"/>
+</type>
+<!--<type id="Picture" maxlevel="100" prestige="100" priceBase="1.17" priceOffset="200">
+    <decoration id="picture0" stage="1" level="0"/>
+    <decoration id="picture1" stage="2" level="10"/>
+    <decoration id="picture2" stage="3" level="25"/>
+</type>  -->
+</decorations>
